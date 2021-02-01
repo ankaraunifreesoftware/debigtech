@@ -89,16 +89,16 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
-# Replacements/alternatives
+# Değiştirmeler/Alternatifler
 
-### *Disclaimer*
+### *Sorumluluk reddi*
 
-1. Only **privacy/security** focused alternatives will be suggested.
-2. Many replacements are based off [this Wikipedia article (List of Google products)][wiki]
-3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
-4. Controversial services will have a disclaimer attached if needed.
-5. [5-eyes, 9-eyes, and 14-eyes][eyes] services will be listed and marked as such. Both the location the company is registered and the server IP are taken into consideration.
-    | Eyes | Countries |
+1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
+2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
+3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Bu, sahip oldukları şirketleri/uygulamaları/servisleri kapsamaktadır.
+4. Tartışmalı servisler gerekirse bir sorumluluk reddi içerecektir.
+5. [5-eyes, 9-eyes, and 14-eyes][eyes] servisler listelenip belirtilecektir. Hem firmanın kayıtlı olduğu ülke hem de sunucu IP'si göz önüne alınacaktır.
+    | Eyes | Ülkeler |
     | :--: | :---------: |
     | **5** | Australia, Canada, New Zealand, UK, USA |
     | **9** | Denmark, France, Netherlands, Norway |
@@ -106,6 +106,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
 [eyes]: https://www.privacytools.io/providers/#ukusa
+
 
 ## Web-based products
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
