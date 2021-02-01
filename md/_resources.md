@@ -1,9 +1,9 @@
-## Resources
+## Kaynaklar
 
-Everything you need to become a Privacy Wizard.
+Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
-- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
-- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
+- [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
 - [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
 - [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
@@ -34,4 +34,4 @@ Everything you need to become a Privacy Wizard.
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
 - Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
-- Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
+- Hâlâ [wiki](https://old.reddit.com/r/privacy/wiki/index)'yi okumadınız mı? yet? Okuyun.
