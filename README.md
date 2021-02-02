@@ -872,37 +872,39 @@ No known alternatives.
 
 Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
+***Not: Buradaki çoğu makale İngilizcedir.***
+
 - [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
 - [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
-- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (@mynamesleon'a teşekkürler)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). (@NicolasPA'a teşekkürler)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
-- [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
-- Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
+- [Nasıl güçlü bir şifre oluşturmalı (ve hatırlamalıyız)](https://outline.com/dqfuqL)
+- [Bitwarden](https://bitwarden.com) gibi bir [şifre yöneticisi](https://outline.com/NC69FD) kullanın.
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
 - Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [5-eyes, 9-eyes, and 14-eyes nedir?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
-- [What is Tor and should I use it?](https://outline.com/JRCscH)
+- [Tor nedir ve kullanmalı mıyım?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
 - The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
 - Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
 - [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
-- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Thanks @resynth1943)
+- [DNS nedir ve değiştirmeli miyim?](https://outline.com/8jsWXw) Sizin için en hızlısının hangisi olduğunu görmek [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) 'i kullanın. (@resynth1943'e teşekkürler)
 - What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
-- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
-- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
-- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
-- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
-- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
-- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
+- [Burada](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) çok güvenli bir Linux workstation oluşturmak için gayet güzel bir rehber var.  (u/aoeudhtns'e teşekkürler)
+- [Çevrimiçi gizlilik konusunda bilinç oluşturma amaçlı bir site](https://theytrackyou.com/). Burada çok sayıda güzel öneriler var. (u/brais33'e teşekkürler)
+- [Android gizlilik rehberi](https://gitlab.com/Attedz/AndroidPrivacyGuide) (u/rightknobhead'a teşekkürler)
+- [Windows 10 gizlilik rehberi](https://fdossena.com/?p=w10debotnet/index_1903.frag) (u/rightknobhead'a tekrardan teşekkürler)
+- [Prism Break](https://prism-break.org/en/)'e bakın. (u/FrontierPsycho'a teşekkürler)
+- [Linux kullanıcıları için](https://github.com/wesaphzt/block-all-google) ağ seviyesinde Google'ı engellemek için bir rehber. Bu yöntem büyük ihtimalle Google servisleri tabanlı diğer alternatiflerin çalışmasını bozacaktır. (u/wesaphzt'a teşekkürler)
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
-- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
+- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (u/rudolf323'a teşekkürler)
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
 - Hâlâ [wiki](https://old.reddit.com/r/privacy/wiki/index)'yi okumadınız mı? yet? Okuyun.
 
