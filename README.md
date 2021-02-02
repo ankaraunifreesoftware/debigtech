@@ -16,11 +16,11 @@
 
 
 
-# Cutting Google out of your life
+# Google'ı hayatınızdan çıkarmak
 
-### *I don't have anything to hide, but I don't have anything to show you either.*
+### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%201st%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%202nd%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -28,24 +28,25 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
 
 
-# Index
+# İçindekiler
 
-1. [Contributing](#contributing)
+1. [Katkıda Bulunmak](#katkıda-bulunmak)
 2. [Browser extensions](#browser-extensions)
-3. **[Replacements/alternatives](#replacementsalternatives)**
-    1. [Disclaimer](#disclaimer)
+3. **[Değiştirmeler/Alternatifler](#değiştirmeleralternatifler)**
+    1. [Sorumluluk reddi](#sorumluluk-reddi)
     2. [Web-based products](#web-based-products)
     3. [Operating systems](#operating-systems)
     4. [Desktop applications](#desktop-apps)
     5. [Mobile applications](#mobile-apps)
     6. [Hardware](#hardware)
 4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
-    1. [Resources](#resources)
+    1. [Kaynaklar](#kaynaklar)
     1. [Books](#books)
     1. [Blog posts](#blog-posts)
     1. [News articles](#news-articles)
 5. [The lighter side](#the-lighter-side)
-6. [Closing remarks](#closing-remarks)
+6. [Son sözler](#son-sözler)
+
 
 # Katkıda Bulunmak
 
@@ -65,8 +66,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Name | Description |
 | ---- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
-| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin sadece bir "reklam engelleyici" değil, asıl önceliği CPU ve hafıza verimliliği olan geniş ölçekli bir içerik engelleyicidir. |
+| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger görünmez takipçileri engellemeyi otomatik olarak öğrenir. Neyi engelleyeceğini listeler hâlinde tutmak yerine, Privacy Badger hangi alan adlarının Web'de gezindiğin sırada seni takip ettiğini izleyerek öğrenir. |
 | [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
 | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
@@ -89,16 +90,16 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
-# Replacements/alternatives
+# Değiştirmeler/Alternatifler
 
-### *Disclaimer*
+### *Sorumluluk reddi*
 
-1. Only **privacy/security** focused alternatives will be suggested.
-2. Many replacements are based off [this Wikipedia article (List of Google products)][wiki]
-3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
-4. Controversial services will have a disclaimer attached if needed.
-5. [5-eyes, 9-eyes, and 14-eyes][eyes] services will be listed and marked as such. Both the location the company is registered and the server IP are taken into consideration.
-    | Eyes | Countries |
+1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
+2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
+3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Bu, sahip oldukları şirketleri/uygulamaları/servisleri kapsamaktadır.
+4. Tartışmalı servisler gerekirse bir sorumluluk reddi içerecektir.
+5. [5-eyes, 9-eyes, and 14-eyes][eyes] servisler listelenip belirtilecektir. Hem firmanın kayıtlı olduğu ülke hem de sunucu IP'si göz önüne alınacaktır.
+    | Eyes | Ülkeler |
     | :--: | :---------: |
     | **5** | Australia, Canada, New Zealand, UK, USA |
     | **9** | Denmark, France, Netherlands, Norway |
@@ -106,6 +107,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
 [eyes]: https://www.privacytools.io/providers/#ukusa
+
 
 ## Web-based products
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
