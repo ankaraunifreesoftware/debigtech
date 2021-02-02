@@ -16,9 +16,9 @@
 
 
 
-# Cutting Google out of your life
+# Google'ı hayatınızdan çıkarmak
 
-### *I don't have anything to hide, but I don't have anything to show you either.*
+### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
 ![Updated](https://img.shields.io/static/v1?label=updated&message={{DATE}}&color=388E3C&style=flat-square)
 
