@@ -1,17 +1,17 @@
-# The lighter side
+# Daha iyi taraflar
 
-- Movies & TV:
-  - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. Directed by Oliver Stone.
-  - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
-  - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
-  - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
-  - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
+- Filmler & TV:
+  - *Snowden (2016)* - CIA/NSA/vb. muhbiri olan Edward Snowden'in hayat hikayesini ele alıyor. Oliver Stone tarafından yönetildi.
+  - *Deep Web (2015)* - Keanu Reeves'in seslendirdiği, Ross Ulbritch nam-ı diğer Korkulu Korsan Roberts (Dread Pirate Roberts)'in hayatını ve ünlü olmayan "İpek Yolu" (Silk Road) dark marketi ele alıyor. Alex Winter tarafından yönetildi.
+  - *The Great Hack (2019)* - Facebook-Cambridge Analytica veri skandalı hakkında bir belgesel. (@woutfeys'e teşekkürler)
+  - *Mr. Robot* - Rami Malek'in başrolde oynadığı hacker-dizisi. Yapımcıları diziyi en doğru şekilde anlatabilmek için danışman olarak gerçek hayattaki hackerları aldılar ve gerçek hayatta kullanılan programlar kullanıldı.
+  - *Silicon Valley* - Silikon Vadisi'ndeki bir startup'un başlamakta zorlanmasıyla alakalı bir satirik teknoloji komedisi.
   - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
-- Podcasts:
-  - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
+- Podcastler:
+  - [Darknet Diaries](https://darknetdiaries.com/) (Jack Rhysider tarafından) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
   - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
-  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
-- Other:
-  - [xkcd](https://xkcd.com/) - They have comics for *everything*.
-  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
+  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (u/Abaddon182'a teşekkürler)
+- Diğer:
+  - [xkcd](https://xkcd.com/) - *Her şey* için karikatürleri var.
+  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
