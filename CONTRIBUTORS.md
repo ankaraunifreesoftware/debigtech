@@ -68,6 +68,7 @@ GitHub:
 - [@codedust](https://github.com/codedust)
 - [@shivasagarrao](https://github.com/shivasagarrao)
 - [@0xflotus](https://github.com/0xflotus)
+- [@melikechan](https://github.com/melikechan) (translation to Turkish)
 
 Reddit:
 
