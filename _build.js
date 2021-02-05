@@ -102,7 +102,7 @@ function generateServiceSection(data) {
     let serviceSection = `#### ${data[0].title + os.EOL + os.EOL}`;
     let notes = os.EOL + '';
     // If there is data to be displayed, add the start of a Markdown table
-    let tableHeader = `| Name | Eyes | Description |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
+    let tableHeader = `| Ad | Eyes | Açıklama |${os.EOL}| ---- | ---- | ----------- |${os.EOL}`;
     if (data.filter(d => 'name' in d).length == 0) tableHeader = `No known alternatives.${os.EOL}`;
     serviceSection = serviceSection.concat(tableHeader);
     // Iterate over each alternative service and add it to the table
@@ -161,7 +161,7 @@ function dateBadge(date) {
  * Generates a table with browser extensions and their descriptions
  */
 function generateBrowserExtensions() {
-    let extensions = `# Browser extensions${os.EOL + os.EOL}| Name | Description |${os.EOL}| ---- | ----------- |${os.EOL}`;
+    let extensions = `# Tarayıcı eklentileri${os.EOL + os.EOL}| Ad | Açıklama |${os.EOL}| ---- | ----------- |${os.EOL}`;
     let data = YAML.parse(fs.readFileSync(path.join(__dirname, 'yaml/browserExtensions.yml')).toString());
     data.forEach(item => {
         let name = `[${item.name}](${item.url})`;
@@ -182,7 +182,7 @@ function generateBrowserExtensions() {
  * @param {String} filename 
  */
 function generatePublications(title, filename) {
-    let publications = `## ${title} ${os.EOL + BACK_TO_TOP + os.EOL + os.EOL}| Title | Published | Author |${os.EOL}| ----- | --------- | ------ |${os.EOL}`;
+    let publications = `## ${title} ${os.EOL + BACK_TO_TOP + os.EOL + os.EOL}| Başlık | Yayınlandığı yıl | Yazar |${os.EOL}| ----- | --------- | ------ |${os.EOL}`;
     let data = YAML.parse(fs.readFileSync(path.join(__dirname, `yaml/${filename}.yml`)).toString());
     data.forEach(item => {
         let name = `[${item.title}](${item.url})`;
