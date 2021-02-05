@@ -62,9 +62,9 @@ Eğer bu projeye katkıda bulunmak istiyorsanız, buradaki bazı fikirlerden yar
 Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)'deki kurallara uyunuz**.
 
 
-# Browser extensions
+# Tarayıcı eklentileri
 
-| Name | Description |
+| Ad | Açıklama |
 | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin sadece bir "reklam engelleyici" değil, asıl önceliği CPU ve hafıza verimliliği olan geniş ölçekli bir içerik engelleyicidir. |
 | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger görünmez takipçileri engellemeyi otomatik olarak öğrenir. Neyi engelleyeceğini listeler hâlinde tutmak yerine, Privacy Badger hangi alan adlarının Web'de gezindiğin sırada seni takip ettiğini izleyerek öğrenir. |
@@ -114,7 +114,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Search (Web & Images)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
@@ -132,7 +132,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### YouTube
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation. |
 | [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
@@ -148,7 +148,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### News
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
@@ -158,7 +158,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Groups
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Sympa](https://www.sympa.org/) |  | Sympa is an [open-source](https://github.com/sympa-community/sympa) mailing list manager. It provides advanced features with a rich and secure web interface. |
 | [GNU Mailman](https://list.org/) |  | Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. |
@@ -170,7 +170,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Translate
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 | [Apertium](https://apertium.org/) |  | A free, [open-source](https://github.com/apertium/apertium) translation system. |
@@ -179,7 +179,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Google Ads/AdMob/AdSense
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
 
@@ -187,7 +187,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Google Alerts
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
 
@@ -195,7 +195,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### G Suite (enterprise cloud)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 | [Open-Xchange](https://www.open-xchange.com) |  | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
@@ -204,7 +204,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Blogger/Sites
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Joomla](https://www.joomla.org/) |  | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
 | [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
@@ -219,7 +219,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Analytics
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (thanks u/Newblik) |
 | [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
@@ -240,7 +240,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Photos
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Photoprism](https://photoprism.pro/) |  | Self-hosted and [open-source](https://github.com/photoprism/photoprism) Personal Photo Management powered by Go and Google TensorFlow. |
 | [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and [open-source](https://github.com/hooram/ownphotos) Google Photos alternative. |
@@ -254,7 +254,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Calendar
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |  | Developed by Mozilla Foundation and [open-source](https://www.thunderbird.net/en-US/get-involved/). Integrates into Thunderbird and SeaMonkey. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
@@ -269,7 +269,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Docs/Sheets/Slides (cloud)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [CryptPad](https://cryptpad.fr/) | **9-eyes** | [Open-source](https://github.com/xwiki-labs/cryptpad) "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
 | [Etherpad](https://etherpad.org/) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's [open-source](https://github.com/ether) and you have full control over who can see your data. |
@@ -282,7 +282,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Docs/Sheets/Slides (offline)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [LibreOffice](https://www.libreoffice.org/) |  | [Open-source](https://www.libreoffice.org/about-us/source-code/) offline document suites. |
 | [LyX](https://www.lyx.org/) |  | It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
@@ -294,7 +294,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Domains
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
@@ -304,7 +304,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Drive
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [ownCloud](https://owncloud.org/) |  | [Open-source](https://github.com/owncloud) and self-hosted. Provide your own storage. |
 | [Nextcloud](https://nextcloud.com/) |  | Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre) |
@@ -323,7 +323,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Hangouts (text/video messaging)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
@@ -342,7 +342,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Gmail (mail service)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/) |  | A free and [open-source](https://github.com/forwardemail) email forwarding service focused on a user's right to privacy. |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
@@ -367,7 +367,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Keep
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) |  | [Open-source](https://github.com/laurent22/joplin) notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
@@ -381,7 +381,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Play Music, Movies, & TV
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Jellyfin](https://jellyfin.org/) |  | [Open-source](https://github.com/jellyfin) alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is). |
 | [Funkwhale](https://funkwhale.audio/) |  | Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals) |
@@ -397,7 +397,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Fonts
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host [open-source](https://github.com/majodev/google-webfonts-helper) fonts from Google Fonts |
@@ -407,7 +407,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Classroom
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Moodle](https://moodle.org/) |  | Self-hosted [open-source](https://github.com/moodle/moodle) Classroom software for schools. Very powerful. Thanks @jankapunkt |
 | [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted [open-source](https://github.com/ILIAS-eLearning/ILIAS) classroom software. Thanks again to @jankapunkt |
@@ -417,7 +417,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Maps/Street View
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
 | [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
@@ -427,7 +427,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 #### Transit
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Transportr](https://transportr.app/) |  | An [open-source](https://github.com/grote/Transportr) Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
 
@@ -441,7 +441,7 @@ No known alternatives.
 
 #### Forms
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [BlockSurvey](https://blocksurvey.io/) |  | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
 
@@ -454,7 +454,7 @@ No known alternatives.
 
 #### Android/Fuchsia
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | [Open-source](https://github.com/lineageos) and based on Android, but without the crap. |
@@ -471,7 +471,7 @@ No known alternatives.
 
 #### Chrome OS
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [GalliumOS](https://galliumos.org/) |  | "A fast and lightweight Linux distro for ChromeOS devices". Based on Xubuntu. |
 | [Qubes OS](https://www.qubes-os.org/) |  | "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it. |
@@ -487,7 +487,7 @@ No known alternatives.
 
 #### Wear OS
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) [open-source](https://github.com/AsteroidOS/) alternative for Wear OS. Make sure you buy a watch that supports it! |
 
@@ -501,7 +501,7 @@ No known alternatives.
 
 #### Android TV
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
 | [OSMC](https://osmc.tv/) |  | Free, [open-source](https://github.com/osmc/osmc) media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
@@ -515,7 +515,7 @@ No known alternatives.
 
 #### Chrome
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
@@ -527,7 +527,7 @@ No known alternatives.
 
 #### Earth
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
 
@@ -535,7 +535,7 @@ No known alternatives.
 
 #### Android Studio (not specifically for Android development, just in general)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
 | [Vim](https://www.vim.org/) |  | [Open-source](https://github.com/vim/vim) text editor. Thanks @moon-chilled |
@@ -551,7 +551,7 @@ No known alternatives.
 
 #### Play Store
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
 | [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) [![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
@@ -567,7 +567,7 @@ No known alternatives.
 
 #### Chrome (Android)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/) |  | Privacy-focused/[open-source](https://github.com/bromite/bromite) build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
@@ -576,7 +576,7 @@ No known alternatives.
 
 #### Calculator
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | [Open-source](https://github.com/tranleduy2000/ncalc) feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
@@ -586,7 +586,7 @@ No known alternatives.
 
 #### Calendar
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [DAVx⁵](https://www.davx5.com/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.davdroid/) |  | DAVx⁵ is an [open-source](https://gitlab.com/bitfireAT/davx5-ose) CalDAV/CardDAV suite and sync app for Android. |
 | [ICSx⁵](https://icsx5.bitfire.at/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.icsdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.icsdroid/) |  | ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv |
@@ -598,7 +598,7 @@ No known alternatives.
 
 #### Camera
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | [Open-source](https://sourceforge.net/p/opencamera/code/ci/master/tree/) camera for Android. Thanks @je-vv |
 
@@ -606,7 +606,7 @@ No known alternatives.
 
 #### Clock
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | [Open-source](https://github.com/philliphsu/ClockPlus) Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
@@ -616,7 +616,7 @@ No known alternatives.
 
 #### Contacts
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | [Open-source](https://github.com/SimpleMobileTools/Simple-Contacts). Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
@@ -627,7 +627,7 @@ No known alternatives.
 
 #### Android Messages (specifically SMS/MMS, not IM)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | [Open-source](https://github.com/moezbhatti/qksms). Very clean and feature rich SMS app. Available on F-Droid. |
 | [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | [Open-source](https://silence.im/contribute/) and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
@@ -637,7 +637,7 @@ No known alternatives.
 
 #### Gboard (Google Keyboard)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard?style=flat-square)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | [Open-source](https://github.com/AnySoftKeyboard/AnySoftKeyboard) keyboard. Available on F-Droid. |
 | [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard?style=flat-square)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also [open-source](https://github.com/klausw/hackerskeyboard). Very useful for developers or sysadmins on the go. |
@@ -650,7 +650,7 @@ No known alternatives.
 
 #### Drive
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android?style=flat-square)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
 | [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client?style=flat-square)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
@@ -660,7 +660,7 @@ No known alternatives.
 
 #### Gmail (smartphone app)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
 | [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
@@ -674,7 +674,7 @@ No known alternatives.
 
 #### Keep (or any stock note-taking app)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad?style=flat-square)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | [Open-source](https://github.com/farmerbb/Notepad). Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
 | [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
@@ -690,7 +690,7 @@ No known alternatives.
 
 #### Maps/Waze
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | [Open-source](https://gitlab.com/axet/omim) navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
@@ -701,7 +701,7 @@ No known alternatives.
 
 #### News
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | [Open-source](https://github.com/FredJul/Flym) Material Design RSS reader. |
 | [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
@@ -710,7 +710,7 @@ No known alternatives.
 
 #### Photos
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
 | [Stingle Photos](https://stingle.org/) | **5-eyes** | A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage. |
@@ -726,7 +726,7 @@ No known alternatives.
 
 #### YouTube
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful [open-source](https://github.com/TeamNewPipe/NewPipe/) YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
@@ -735,7 +735,7 @@ No known alternatives.
 
 #### Authenticator
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | [Open-source](https://github.com/andOTP/andOTP) 2FA app. |
 | [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus?style=flat-square)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
@@ -747,7 +747,7 @@ No known alternatives.
 
 #### Play Music/Play Movies & TV
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An [open-source](https://github.com/nvllsvm/Audinaut) Airsonic client for Android. |
 | [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid. |
@@ -756,7 +756,7 @@ No known alternatives.
 
 #### Hangouts
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Keybase](https://keybase.io/) | **5-eyes** | Encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An [open-source](https://github.com/inputmice/Conversations) Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
@@ -771,7 +771,7 @@ No known alternatives.
 
 #### Duo (video calls)
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
@@ -780,7 +780,7 @@ No known alternatives.
 
 #### Assistant
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
 | [Ara](https://github.com/FultonBrowne/Ara-android) |  | [Open-source](https://github.com/FultonBrowne/Ara-android) virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara) |
@@ -789,7 +789,7 @@ No known alternatives.
 
 #### Play Services Framework
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
 
@@ -797,7 +797,7 @@ No known alternatives.
 
 #### Android home screen launchers
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | [Open-source](https://github.com/amirzaidi/Shade) Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
 | [Omega](https://github.com/otakuhqz/omega) |  | [Open-source](https://github.com/otakuhqz/omega) launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega. |
@@ -808,7 +808,7 @@ No known alternatives.
 
 #### *Other*
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and [open-source](https://github.com/blokadaorg/blokada)." Uses internal VPN on Android to block ads. |
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
@@ -822,7 +822,7 @@ No known alternatives.
 
 #### Nexus/Pixel
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
 | [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
@@ -832,7 +832,7 @@ No known alternatives.
 
 #### Chromebook
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
 | [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
@@ -842,7 +842,7 @@ No known alternatives.
 
 #### Chromecast
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
 
@@ -850,7 +850,7 @@ No known alternatives.
 
 #### Google Home
 
-| Name | Eyes | Description |
+| Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Mycroft](https://mycroft.ai/) | **5-eyes** | [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
 | [Home Assistant](https://www.home-assistant.io/) |  | [Open-source](https://github.com/home-assistant/) home automation. (thanks u/bilange) |
@@ -912,7 +912,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 ## Kitaplar 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-| Title | Published | Author |
+| Başlık | Yayınlandığı yıl | Yazar |
 | ----- | --------- | ------ |
 | [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Edward Snowden |
 | [Ten Arguments for Deleting Your Social Media Accounts Right Now](http://www.jaronlanier.com/tenarguments.html) | ![Published](https://img.shields.io/badge/2018-informational?style=flat-square) | Jaron Lanier |
@@ -924,7 +924,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 ## Blog gönderileri 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-| Title | Published | Author |
+| Başlık | Yayınlandığı yıl | Yazar |
 | ----- | --------- | ------ |
 | [Google Chrome’s users take a back seat to its bottom line](https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line) | ![Published](https://img.shields.io/badge/2018--11--01-informational?style=flat-square) | Bennett Cyphers and Mitch Stoltz - EFF |
 | [Quitting Facebook & Google](https://medium.com/@natematias/https-medium-com-natematias-quitting-facebook-google-aaf8f4c80fbf) | ![Published](https://img.shields.io/badge/2018--12--08-informational?style=flat-square) | J. Nathan Matias |
@@ -934,7 +934,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 ## Haberler 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-| Title | Published | Author |
+| Başlık | Yayınlandığı yıl | Yazar |
 | ----- | --------- | ------ |
 | [Google Can Survive Too Much Innovation. You Can't.](https://outline.com/pwWc6B) | ![Published](https://img.shields.io/badge/2012--05--15-informational?style=flat-square) | Robert Sher - Forbes |
 | [The truth about Google's famous '20% time' policy](https://outline.com/SmyHJW) | ![Published](https://img.shields.io/badge/2015--04--17-informational?style=flat-square) | Jillian D'Onfro - Business Insider |
