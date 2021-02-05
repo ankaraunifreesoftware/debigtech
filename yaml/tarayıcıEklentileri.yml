@@ -1,11 +1,11 @@
 - name: uBlock Origin
   url: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
   text: |
-    uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+    uBlock Origin sadece bir "reklam engelleyici" değil, asıl önceliği CPU ve hafıza verimliliği olan geniş ölçekli bir içerik engelleyicidir.
 - name: Privacy Badger
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
   text: |
-    Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.
+    Privacy Badger görünmez takipçileri engellemeyi otomatik olarak öğrenir. Neyi engelleyeceğini listeler hâlinde tutmak yerine, Privacy Badger hangi alan adlarının Web'de gezindiğin sırada seni takip ettiğini izleyerek öğrenir.
 - name: HTTPS Everywhere
   url: https://addons.mozilla.org/en-US/firefox/addon/https-everywhere
   text: |

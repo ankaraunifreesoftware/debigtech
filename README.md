@@ -16,11 +16,11 @@
 
 
 
-# Cutting Google out of your life
+# Google'ı hayatınızdan çıkarmak
 
-### *I don't have anything to hide, but I don't have anything to show you either.*
+### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=December%208th%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%205th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -28,45 +28,46 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
 
 
-# Index
+# İçindekiler
 
-1. [Contributing](#contributing)
+1. [Katkıda Bulunmak](#katkıda-bulunmak)
 2. [Browser extensions](#browser-extensions)
-3. **[Replacements/alternatives](#replacementsalternatives)**
-    1. [Disclaimer](#disclaimer)
+3. **[Değiştirmeler/Alternatifler](#değiştirmeleralternatifler)**
+    1. [Sorumluluk reddi](#sorumluluk-reddi)
     2. [Web-based products](#web-based-products)
     3. [Operating systems](#operating-systems)
     4. [Desktop applications](#desktop-apps)
     5. [Mobile applications](#mobile-apps)
     6. [Hardware](#hardware)
 4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
-    1. [Resources](#resources)
+    1. [Kaynaklar](#kaynaklar)
     1. [Books](#books)
     1. [Blog posts](#blog-posts)
     1. [News articles](#news-articles)
 5. [The lighter side](#the-lighter-side)
-6. [Closing remarks](#closing-remarks)
+6. [Son sözler](#son-sözler)
 
-# Contributing
 
-If you want to help out with the project, here are some ideas (submit **Issues** & **Pull Requests** on the [GitHub page](https://github.com/tycrek/degoogle)):
+# Katkıda Bulunmak
 
-- **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
-- Clean up/improve the Markdown.
-- Provide more information on services with little info or where *help requested!* is shown.
-- Suggest new services or provide info for removing existing services.
-- Host a mirror or clone the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
-- Anything else relating to any part of this guide, whether it's Google related or not.
+Eğer bu projeye katkıda bulunmak istiyorsanız, buradaki bazı fikirlerden yararlanabilirsiniz ([GitHub sayfasındaki](https://github.com/tycrek/degoogle) **Issues** & **Pull Requests**'e gönderiniz):
 
-When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**.
+- **iOS için alternatif uygulamalar** iOS cihazım yok, bu konuda yardım etmeniz beni çok memnun eder.
+- Markdown'u temizlemek/geliştirmek.
+- Az bilgi bulunan hizmetler ya da *help requested! (yardım aranıyor!)* yazan yerlere daha fazla bilgi sağlamak.
+- Yeni hizmetler önermek ya da varolan hizmetleri kaldırmak için nedenler sunmak.
+- Repoyu klonlamak ([repo](https://github.com/tycrek/degoogle)) ya da başka bir yerde hostlamak. Eğer bir yerde yedekte (mirror) tutuyorsanız lütfen bana bildiriniz ki mirrors listesine ekleyebileyim.
+- Google'la alakası olsun ya da olmasın, bu rehberle alakalı herhangi bir şey.
+
+Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)'deki kurallara uyunuz**.
 
 
 # Browser extensions
 
 | Name | Description |
 | ---- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. |
-| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web. |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin sadece bir "reklam engelleyici" değil, asıl önceliği CPU ve hafıza verimliliği olan geniş ölçekli bir içerik engelleyicidir. |
+| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger görünmez takipçileri engellemeyi otomatik olarak öğrenir. Neyi engelleyeceğini listeler hâlinde tutmak yerine, Privacy Badger hangi alan adlarının Web'de gezindiğin sırada seni takip ettiğini izleyerek öğrenir. |
 | [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
 | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
@@ -89,16 +90,16 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
-# Replacements/alternatives
+# Değiştirmeler/Alternatifler
 
-### *Disclaimer*
+### *Sorumluluk reddi*
 
-1. Only **privacy/security** focused alternatives will be suggested.
-2. Many replacements are based off [this Wikipedia article (List of Google products)][wiki]
-3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
-4. Controversial services will have a disclaimer attached if needed.
-5. [5-eyes, 9-eyes, and 14-eyes][eyes] services will be listed and marked as such. Both the location the company is registered and the server IP are taken into consideration.
-    | Eyes | Countries |
+1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
+2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
+3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Bu, sahip oldukları şirketleri/uygulamaları/servisleri kapsamaktadır.
+4. Tartışmalı servisler gerekirse bir sorumluluk reddi içerecektir.
+5. [5-eyes, 9-eyes, and 14-eyes][eyes] servisler listelenip belirtilecektir. Hem firmanın kayıtlı olduğu ülke hem de sunucu IP'si göz önüne alınacaktır.
+    | Eyes | Ülkeler |
     | :--: | :---------: |
     | **5** | Australia, Canada, New Zealand, UK, USA |
     | **9** | Denmark, France, Netherlands, Norway |
@@ -106,6 +107,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 
 [wiki]: https://en.wikipedia.org/wiki/List_of_Google_products
 [eyes]: https://www.privacytools.io/providers/#ukusa
+
 
 ## Web-based products
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
@@ -866,43 +868,45 @@ No known alternatives.
 
 # Useful links, tools, and advice
 
-## Resources
+## Kaynaklar
 
-Everything you need to become a Privacy Wizard.
+Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
-- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
-- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
-- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
+***Not: Buradaki çoğu makale İngilizcedir.***
+
+- [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
+- [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (@mynamesleon'a teşekkürler)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). (@NicolasPA'a teşekkürler)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
 - [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
-- [How to Create a Strong Password (and Remember It)](https://outline.com/dqfuqL)
-- Use a [password manager](https://outline.com/NC69FD) such as [Bitwarden](https://bitwarden.com)
+- [Nasıl güçlü bir şifre oluşturmalı (ve hatırlamalıyız)](https://outline.com/dqfuqL)
+- [Bitwarden](https://bitwarden.com) gibi bir [şifre yöneticisi](https://outline.com/NC69FD) kullanın.
 - Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
 - Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
 - [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
-- [What are 5-eyes, 9-eyes, and 14-eyes?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
+- [5-eyes, 9-eyes, and 14-eyes nedir?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
-- [What is Tor and should I use it?](https://outline.com/JRCscH)
+- [Tor nedir ve kullanmalı mıyım?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
 - The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
 - Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
 - Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
 - [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
 - [Why you should put tape over your webcam](https://outline.com/fYCu98)
-- [What is DNS and why should I change it?](https://outline.com/8jsWXw) Use [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) to see which one is fastest for you. (Thanks @resynth1943)
+- [DNS nedir ve değiştirmeli miyim?](https://outline.com/8jsWXw) Sizin için en hızlısının hangisi olduğunu görmek [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) 'i kullanın. (@resynth1943'e teşekkürler)
 - What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
-- [Here](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) is a really good guide for configuring a super secure Linux workstation (thanks u/aoeudhtns)
-- [A website to raise awareness of online privacy](https://theytrackyou.com/). Lot's of good tips in here (thanks u/brais33)
-- [Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide) (thanks u/rightknobhead)
-- [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1903.frag) (thanks again u/rightknobhead)
-- Check out [Prism Break](https://prism-break.org/en/) (thanks u/FrontierPsycho)
-- [Guide for Linux users](https://github.com/wesaphzt/block-all-google) on blocking everything Google at the network level. This can and probably will break other alternatives that rely on Google to serve content. Thanks u/wesaphzt
+- [Burada](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) çok güvenli bir Linux workstation oluşturmak için gayet güzel bir rehber var.  (u/aoeudhtns'e teşekkürler)
+- [Çevrimiçi gizlilik konusunda bilinç oluşturma amaçlı bir site](https://theytrackyou.com/). Burada çok sayıda güzel öneriler var. (u/brais33'e teşekkürler)
+- [Android gizlilik rehberi](https://gitlab.com/Attedz/AndroidPrivacyGuide) (u/rightknobhead'a teşekkürler)
+- [Windows 10 gizlilik rehberi](https://fdossena.com/?p=w10debotnet/index_1903.frag) (u/rightknobhead'a tekrardan teşekkürler)
+- [Prism Break](https://prism-break.org/en/)'e bakın. (u/FrontierPsycho'a teşekkürler)
+- [Linux kullanıcıları için](https://github.com/wesaphzt/block-all-google) ağ seviyesinde Google'ı engellemek için bir rehber. Bu yöntem büyük ihtimalle Google servisleri tabanlı diğer alternatiflerin çalışmasını bozacaktır. (u/wesaphzt'a teşekkürler)
 - u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
-- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (thanks u/rudolf323)
+- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (u/rudolf323'a teşekkürler)
 - [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
-- Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
+- Hâlâ [wiki](https://old.reddit.com/r/privacy/wiki/index)'yi okumadınız mı? yet? Okuyun.
 
 
 ## Books 
@@ -954,26 +958,26 @@ Everything you need to become a Privacy Wizard.
 | [You Are Now Remotely Controlled](https://outline.com/uzKKcq) | ![Published](https://img.shields.io/badge/2020--01--24-informational?style=flat-square) | Shoshana Zuboff - New York Times |
 
 
-# The lighter side
+# Daha iyi taraflar
 
-- Movies & TV:
-  - *Snowden (2016)* - Based on the true story of Edward Snowden, the CIA/NSA/etc whistleblower. Directed by Oliver Stone.
-  - *Deep Web (2015)* - Documentary (narrated by Keanu Reeves) about Ross Ulbricht aka. Dread Pirate Roberts and the infamous "Silk Road" dark market. Directed by Alex Winter.
-  - *The Great Hack (2019)* - Documentary about the Facebook–Cambridge Analytica data scandal. Thanks @woutfeys
-  - *Mr. Robot* - Hacker-drama starring Rami Malek. Producers hired actual hackers as consultants to ensure the show is as accurate as possible; real-world tools used in the show.
-  - *Silicon Valley* - Satirical tech comedy about a compression startup struggling to take off in Silicon Valley, California.
+- Filmler & TV:
+  - *Snowden (2016)* - CIA/NSA/vb. muhbiri olan Edward Snowden'in hayat hikayesini ele alıyor. Oliver Stone tarafından yönetildi.
+  - *Deep Web (2015)* - Keanu Reeves'in seslendirdiği, Ross Ulbritch nam-ı diğer Korkulu Korsan Roberts (Dread Pirate Roberts)'in hayatını ve ünlü olmayan "İpek Yolu" (Silk Road) dark marketi ele alıyor. Alex Winter tarafından yönetildi.
+  - *The Great Hack (2019)* - Facebook-Cambridge Analytica veri skandalı hakkında bir belgesel. (@woutfeys'e teşekkürler)
+  - *Mr. Robot* - Rami Malek'in başrolde oynadığı hacker-dizisi. Yapımcıları diziyi en doğru şekilde anlatabilmek için danışman olarak gerçek hayattaki hackerları aldılar ve gerçek hayatta kullanılan programlar kullanıldı.
+  - *Silicon Valley* - Silikon Vadisi'ndeki bir startup'un başlamakta zorlanmasıyla alakalı bir satirik teknoloji komedisi.
   - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
-- Podcasts:
-  - [Darknet Diaries](https://darknetdiaries.com/) (by Jack Rhysider) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
+- Podcastler:
+  - [Darknet Diaries](https://darknetdiaries.com/) (Jack Rhysider tarafından) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
   - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
   - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
-  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (Thanks u/Abaddon182)
-- Other:
-  - [xkcd](https://xkcd.com/) - They have comics for *everything*.
-  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
+  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (u/Abaddon182'a teşekkürler)
+- Diğer:
+  - [xkcd](https://xkcd.com/) - *Her şey* için karikatürleri var.
+  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
 
 
-# Closing remarks
+# Son sözler
 
 It's a shame that Google, with their immense resources, power, and influence, don't see the benefits of helping people secure themselves online. Instead, they force people like us to scour the web for alternatives and convince our friends and family to do the same, while they sell off our data to the highest bidder.
 
@@ -981,6 +985,6 @@ Hopefully this guide can serve as a starting point for those new to privacy, or 
 
 Good luck and stay safe!
 
-## Stargazers over time
+## Zamana bağlı olarak yıldızlayanlar
 
-[![Stargazers over time](https://starchart.cc/tycrek/degoogle.svg)](https://starchart.cc/tycrek/degoogle)
+[![Zamana bağlı olarak yıldızlayanlar](https://starchart.cc/tycrek/degoogle.svg)](https://starchart.cc/tycrek/degoogle)

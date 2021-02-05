@@ -1,12 +1,12 @@
-# Contributing
+# Katkıda Bulunmak
 
-If you want to help out with the project, here are some ideas (submit **Issues** & **Pull Requests** on the [GitHub page](https://github.com/tycrek/degoogle)):
+Eğer bu projeye katkıda bulunmak istiyorsanız, buradaki bazı fikirlerden yararlanabilirsiniz ([GitHub sayfasındaki](https://github.com/tycrek/degoogle) **Issues** & **Pull Requests**'e gönderiniz):
 
-- **iOS app alternatives!** I don't have an iOS device to find alternatives with. I would highly appreciate any help with this.
-- Clean up/improve the Markdown.
-- Provide more information on services with little info or where *help requested!* is shown.
-- Suggest new services or provide info for removing existing services.
-- Host a mirror or clone the [repo](https://github.com/tycrek/degoogle). If you host a mirror, let me know and I can add it to the mirrors list.
-- Anything else relating to any part of this guide, whether it's Google related or not.
+- **iOS için alternatif uygulamalar** iOS cihazım yok, bu konuda yardım etmeniz beni çok memnun eder.
+- Markdown'u temizlemek/geliştirmek.
+- Az bilgi bulunan hizmetler ya da *help requested! (yardım aranıyor!)* yazan yerlere daha fazla bilgi sağlamak.
+- Yeni hizmetler önermek ya da varolan hizmetleri kaldırmak için nedenler sunmak.
+- Repoyu klonlamak ([repo](https://github.com/tycrek/degoogle)) ya da başka bir yerde hostlamak. Eğer bir yerde yedekte (mirror) tutuyorsanız lütfen bana bildiriniz ki mirrors listesine ekleyebileyim.
+- Google'la alakası olsun ya da olmasın, bu rehberle alakalı herhangi bir şey.
 
-When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)**.
+Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoogle/blob/master/CONTRIBUTING.md)'deki kurallara uyunuz**.
