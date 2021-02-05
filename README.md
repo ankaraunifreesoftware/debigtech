@@ -109,7 +109,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 [eyes]: https://www.privacytools.io/providers/#ukusa
 
 
-## Web-based products
+## Web-bazlı servisler
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Search (Web & Images)
@@ -449,7 +449,7 @@ No known alternatives.
 
 
 
-## Operating systems
+## İşletim sistemleri
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Android/Fuchsia
@@ -510,7 +510,7 @@ No known alternatives.
 
 
 
-## Desktop apps
+## Bilgisayar uygulamaları
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Chrome
@@ -546,7 +546,7 @@ No known alternatives.
 
 
 
-## Mobile apps
+## Mobil uygulamalar
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Play Store
@@ -817,7 +817,7 @@ No known alternatives.
 
 
 
-## Hardware
+## Donanım
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Nexus/Pixel
@@ -866,7 +866,7 @@ No known alternatives.
 
 
 
-# Useful links, tools, and advice
+# Kullanışlı bağlantılar, araçlar ve tavsiyeler
 
 ## Kaynaklar
 
@@ -909,7 +909,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 - Hâlâ [wiki](https://old.reddit.com/r/privacy/wiki/index)'yi okumadınız mı? yet? Okuyun.
 
 
-## Books 
+## Kitaplar 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
@@ -921,7 +921,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 
 
-## Blog posts 
+## Blog gönderileri 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
@@ -931,7 +931,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
 
 
-## News articles 
+## Haberler 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Title | Published | Author |
