@@ -69,6 +69,7 @@ GitHub:
 - [@shivasagarrao](https://github.com/shivasagarrao)
 - [@0xflotus](https://github.com/0xflotus)
 - [@melikechan](https://github.com/melikechan) (translation to Turkish)
+- [@crazed-translator](https://github.com/crazed-translator) (translation to Turkish)
 
 Reddit:
 
