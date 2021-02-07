@@ -4,7 +4,7 @@
 
 1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
 2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
-3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Bu, sahip oldukları şirketleri/uygulamaları/servisleri kapsamaktadır.
+3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Sahip oldukları şirketleri/uygulamaları/servisleri bunlara dahildir.
 4. Tartışmalı servisler gerekirse bir sorumluluk reddi içerecektir.
 5. [5-eyes, 9-eyes, and 14-eyes][eyes] servisler listelenip belirtilecektir. Hem firmanın kayıtlı olduğu ülke hem de sunucu IP'si göz önüne alınacaktır.
     | Eyes | Ülkeler |
