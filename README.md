@@ -20,7 +20,7 @@
 
 ### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%205th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%207th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -34,17 +34,17 @@
 2. [Browser extensions](#browser-extensions)
 3. **[Değiştirmeler/Alternatifler](#değiştirmeleralternatifler)**
     1. [Sorumluluk reddi](#sorumluluk-reddi)
-    2. [Web-based products](#web-based-products)
-    3. [Operating systems](#operating-systems)
-    4. [Desktop applications](#desktop-apps)
-    5. [Mobile applications](#mobile-apps)
-    6. [Hardware](#hardware)
-4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+    2. [Web tabanlı ürünler](#web-based-products)
+    3. [İşletim sistemleri](#operating-systems)
+    4. [Masaüstü uygulamaları](#desktop-apps)
+    5. [Mobil uygulamaları](#mobile-apps)
+    6. [Donanım](#hardware)
+4. [Faydalı linkler, araçlar ve öneriler](#useful-links-tools-and-advice)
     1. [Kaynaklar](#kaynaklar)
-    1. [Books](#books)
-    1. [Blog posts](#blog-posts)
-    1. [News articles](#news-articles)
-5. [The lighter side](#the-lighter-side)
+    1. [Kitaplar](#books)
+    1. [Blog yazıları](#blog-posts)
+    1. [Haber makaleleri](#news-articles)
+5. [Aydınlık taraf](#the-lighter-side)
 6. [Son sözler](#son-sözler)
 
 
@@ -52,7 +52,7 @@
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, buradaki bazı fikirlerden yararlanabilirsiniz ([GitHub sayfasındaki](https://github.com/tycrek/degoogle) **Issues** & **Pull Requests**'e gönderiniz):
 
-- **iOS için alternatif uygulamalar** iOS cihazım yok, bu konuda yardım etmeniz beni çok memnun eder.
+- **iOS için alternatif uygulamalar**. iOS cihazım yok, bu yüzden bu konuda yardım etmeniz güzel olur.
 - Markdown'u temizlemek/geliştirmek.
 - Az bilgi bulunan hizmetler ya da *help requested! (yardım aranıyor!)* yazan yerlere daha fazla bilgi sağlamak.
 - Yeni hizmetler önermek ya da varolan hizmetleri kaldırmak için nedenler sunmak.
@@ -96,7 +96,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
 2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
-3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Bu, sahip oldukları şirketleri/uygulamaları/servisleri kapsamaktadır.
+3. Microsoft, Apple, Yahoo, Amazon vb. şirketlerin ürünleri geçerli bir sebep olmadıkça **önerilmeyecektir**. Sahip oldukları şirketleri/uygulamaları/servisleri buna dahildir.
 4. Tartışmalı servisler gerekirse bir sorumluluk reddi içerecektir.
 5. [5-eyes, 9-eyes, and 14-eyes][eyes] servisler listelenip belirtilecektir. Hem firmanın kayıtlı olduğu ülke hem de sunucu IP'si göz önüne alınacaktır.
     | Eyes | Ülkeler |
@@ -968,10 +968,10 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
   - *Silicon Valley* - Silikon Vadisi'ndeki bir startup'un başlamakta zorlanmasıyla alakalı bir satirik teknoloji komedisi.
   - *Shoshana Zuboff on surveillance capitalism | VPRO Documentary* - [Invidious instance](https://yewtu.be/watch?v=hIXhnWUmMvw) and [Hooktube](https://hooktube.com/watch?v=hIXhnWUmMvw)
 - Podcastler:
-  - [Darknet Diaries](https://darknetdiaries.com/) (Jack Rhysider tarafından) - Highlights real-life hackers and their stories. Covers privacy topics a fair bit.
-  - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Not specifically privacy, but they cover all sorts of tech news.
-  - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator."
-  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security." (u/Abaddon182'a teşekkürler)
+  - [Darknet Diaries](https://darknetdiaries.com/) (Jack Rhysider tarafından) - Gerçek hayattaki hackerlara ve hikayelerine ışık tutar. Biraz gizlilik konularından da bahseder.
+  - [The WAN Show](https://linustechtips.libsyn.com/) (Linus Tech Tips) - Sadece gizlilik hakkında değil, genel olarak teknolojinin tüm konularından bahsederler.
+  - [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html) - "Bu haftalık yayında dijital dünyada görünmez, siber saldırılara karşı korunaklı ve internette daha iyi bir araştırmacı olma konusunda fikirler sunarız."
+  - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV'den Leo Laporte ve ben her hafta yaklaşık iki saat boyunca kişisel bilişim güvenliğindeki sorunları hakkında konuşuruz." (u/Abaddon182'a teşekkürler)
 - Diğer:
   - [xkcd](https://xkcd.com/) - *Her şey* için karikatürleri var.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
@@ -979,11 +979,11 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
 # Son sözler
 
-It's a shame that Google, with their immense resources, power, and influence, don't see the benefits of helping people secure themselves online. Instead, they force people like us to scour the web for alternatives and convince our friends and family to do the same, while they sell off our data to the highest bidder.
+Google'ın tüm kaynaklarına, gücüne ve yarattığı etkilere rağmen insanların çevrimiçi hayatlarında kendilerini güvende tutmalarına yardım etmeyi istememesi hayal kırıklığına uğratıyor. Bunun yerine kişisel verileri pazarlamaktan kazanç elde etmeye bakarken insanları alternatif servis ve uygulamaları bulmaya zorlayıp aile ve arkadaşlarını da bu alternatiflere geçirmeye uğraşmaya zorluyor. 
 
-Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
+Umarım ki bu rehber yeni gelenlere başlangıç noktası ve uzmanlara hatırlatıcı olarak işe yarar.
 
-Good luck and stay safe!
+Bol şans ve kendinize iyi bakın!
 
 ## Zamana bağlı olarak yıldızlayanlar
 
