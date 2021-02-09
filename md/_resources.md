@@ -9,13 +9,13 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 - [AlternativeTo](https://alternativeto.net/) - Yazılım için alternatif bulun. Bu rehberi hazırlamak için çok kullanıldı. Ayrıca [Switching.software](https://switching.software/) sitesini ziyaret edebilirsiniz. (@mynamesleon'a teşekkürler)
 - [Framasoft](https://framasoft.org/en/) - Birçok yazılımlar ve alternatifler. Bu listeye sığamayacak kadar çok fazla. Ayrıca [bu linki](https://degooglisons-internet.org/en/) ziyaret edin. (@NicolasPA'a teşekkürler)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
-- [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
-- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
+- [r/VPN](https://old.reddit.com/r/VPN/) - Neden VPN kullanmanız gerektiğini hakkında öğrenmek için kenar çubuğunu ve [wiki'yi](https://old.reddit.com/r/VPN/wiki/index) okuyun. Kendim [Mullvad](https://mullvad.net) kullanırım ama önce kendi araştırmanızı yapmanıza tavsiye ederim.
+- [Hatırlayabileceğiniz Şifreleri Oluşturabilmek İçin 4 Yöntem](https://outline.com/XuMTFA)
 - [Nasıl güçlü bir şifre oluşturmalı (ve hatırlamalıyız)](https://outline.com/dqfuqL)
 - [Bitwarden](https://bitwarden.com) gibi bir [şifre yöneticisi](https://outline.com/NC69FD) kullanın.
-- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
-- Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
-- [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+- Kullandığınız hesaplarda [çok faktörlü kimlik doğrulamasını](https://en.wikipedia.org/wiki/Multi-factor_authentication) kurmaya çalışın.
+- Tarayıcınıza şifrelerinizi kaydetmeyin: Şifrelerinizi bir parola yönetisine kaydettikten sonra [tarayıcıdaki tüm şifreleri silin](http://www.wikihow.com/Delete-Remembered-Passwords).
+- [Android cihazınızdan gereksiz uygulamaları kaldırın (root gerektirmez)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
 - [5-eyes, 9-eyes, and 14-eyes nedir?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
 - [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
 - [Tor nedir ve kullanmalı mıyım?](https://outline.com/JRCscH)
