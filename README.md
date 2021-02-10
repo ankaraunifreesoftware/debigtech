@@ -20,7 +20,7 @@
 
 ### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%207th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2010th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -31,20 +31,20 @@
 # İçindekiler
 
 1. [Katkıda Bulunmak](#katkıda-bulunmak)
-2. [Browser extensions](#browser-extensions)
-3. **[Değiştirmeler/Alternatifler](#değiştirmeleralternatifler)**
+2. [Tarayıcı eklentileri](#tarayıcı-eklentileri)
+3. **[Alternatifler](#alternatifler)**
     1. [Sorumluluk reddi](#sorumluluk-reddi)
-    2. [Web tabanlı ürünler](#web-based-products)
-    3. [İşletim sistemleri](#operating-systems)
-    4. [Masaüstü uygulamaları](#desktop-apps)
-    5. [Mobil uygulamaları](#mobile-apps)
-    6. [Donanım](#hardware)
-4. [Faydalı linkler, araçlar ve öneriler](#useful-links-tools-and-advice)
+    2. [Web tabanlı ürünler](#web-tabanlı-ürünler)
+    3. [İşletim sistemleri](#i̇şletim-sistemleri)
+    4. [Masaüstü uygulamaları](#masaüstü-uygulamaları)
+    5. [Mobil uygulamaları](#mobil-uygulamaları)
+    6. [Donanım](#donanım)
+4. [Faydalı linkler, araçlar ve öneriler](#faydalı-linkler-araçlar-ve-öneriler)
     1. [Kaynaklar](#kaynaklar)
-    1. [Kitaplar](#books)
-    1. [Blog yazıları](#blog-posts)
-    1. [Haber makaleleri](#news-articles)
-5. [Aydınlık taraf](#the-lighter-side)
+    1. [Kitaplar](#kitaplar)
+    1. [Blog yazıları](#blog-yazıları)
+    1. [Haber makaleleri](#haber-makaleleri)
+5. [Daha iyi taraflar](#daha-iyi-taraflar)
 6. [Son sözler](#son-sözler)
 
 
@@ -90,7 +90,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
-# Değiştirmeler/Alternatifler
+# Alternatifler
 
 ### *Sorumluluk reddi*
 
@@ -109,24 +109,24 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 [eyes]: https://www.privacytools.io/providers/#ukusa
 
 
-## Web-bazlı servisler
+## Web tabanlı ürünler
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
-#### Search (Web & Images)
+#### Arama (Web & Görsel)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
-| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
-| [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
+| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
+| [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) privacy search engine. Domain hosted in Germany. |
 | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
 | [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
 | [Swisscows](https://swisscows.ch) |  | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting. |
 | [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
-| [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon |
+| [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. (@mynamesleon'a teşekkürler) |
 | [Cyberd](https://cyber.page/) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
 | [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely [open-source](https://gitlab.com/infinitysearch/infinity-search). |
-| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
+| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." (@codingepaduli'e teşekkürler) |
 
 
 
@@ -134,10 +134,10 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation. |
-| [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
+| [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. @kdkasad'a federasyon açıklamasından dolayı teşekkürler. |
+| [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (u/up-sky-7'a teşekkürler) |
 | [DTube](https://d.tube/) |  | Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS. |
-| [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323) |
+| [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (u/rudolf323'a teşekkürler) |
 | [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
 | [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
 | [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
@@ -146,17 +146,17 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### News
+#### Haberler
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
-| [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
+| [Yerel gazete](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
+| [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). (@jeanofthedead'e teşekkürler) |
 | [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely [open-source](https://github.com/miniflux), along with automatically removing pixel trackers. |
 
 
 
-#### Groups
+#### Gruplar
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -172,7 +172,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
+| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. (u/TheCy-FiJuggernaut'a teşekkürler) |
 | [Apertium](https://apertium.org/) |  | A free, [open-source](https://github.com/apertium/apertium) translation system. |
 
 
@@ -197,7 +197,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
+| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. (@k3tan172 and @plutocrat'a teşekkürler) |
 | [Open-Xchange](https://www.open-xchange.com) |  | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
 
 
@@ -211,7 +211,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [WordPress self-hosted](https://wordpress.org/) |  | The [open-source](https://code.trac.wordpress.org/browser/wordpress-sources) version of WordPress. A very popular tool and a recognized name. |
 | [concrete5](https://www.concrete5.org/) | **5-eyes** | [Open-source](https://github.com/concrete5) CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
-| [Ghost](https://ghost.org/) |  | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
+| [Ghost](https://ghost.org/) |  | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". (@peterge1998'e teşekkürler) |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
 | [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
 
@@ -221,15 +221,15 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (thanks u/Newblik) |
+| [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (u/Newblik'e teşekkürler) |
 | [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
 | [Plausible](https://plausible.io/) | **5-eyes** | [Open-source](https://github.com/plausible/analytics), privacy-focused web analytics. |
 | [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available. |
 | [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
 | [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
-| [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully [open-source](https://github.com/milesmcc/shynet). Thanks @woutfeys |
-| [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
-| [GoAccess](https://goaccess.io/) |  | An [open-source](https://github.com/allinurl/goaccess) web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
+| [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully [open-source](https://github.com/milesmcc/shynet). (@woutfeys'e teşekkürler) |
+| [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). (@woutfeys'e teşekkürler) |
+| [GoAccess](https://goaccess.io/) |  | An [open-source](https://github.com/allinurl/goaccess) web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. (@virtadpt'e teşekkürler) |
 | [Offen](https://www.offen.dev/) |  | [Open-source](https://github.com/offen/offen) and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
 | [Umami](https://umami.is/) |  | A simple, easy to use, [open-source](https://github.com/mikecao/umami)/self-hosted web analytics solution. |
 | [Kindmetrics](https://kindmetrics.io) | **5/14-eyes** | An [open-source](https://github.com/kindmetrics) analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
@@ -245,10 +245,10 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Photoprism](https://photoprism.pro/) |  | Self-hosted and [open-source](https://github.com/photoprism/photoprism) Personal Photo Management powered by Go and Google TensorFlow. |
 | [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and [open-source](https://github.com/hooram/ownphotos) Google Photos alternative. |
 | [Piwigo](https://piwigo.org/) | **9-eyes** | Self-hosted and [open-source](https://github.com/Piwigo) cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
-| [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
+| [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. (@mynamesleon'a teşekkürler) |
 | [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
 | [PhotoStructure](https://photostructure.com/) |  | Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication. |
-| [Lychee](https://lycheeorg.github.io/) |  | An [open-source](https://github.com/LycheeOrg/Lychee) self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
+| [Lychee](https://lycheeorg.github.io/) |  | An [open-source](https://github.com/LycheeOrg/Lychee) self-hosted photo-management tool that includes built-in support for videos. (@m0yP'e teşekkürler) |
 
 
 
@@ -261,7 +261,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Fruux](https://fruux.com/) | **14-eyes** | [Open-source](https://fruux.com/opensource/) calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
 | [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and [open-source](https://www.etesync.com/) sync for your contacts, calendars and tasks. |
 | [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
-| [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
+| [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. @mahdi1234'a bunu belirttiği için teşekkürler. |
 | [Radicale](https://radicale.org/) |  | Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. Can use a reverse proxy with Nginx for HTTPS. |
 | [Mailfence Calendar](https://www.mailfence.com) | **14-eyes** | Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their calendars with group members and can also create polls. |
 
@@ -274,9 +274,9 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [CryptPad](https://cryptpad.fr/) | **9-eyes** | [Open-source](https://github.com/xwiki-labs/cryptpad) "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
 | [Etherpad](https://etherpad.org/) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's [open-source](https://github.com/ether) and you have full control over who can see your data. |
 | [Cryptee](https://crypt.ee/) |  | [Open-source](https://github.com/cryptee) and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up. |
-| [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) | **14-eyes** | Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding |
+| [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) | **14-eyes** | Self-hosted instance of LibreOffice that you can run in your browser. (@flubberding'e teşekkürler) |
 | [ONLYOFFICE](https://www.onlyoffice.com) |  | [Open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. |
-| [Arcane Office](https://arcaneoffice.com/) |  | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti |
+| [Arcane Office](https://arcaneoffice.com/) |  | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. (@taraletti'e teşekkürler) |
 
 
 
@@ -285,8 +285,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [LibreOffice](https://www.libreoffice.org/) |  | [Open-source](https://www.libreoffice.org/about-us/source-code/) offline document suites. |
-| [LyX](https://www.lyx.org/) |  | It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
-| [ONLYOFFICE](https://www.onlyoffice.com/) |  | Offline version of ONLYOFFICE, an [open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev |
+| [LyX](https://www.lyx.org/) |  | It's an [open-source](https://www.lyx.org/Development) (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. (@Glitchy-Tozier'e teşekkürler) |
+| [ONLYOFFICE](https://www.onlyoffice.com/) |  | Offline version of ONLYOFFICE, an [open-source](https://github.com/ONLYOFFICE/) private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. (@PalmoliveDev'e teşekkürler) |
 | [Cryptee](https://crypt.ee/) |  | Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too. |
 | [Calligra](https://calligra.org/) |  | Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and [Open-source](https://calligra.org/get-involved/) Software) |
 
@@ -296,7 +296,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
+| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (u/brais33 and u/HumbleBasis6'e teşekkürler). Note: some users may have issues with them [legally owning your domain](https://news.ycombinator.com/item?id=14177597). |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
 | [Orangewebsite](https://www.orangewebsite.com/) |  | An Iceland-based freedom of speech web hosting provider. They never actually ask for your name, at least when you pay in Bitcoin. |
 
@@ -307,12 +307,12 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [ownCloud](https://owncloud.org/) |  | [Open-source](https://github.com/owncloud) and self-hosted. Provide your own storage. |
-| [Nextcloud](https://nextcloud.com/) |  | Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre) |
+| [Nextcloud](https://nextcloud.com/) |  | Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (@chribre'e teşekkürler) |
 | [Syncthing](https://syncthing.net/) | **9-eyes** | An [open-source](https://github.com/syncthing/) continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet. |
 | [Sia](https://sia.tech/) |  | Fully decentralized cloud storage. |
-| [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26) |
+| [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (u/xNick26'a teşekkürler) |
 | [Sync](https://www.sync.com) | **5-eyes** | End-to-end encrypted Google Drive/Dropbox replacement. |
-| [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
+| [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. (@mynamesleon'a teşekkürler) |
 | [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
 | [seafile](https://www.seafile.com) |  | [Open-source](https://github.com/haiwen/seafile) and self-hosted file sync&share solution. |
 | [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted and is [open-Source](https://github.com/cozy/cozy-stack). And it also offers a collaborative notes editor. |
@@ -329,8 +329,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
 | [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
 | [Element](https://element.io/) | **5-eyes** | [Open-source](https://github.com/vector-im/) privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. |
-| [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
-| [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
+| [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. (@nathanvogel'a teşekkürler) |
+| [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). (@notpushkin ve @multimob'a teşekkürler) |
 | [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
 | [Mumble](https://www.mumble.info/) |  | A free, [open-source](https://github.com/mumble-voip), low latency, high quality voice chat application. |
@@ -369,7 +369,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Joplin](https://joplinapp.org/) |  | [Open-source](https://github.com/laurent22/joplin) notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
+| [Joplin](https://joplinapp.org/) |  | [Open-source](https://github.com/laurent22/joplin) notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (yukarıda belirtildi). |
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
 | [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
 | [QOwnNotes](https://www.qownnotes.org/) |  | [Open-source](https://github.com/pbek/QOwnNotes) file editor with Markdown support. (thanks u/maqp2) |
@@ -395,7 +395,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 - *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
 
 
-#### Fonts
+#### Fontlar
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -415,12 +415,12 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Maps/Street View
+#### Haritalar/Sokak Gösterimi
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
-| [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
+| [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. (@mynamesleon'a teşekkürler) |
 | [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
 
 
@@ -433,13 +433,13 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Trends
+#### Trendler
 
 No known alternatives.
 
 
 
-#### Forms
+#### Formlar
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -510,7 +510,7 @@ No known alternatives.
 
 
 
-## Bilgisayar uygulamaları
+## Masaüstü uygulamaları
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Chrome
@@ -533,7 +533,7 @@ No known alternatives.
 
 
 
-#### Android Studio (not specifically for Android development, just in general)
+#### Android Studio (sadece Android geliştirme için değil, genel olarak)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -546,7 +546,7 @@ No known alternatives.
 
 
 
-## Mobil uygulamalar
+## Mobil uygulamaları
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Play Store
@@ -574,7 +574,7 @@ No known alternatives.
 
 
 
-#### Calculator
+#### Hesap Makinesi
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -584,7 +584,7 @@ No known alternatives.
 
 
 
-#### Calendar
+#### Takvim
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -596,7 +596,7 @@ No known alternatives.
 
 
 
-#### Camera
+#### Kamera
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -604,7 +604,7 @@ No known alternatives.
 
 
 
-#### Clock
+#### Saat
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -614,7 +614,7 @@ No known alternatives.
 
 
 
-#### Contacts
+#### Kişiler
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -625,7 +625,7 @@ No known alternatives.
 
 
 
-#### Android Messages (specifically SMS/MMS, not IM)
+#### Android Mesajlar (özellikle SMS/MMS, IM değil)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -635,7 +635,7 @@ No known alternatives.
 
 
 
-#### Gboard (Google Keyboard)
+#### Gboard (Google Klavye)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -658,7 +658,7 @@ No known alternatives.
 
 
 
-#### Gmail (smartphone app)
+#### Gmail (telefon uygulaması)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -672,7 +672,7 @@ No known alternatives.
 
 
 
-#### Keep (or any stock note-taking app)
+#### Keep (ya da herhangi bir stok not uygulaması)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -688,7 +688,7 @@ No known alternatives.
 
 
 
-#### Maps/Waze
+#### Haritalar/Waze
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -699,7 +699,7 @@ No known alternatives.
 
 
 
-#### News
+#### Haberler
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -708,7 +708,7 @@ No known alternatives.
 
 
 
-#### Photos
+#### Fotoğraflar
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -745,7 +745,7 @@ No known alternatives.
 
 
 
-#### Play Music/Play Movies & TV
+#### Play Müzik/Play TV
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -769,7 +769,7 @@ No known alternatives.
 
 
 
-#### Duo (video calls)
+#### Duo (video arama)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -778,7 +778,7 @@ No known alternatives.
 
 
 
-#### Assistant
+#### Asistan
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -787,7 +787,7 @@ No known alternatives.
 
 
 
-#### Play Services Framework
+#### Play Hizmetleri
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -795,23 +795,23 @@ No known alternatives.
 
 
 
-#### Android home screen launchers
+#### Android ana ekran başlatıcıları
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | [Open-source](https://github.com/amirzaidi/Shade) Android launcher styled after the Google Pixel launcher. Available to download from an [alternative F-Droid](https://apt.izzysoft.de/fdroid/index/apk/amirz.shade), APK Mirror, or GitHub Releases. |
 | [Omega](https://github.com/otakuhqz/omega) |  | [Open-source](https://github.com/otakuhqz/omega) launcher. Active development with lots of nice features. Downloads available from GitHub. Previously known as ZimLX which has since been replaced by Omega. |
-| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another [open-source](https://github.com/LawnchairLauncher/Lawnchair) launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
-| [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
+| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another [open-source](https://github.com/LawnchairLauncher/Lawnchair) launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (u/droidonomy'e teşekkürler) |
+| [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, [open-source](https://github.com/Neamar/KISS) and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. (@Glitchy-Tozier |
 
 
 
-#### *Other*
+#### *Diğer*
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and [open-source](https://github.com/blokadaorg/blokada)." Uses internal VPN on Android to block ads. |
-| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
+| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. (@E5dZEUpc3BKaJrHnQVZd5zE'a teşekkürler) |
 
 
 
@@ -825,7 +825,7 @@ No known alternatives.
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
-| [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
+| [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS.  (@brandonnodnarb'a teşekkürler) |
 | [PinePhone](https://www.pine64.org/pinephone/) | **5-eyes** | From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile. |
 
 
@@ -834,7 +834,7 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
+| [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (u/itsec_ho'a teşekkürler) |
 | [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
 | [Pinebook Pro](https://www.pine64.org/pinebook-pro) |  | Mid-range Linux/FreeBSD alternative to Chromebook. |
 
@@ -852,8 +852,8 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Mycroft](https://mycroft.ai/) | **5-eyes** | [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
-| [Home Assistant](https://www.home-assistant.io/) |  | [Open-source](https://github.com/home-assistant/) home automation. (thanks u/bilange) |
+| [Mycroft](https://mycroft.ai/) | **5-eyes** | [Open-source](https://github.com/MycroftAI) virtual personal assistant. Can be run on a Raspberry Pi. (u/Kentto7'a teşekkürler) |
+| [Home Assistant](https://www.home-assistant.io/) |  | [Open-source](https://github.com/home-assistant/) home automation. (u/bilange'e teşekkürler) |
 
 
 
@@ -861,12 +861,12 @@ No known alternatives.
 
 No known alternatives.
 
-- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
+- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). (@ribtoks'a teşekkürler)*
 
 
 
 
-# Kullanışlı bağlantılar, araçlar ve tavsiyeler
+# Faydalı linkler, araçlar ve öneriler
 
 ## Kaynaklar
 
@@ -876,36 +876,36 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
 - [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
 - [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
-- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (@mynamesleon'a teşekkürler)
-- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). (@NicolasPA'a teşekkürler)
+- [AlternativeTo](https://alternativeto.net/) - Yazılım için alternatif bulun. Bu rehberi hazırlamak için çok kullanıldı. Ayrıca [Switching.software](https://switching.software/) sitesini ziyaret edebilirsiniz. (@mynamesleon'a teşekkürler)
+- [Framasoft](https://framasoft.org/en/) - Birçok yazılımlar ve alternatifler. Bu listeye sığamayacak kadar çok fazla. Ayrıca [bu linki](https://degooglisons-internet.org/en/) ziyaret edin. (@NicolasPA'a teşekkürler)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
-- [r/VPN](https://old.reddit.com/r/VPN/) - Read the sidebar and [wiki](https://old.reddit.com/r/VPN/wiki/index) to learn more about why you should consider using a VPN. I personally use [Mullvad](https://mullvad.net) but do your own research before choosing.
-- [Four Methods to Create a Secure Password You'll Actually Remember](https://outline.com/XuMTFA)
-- [Nasıl güçlü bir şifre oluşturmalı (ve hatırlamalıyız)](https://outline.com/dqfuqL)
+- [r/VPN](https://old.reddit.com/r/VPN/) - Neden VPN kullanmanız gerektiğini hakkında öğrenmek için kenar çubuğunu ve [wiki'yi](https://old.reddit.com/r/VPN/wiki/index) okuyun. Kendim [Mullvad](https://mullvad.net) kullanırım ama önce kendi araştırmanızı yapmanıza tavsiye ederim.
+- [Hatırlayabileceğiniz Şifreleri Oluşturabilmek İçin 4 Yöntem](https://outline.com/XuMTFA)
+- [Güçlü bir şifreyi nasıl oluşturabiliriz (ve hatırlayabiliriz)](https://outline.com/dqfuqL)
 - [Bitwarden](https://bitwarden.com) gibi bir [şifre yöneticisi](https://outline.com/NC69FD) kullanın.
-- Set up [multi-factor/two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) on as many accounts as you can
-- Don't save passwords to your browser: [Erase the entire password cache](http://www.wikihow.com/Delete-Remembered-Passwords) once you set up a password manager.
-- [Remove bloatware from Android (without root)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+- Kullandığınız hesaplarda [çok faktörlü kimlik doğrulamasını](https://tr.wikipedia.org/wiki/%C3%87ok_fakt%C3%B6rl%C3%BC_kimlik_do%C4%9Frulamas%C4%B1) kurmaya çalışın.
+- Tarayıcınıza şifrelerinizi kaydetmeyin: Şifrelerinizi bir parola yönetisine kaydettikten sonra [tarayıcıdaki tüm şifreleri silin](http://www.wikihow.com/Delete-Remembered-Passwords).
+- [Android cihazınızdan gereksiz uygulamaları kaldırın (root gerektirmez)](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
 - [5-eyes, 9-eyes, and 14-eyes nedir?](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)
-- [Outline](https://outline.com/) is an awesome tool for getting all the junk out of news articles (I've used it a few times in this guide already). Sometimes it can get around paywalls for "premium" news sites.
+- [Outline](https://outline.com/) haber sitelerindeki tüm gereksiz öğeleri kaldırarak temiz bir haber metni sunar (bu kılavuzda birçok defa kullanıldı). Bazen paralı içeriklere erişmek için de kullanılabilir. 
 - [Tor nedir ve kullanmalı mıyım?](https://outline.com/JRCscH)
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
-- The EFF has an [excellent guide](https://ssd.eff.org/) on how to stay safe and secure online. It is incredibly useful and I suggest that everyone read through it.
-- Click [here](https://www.thewindowsclub.com/windows-10-telemetry) and [here](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) for tips on disabling Windows 10 telemetry/data collection.
-- Click [here](https://duckduckgo.com/newsletter) to sign up for DuckDuckGo's privacy newsletter, and [here](https://spreadprivacy.com/) for more tips, articles, and blog posts from DuckDuckGo.
-- [Delete Facebook](https://deletefacebook.com/). Another guide can be found [here](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account).
-- [Why you should put tape over your webcam](https://outline.com/fYCu98)
+- EFF'nin çevrimiçi ortamda güvenli kalmayı anlatan [kılavuzu](https://ssd.eff.org/). Çok kullanışlıdır ve okumanız tavsiye ederim.
+- Windows 10'da telemetriyi kapatmayı öğrenmek için [buraya](https://www.thewindowsclub.com/windows-10-telemetry) ve [buraya](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) göz atabilirsiniz.
+- DuckDuckGo'nun gizlilik hakkındaki haberlerine abone olmak için [buraya](https://duckduckgo.com/newsletter) ve DuckDuckGo'nun makalelerini, bloglarını ve ipuçlarını görmek için ise [buraya](https://spreadprivacy.com/) tıklayınız.
+- Facebook hesabınızı silmek için [Delete Facebook](https://deletefacebook.com/). Diğer bir kılavuz için [buraya](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account) bakınız.
+- [Neden webcam'ınızın üstünü bant ile kapatmalısınız](https://outline.com/fYCu98)
 - [DNS nedir ve değiştirmeli miyim?](https://outline.com/8jsWXw) Sizin için en hızlısının hangisi olduğunu görmek [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) 'i kullanın. (@resynth1943'e teşekkürler)
-- What is GDPR? [TechRadar](https://outline.com/6sjd76) and [The Guardian](https://outline.com/exmSpf)
+- GDPR nedir? [TechRadar](https://outline.com/6sjd76) ve [The Guardian](https://outline.com/exmSpf)
 - [Burada](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) çok güvenli bir Linux workstation oluşturmak için gayet güzel bir rehber var.  (u/aoeudhtns'e teşekkürler)
 - [Çevrimiçi gizlilik konusunda bilinç oluşturma amaçlı bir site](https://theytrackyou.com/). Burada çok sayıda güzel öneriler var. (u/brais33'e teşekkürler)
 - [Android gizlilik rehberi](https://gitlab.com/Attedz/AndroidPrivacyGuide) (u/rightknobhead'a teşekkürler)
 - [Windows 10 gizlilik rehberi](https://fdossena.com/?p=w10debotnet/index_1903.frag) (u/rightknobhead'a tekrardan teşekkürler)
 - [Prism Break](https://prism-break.org/en/)'e bakın. (u/FrontierPsycho'a teşekkürler)
-- [Linux kullanıcıları için](https://github.com/wesaphzt/block-all-google) ağ seviyesinde Google'ı engellemek için bir rehber. Bu yöntem büyük ihtimalle Google servisleri tabanlı diğer alternatiflerin çalışmasını bozacaktır. (u/wesaphzt'a teşekkürler)
-- u/wesaphzt also provided [this](https://github.com/pyllyukko/user.js), [this](https://ffprofile.com/), and [this](https://www.privacytools.io/browsers/#about_config) for hardening Firefox.
-- Check out [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) and [this tutorial](https://github.com/adolfintel/Windows10-Privacy) for even more Windows 10 tips (u/rudolf323'a teşekkürler)
-- [VirusTotal](https://www.virustotal.com/) lets you upload files and scans them against multiple antivirus programs at once. Very helpful for checking false negatives. Unfortunately Alphabet Inc owns VirusTotal but there are no good alternatives.
+- [Linux kullanıcıları için](https://github.com/wesaphzt/block-all-google) ağ seviyesinde Google'ı engellemek için bir rehber. Bu yöntem büyük ihtimalle Google servisleri tabanlı diğer alternatiflerin çalışmasına engel olacaktır. (u/wesaphzt'a teşekkürler)
+- Firefox'u sağlamlaştırmak için u/wesaphzt [bu](https://github.com/pyllyukko/user.js), [bu](https://ffprofile.com/), ve [bu](https://www.privacytools.io/browsers/#about_config) kılavuzlarını paylaştı.
+- Windows 10 için daha çok ipuçlar için [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ve [bu kılavuzuna](https://github.com/adolfintel/Windows10-Privacy) bakın. (u/rudolf323'a teşekkürler)
+- [VirusTotal](https://www.virustotal.com/) şize yüklediğiniz dosyaları tek seferde birçok antivirüs ile taratmanıza yardımcı olur. Yalnış negatif sonuçlarına karşı işe yarar. Ne yazık ki [Alphabet Inc](https://tr.wikipedia.org/wiki/Alphabet_(%C5%9Firket)) VirusTotal'ın sahibi ama başka iyi alternatif yok.
 - Hâlâ [wiki](https://old.reddit.com/r/privacy/wiki/index)'yi okumadınız mı? yet? Okuyun.
 
 
@@ -921,7 +921,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 
 
-## Blog gönderileri 
+## Blog yazıları 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Başlık | Yayınlandığı yıl | Yazar |
@@ -931,7 +931,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
 
 
-## Haberler 
+## Haber makaleleri 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Başlık | Yayınlandığı yıl | Yazar |
