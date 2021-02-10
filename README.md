@@ -31,20 +31,20 @@
 # İçindekiler
 
 1. [Katkıda Bulunmak](#katkıda-bulunmak)
-2. [Browser extensions](#browser-extensions)
-3. **[Değiştirmeler/Alternatifler](#değiştirmeleralternatifler)**
+2. [Tarayıcı eklentileri](#tarayıcı-eklentileri)
+3. **[Alternatifler](#alternatifler)**
     1. [Sorumluluk reddi](#sorumluluk-reddi)
-    2. [Web tabanlı ürünler](#web-based-products)
-    3. [İşletim sistemleri](#operating-systems)
-    4. [Masaüstü uygulamaları](#desktop-apps)
-    5. [Mobil uygulamaları](#mobile-apps)
-    6. [Donanım](#hardware)
-4. [Faydalı linkler, araçlar ve öneriler](#useful-links-tools-and-advice)
+    2. [Web tabanlı ürünler](#web-tabanlı-ürünler)
+    3. [İşletim sistemleri](#i̇şletim-sistemleri)
+    4. [Masaüstü uygulamaları](#masaüstü-uygulamaları)
+    5. [Mobil uygulamaları](#mobil-uygulamaları)
+    6. [Donanım](#donanım)
+4. [Faydalı linkler, araçlar ve öneriler](#faydalı-linkler-araçlar-ve-öneriler)
     1. [Kaynaklar](#kaynaklar)
-    1. [Kitaplar](#books)
-    1. [Blog yazıları](#blog-posts)
-    1. [Haber makaleleri](#news-articles)
-5. [Aydınlık taraf](#the-lighter-side)
+    1. [Kitaplar](#kitaplar)
+    1. [Blog yazıları](#blog-yazıları)
+    1. [Haber makaleleri](#haber-makaleleri)
+5. [Daha iyi taraflar](#daha-iyi-taraflar)
 6. [Son sözler](#son-sözler)
 
 
@@ -90,7 +90,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
-# Değiştirmeler/Alternatifler
+# Alternatifler
 
 ### *Sorumluluk reddi*
 
@@ -866,7 +866,7 @@ No known alternatives.
 
 
 
-#Faydalı linkler, araçlar ve öneriler
+# Faydalı linkler, araçlar ve öneriler
 
 ## Kaynaklar
 
