@@ -109,7 +109,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 [eyes]: https://www.privacytools.io/providers/#ukusa
 
 
-## Web-bazlı servisler
+## Web tabanlı ürünler
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Arama (Web & Görsel)
@@ -510,7 +510,7 @@ No known alternatives.
 
 
 
-## Bilgisayar uygulamaları
+## Masaüstü uygulamaları
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Chrome
@@ -546,7 +546,7 @@ No known alternatives.
 
 
 
-## Mobil uygulamalar
+## Mobil uygulamaları
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 #### Play Store
@@ -866,7 +866,7 @@ No known alternatives.
 
 
 
-# Kullanışlı bağlantılar, araçlar ve tavsiyeler
+#Faydalı linkler, araçlar ve öneriler
 
 ## Kaynaklar
 
@@ -921,7 +921,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 
 
-## Blog gönderileri 
+## Blog yazıları 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Başlık | Yayınlandığı yıl | Yazar |
@@ -931,7 +931,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 | [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/) | ![Published](https://img.shields.io/badge/2019--12--05-informational?style=flat-square) | Marko Saric |
 
 
-## Haberler 
+## Haber makaleleri 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
 
 | Başlık | Yayınlandığı yıl | Yazar |
