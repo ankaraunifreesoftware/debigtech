@@ -2,7 +2,7 @@
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, buradaki bazı fikirlerden yararlanabilirsiniz ([GitHub sayfasındaki](https://github.com/tycrek/degoogle) **Issues** & **Pull Requests**'e gönderiniz):
 
-- **iOS için alternatif uygulamalar** iOS cihazım yok, bu konuda yardım etmeniz beni çok memnun eder.
+- **iOS için alternatif uygulamalar**. iOS cihazım yok, bu yüzden bu konuda yardım etmeniz güzel olur.
 - Markdown'u temizlemek/geliştirmek.
 - Az bilgi bulunan hizmetler ya da *help requested! (yardım aranıyor!)* yazan yerlere daha fazla bilgi sağlamak.
 - Yeni hizmetler önermek ya da varolan hizmetleri kaldırmak için nedenler sunmak.
