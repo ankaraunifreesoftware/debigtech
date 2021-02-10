@@ -1,4 +1,4 @@
-# Değiştirmeler/Alternatifler
+# Alternatifler
 
 ### *Sorumluluk reddi*
 
