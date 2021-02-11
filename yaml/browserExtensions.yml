@@ -13,7 +13,7 @@
 - name: Cookie AutoDelete
   url: https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
   text: |
-    Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs.
+    Çerezlerinizi kontrol edin! Bu eklenti Self Destructing Cookies'dan esinlenerek yapılmıştır. Bir sekme kapatıldığında, kullanılmayan çerezler otomatik olarak silinir. Whitelist the ones you trust while deleting the rest. Support for Container Tabs.
 - name: DDG Privacy Essentials
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
