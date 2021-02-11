@@ -13,7 +13,7 @@
 - name: Cookie AutoDelete
   url: https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
   text: |
-    Çerezlerinizi kontrol edin! Bu eklenti Self Destructing Cookies'dan esinlenerek yapılmıştır. Bir sekme kapatıldığında, kullanılmayan çerezler otomatik olarak silinir. Whitelist the ones you trust while deleting the rest. Support for Container Tabs.
+    Çerezlerinizi kontrol edin! Bu eklenti Self Destructing Cookies'dan esinlenerek yapılmıştır. Bir sekme kapatıldığında, kullanılmayan çerezler otomatik olarak silinir. Güvendiğiniz çerezleri beyaz listeye kaydedebilirsiniz. Konteyner sekmeleri destekler.
 - name: DDG Privacy Essentials
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
