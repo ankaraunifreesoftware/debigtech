@@ -5,7 +5,7 @@ web based products:
       url: https://duckduckgo.com/
       eyes: 5
       text: |
-        One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some.
+        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olmasından dolayı bazen sıkıntılı olabilmekte.
     - name: Startpage
       url: https://www.startpage.com/
       eyes: 9
@@ -15,7 +15,7 @@ web based products:
       url: https://searx.me/
       eyes: null
       text: |
-        [Open-source](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) privacy search engine. Domain hosted in Germany.
+        [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizlilik için bir arama motoru. Alan adı Almanya'da tutulmakta.
     - name: MetaGer
       url: https://metager.org/about
       eyes: 14
@@ -25,7 +25,7 @@ web based products:
       url: https://www.qwant.com/
       eyes: 9
       text: |
-        Major improvements since 2018's guide. *would prefer better info other than an outdated reference*
+        2018'in rehberinden beri büyük geliştirmeler yapıldı. *eskimiş kaynaktan başka daha iyi bir kaynak tercih edilir*
     - name: Swisscows
       url: https://swisscows.ch
       eyes: null
@@ -87,7 +87,7 @@ web based products:
       url: https://hooktube.com/
       eyes: null
       text: |
-        A slightly better way to use actual YouTube. (Use as a "last resort")
+        Asıl Youtube'u kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız)
     - name: LBRY
       url: https://lbry.com/
       eyes: null
@@ -97,7 +97,7 @@ web based products:
       url: https://us.tv/
       eyes: null
       text: |
-        PeerTube instance hosted by Epik.com.
+        Epik.com tarafından sunulan PeerTube hizmeti.
     - name: FreeTube
       url: https://freetubeapp.io/
       eyes: null
@@ -193,7 +193,7 @@ web based products:
       url: https://write.as/
       eyes: null
       text: |
-        Self-advertised as privacy-focused.
+        Gizlilik odaklı olduğunu söylemekte.
     - name: WordPress self-hosted
       url: https://wordpress.org/
       eyes: null
@@ -203,12 +203,12 @@ web based products:
       url: https://www.concrete5.org/
       eyes: 5
       text: |
-        [Open-source](https://github.com/concrete5) CMS.
+        [Açık-kaynak](https://github.com/concrete5) CMS.
     - name: Noblogs
       url: https://noblogs.org/
       eyes: 9
       text: |
-        A privacy/security focused blogging platform.
+        Gizlilik/güvenlik odaklı bir blog platformu.
     - name: Ghost
       url: https://ghost.org/
       eyes: null
@@ -235,12 +235,12 @@ web based products:
       url: https://usefathom.com/
       eyes: 5
       text: |
-        Simple analytics for bloggers & businesses
+        Blogger & şirketler için basit istatistikler.
     - name: Plausible
       url: https://plausible.io/
       eyes: 5
       text: |
-        [Open-source](https://github.com/plausible/analytics), privacy-focused web analytics.
+        [Açık-kaynak](https://github.com/plausible/analytics), gizlilik odaklı web istatistikleri.
     - name: GoatCounter
       url: https://www.goatcounter.com/
       eyes: 14
@@ -1229,25 +1229,25 @@ mobile applications:
       fdroid: de.tutao.tutanota
       eyes: 14
       text: |
-        Client available from F-Droid.
+        F-Droid'den istemciye erişilebilir.
     - name: Disroot
       url: https://disroot.org/
       fdroid: org.disroot.disrootapp
       eyes: null
       text: |
-        Available from F-Droid.
+        F-Droid'den indirin.
     - name: K-9 Mail
       url: https://k9mail.github.io/
       fdroid: com.fsck.k9
       eyes: null
       text: |
-        Available on F-Droid.
+        F-Droid'den indirin.
     - name: FairEmail
       url: https://email.faircode.eu/
       fdroid: eu.faircode.email
       eyes: null
       text: |
-        Available on F-Droid.
+        F-Droid'den indirin.
     - name: DeltaChat
       url: https://delta.chat/
       fdroid: com.b44t.messenger
@@ -1311,7 +1311,7 @@ mobile applications:
       fdroid: it.niedermann.owncloud.notes
       eyes: null
       text: |
-        An android client for Nextcloud Notes App.
+        Nextcloud Notes App için Android istemcisi.
   maps and waze:
     - title: Haritalar/Waze
     - name: Maps
@@ -1344,30 +1344,30 @@ mobile applications:
       fdroid: net.frju.flym
       eyes: null
       text: |
-        [Open-source](https://github.com/FredJul/Flym) Material Design RSS reader.
+        [Açık-kaynak](https://github.com/FredJul/Flym) Material Design RSS okuyucu.
     - name: Feeder
       url: https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md
       fdroid: com.nononsenseapps.feeder
       eyes: null
       text: |
-        Use good old-fashioned RSS feeds with Feeder
+        Feeder ile eski moda RSS yayınlarını okuyun.
   photos:
     - title: Fotoğraflar
     - name: Piwigo Android
       url: https://github.com/Piwigo/Piwigo-Android
       eyes: null
       text: |
-        You need to have Piwigo set up first.
+        İlk başta Piwigo'yu ayarlamanız gerekmektedir.
     - name: Stingle Photos 
       url: https://stingle.org/
       eyes: 5
       text: |
-        A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage.
+        Fotoğraf ve videolarınız için güçlü bir güvenlik, gizlilik ve şifreleme özelliğine sahip Backup ve Sync özelliği bulunan, kullanımı kolay ve kullanışlı Galeri/Kamera uygulaması. Bütün fotoğraf ve videolarınız depolanma ve yedeklemeden önce şifrelenir, yani depolanırken, sunucuya yedeklenirken ve sunucuda güvendedir.
   pay:
     - title: Pay
     - notes:
       - |
-        Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.
+        Açıkçası, Google Pay'in gizlilik dostu bir alternatifi bulunmamakta. RFID korumalı bir cüzdan edinin ve kartlarınızı yanınızda bulundurun.
   youtube:
     - title: YouTube
     - name: NewPipe
@@ -1375,12 +1375,12 @@ mobile applications:
       fdroid: org.schabi.newpipe
       eyes: null
       text: |
-        Powerful [open-source](https://github.com/TeamNewPipe/NewPipe/) YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads.
+        Güçlü, [açık-kaynak](https://github.com/TeamNewPipe/NewPipe/) YouTube alternatifi. Sadece ses, arkaplanda çalma, resim içerisinde resim (picture-in-picture) ve reklam engellemeyi desteklemektedir.
     - name: YouTube Vanced
       url: https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757
       eyes: null
       text: |
-        Please read the XDA post before deciding to use this.
+        Bunu kullanmaya karar vermeden önce XDA'daki gönderiyi okuyun.
   authenticator:
     - title: Authenticator
     - name: andOTP
@@ -1418,13 +1418,13 @@ mobile applications:
       fdroid: net.nullsum.audinaut
       eyes: null
       text: |
-        An [open-source](https://github.com/nvllsvm/Audinaut) Airsonic client for Android.
+        [Açık-kaynak](https://github.com/nvllsvm/Audinaut) Android için bir Airsonic istemcisi.
     - name: MALP
       url: https://gitlab.com/gateship-one/malp/-/blob/master/README.md
       fdroid: org.gateshipone.malp
       eyes: null
       text: |
-        An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid.
+        [Açık-kaynak](https://gitlab.com/gateship-one/malp/) MPD Android istemcisi. F-Droid'den indirebilirsiniz.
   hangouts:
     - title: Hangouts
     - name: Keybase
@@ -1456,12 +1456,12 @@ mobile applications:
       eyes: 5
       text: |
         Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications.
-    - name: Mumla (client for Mumble)
+    - name: Mumla (Mumble istemcisi)
       url: https://mumla-app.gitlab.io/
       froid: se.lublin.mumla
       eyes: null
       text: |
-        Third-party Android client for Mumble.
+        Mumble için üçüncü-parti Android istemcisi.
     - name: Briar
       url: https://briarproject.org/
       eyes: null
