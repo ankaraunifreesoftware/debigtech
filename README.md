@@ -20,7 +20,7 @@
 
 ### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2010th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2012th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -68,8 +68,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | uBlock Origin sadece bir "reklam engelleyici" değil, asıl önceliği CPU ve hafıza verimliliği olan geniş ölçekli bir içerik engelleyicidir. |
 | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | Privacy Badger görünmez takipçileri engellemeyi otomatik olarak öğrenir. Neyi engelleyeceğini listeler hâlinde tutmak yerine, Privacy Badger hangi alan adlarının Web'de gezindiğin sırada seni takip ettiğini izleyerek öğrenir. |
-| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site. The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. |
-| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest. Support for Container Tabs. |
+| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | Birçok site kısmen HTTPS üzerinden şifrelemeyi destekler, fakat kullanmasını kolaylaştırmazlar. Örneğin, varsayılan olarak şifrelemesiz HTTP kullanabilirler veya şifrelemeli sayfaları şifrelemesiz linklerle doldurabilirler. HTTPS Everywhere eklentisi tüm çağrıları şifrelemeli HTTPS'ye çevirerek bu sorunları çözer. |
+| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | Çerezlerinizi kontrol edin! Bu eklenti Self Destructing Cookies'dan esinlenerek yapılmıştır. Bir sekme kapatıldığında, kullanılmayan çerezler otomatik olarak silinir. Güvendiğiniz çerezleri beyaz listeye kaydedebilirsiniz. Konteyner sekmeleri destekler. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. |
 | [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu. |
 | [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock). |
@@ -116,11 +116,11 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
+| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olmasından dolayı bazen sıkıntılı olabilmekte. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
-| [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) privacy search engine. Domain hosted in Germany. |
+| [searx.me](https://searx.me/) |  | [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizlilik için bir arama motoru. Alan adı Almanya'da tutulmakta. |
 | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
-| [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
+| [Qwant](https://www.qwant.com/) | **9-eyes** | 2018'in rehberinden beri büyük geliştirmeler yapıldı. *eskimiş kaynaktan başka daha iyi bir kaynak tercih edilir* |
 | [Swisscows](https://swisscows.ch) |  | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting. |
 | [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
 | [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. (@mynamesleon'a teşekkürler) |
@@ -139,9 +139,9 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [DTube](https://d.tube/) |  | Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS. |
 | [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (u/rudolf323'a teşekkürler) |
 | [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
-| [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
+| [Hooktube](https://hooktube.com/) |  | Asıl Youtube'u kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız) |
 | [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
-| [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
+| [US.TV](https://us.tv/) |  | Epik.com tarafından sunulan PeerTube hizmeti. |
 | [FreeTube](https://freetubeapp.io/) |  | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content. |
 
 
@@ -207,10 +207,10 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Joomla](https://www.joomla.org/) |  | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
-| [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
+| [Write.as](https://write.as/) |  | Gizlilik odaklı olduğunu söylemekte. |
 | [WordPress self-hosted](https://wordpress.org/) |  | The [open-source](https://code.trac.wordpress.org/browser/wordpress-sources) version of WordPress. A very popular tool and a recognized name. |
-| [concrete5](https://www.concrete5.org/) | **5-eyes** | [Open-source](https://github.com/concrete5) CMS. |
-| [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
+| [concrete5](https://www.concrete5.org/) | **5-eyes** | [Açık-kaynak](https://github.com/concrete5) CMS. |
+| [Noblogs](https://noblogs.org/) | **9-eyes** | Gizlilik/güvenlik odaklı bir blog platformu. |
 | [Ghost](https://ghost.org/) |  | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". (@peterge1998'e teşekkürler) |
 | [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
 | [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
@@ -222,8 +222,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (u/Newblik'e teşekkürler) |
-| [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
-| [Plausible](https://plausible.io/) | **5-eyes** | [Open-source](https://github.com/plausible/analytics), privacy-focused web analytics. |
+| [Fathom](https://usefathom.com/) | **5-eyes** | Blogger & şirketler için basit istatistikler. |
+| [Plausible](https://plausible.io/) | **5-eyes** | [Açık-kaynak](https://github.com/plausible/analytics), gizlilik odaklı web istatistikleri. |
 | [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available. |
 | [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
 | [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
@@ -663,10 +663,10 @@ No known alternatives.
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
-| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
-| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
-| [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
-| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
+| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | F-Droid'den istemciye erişilebilir. |
+| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | F-Droid'den indirin. |
+| [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | F-Droid'den indirin. |
+| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | F-Droid'den indirin. |
 | [DeltaChat](https://delta.chat/) [![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
 | [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
 
@@ -684,7 +684,7 @@ No known alternatives.
 | [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | [Open-source](https://github.com/gsantner/markor) notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
 | [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | [Open-source](https://github.com/orgzly). Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
 | [Notally](https://github.com/OmGodse/Notally) |  | A beautiful, light and minimalistic notes app with no trackers, ads or analytics of any kind. Not on F-Droid, but available from [this alternative market](https://apt.izzysoft.de/fdroid/index/apk/com.omgodse.notally). |
-| [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) [![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) |  | An android client for Nextcloud Notes App. |
+| [Nextcloud Notes for Android](https://github.com/stefan-niedermann/nextcloud-notes) [![F-Droid](https://img.shields.io/f-droid/v/it.niedermann.owncloud.notes?style=flat-square)](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) |  | Nextcloud Notes App için Android istemcisi. |
 
 
 
@@ -703,8 +703,8 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | [Open-source](https://github.com/FredJul/Flym) Material Design RSS reader. |
-| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
+| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | [Açık-kaynak](https://github.com/FredJul/Flym) Material Design RSS okuyucu. |
+| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Feeder ile eski moda RSS yayınlarını okuyun. |
 
 
 
@@ -712,8 +712,8 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
-| [Stingle Photos](https://stingle.org/) | **5-eyes** | A convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. All photos and videos are encrypted prior to being stored and backed up, so they are secure at rest, in transit and on cloud storage. |
+| [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | İlk başta Piwigo'yu ayarlamanız gerekmektedir. |
+| [Stingle Photos](https://stingle.org/) | **5-eyes** | Fotoğraf ve videolarınız için güçlü bir güvenlik, gizlilik ve şifreleme özelliğine sahip Backup ve Sync özelliği bulunan, kullanımı kolay ve kullanışlı Galeri/Kamera uygulaması. Bütün fotoğraf ve videolarınız depolanma ve yedeklemeden önce şifrelenir, yani depolanırken, sunucuya yedeklenirken ve sunucuda güvendedir. |
 
 
 
@@ -721,15 +721,15 @@ No known alternatives.
 
 No known alternatives.
 
-- *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
+- *Açıkçası, Google Pay'in gizlilik dostu bir alternatifi bulunmamakta. RFID korumalı bir cüzdan edinin ve kartlarınızı yanınızda bulundurun.*
 
 
 #### YouTube
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful [open-source](https://github.com/TeamNewPipe/NewPipe/) YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
+| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Güçlü, [açık-kaynak](https://github.com/TeamNewPipe/NewPipe/) YouTube alternatifi. Sadece ses, arkaplanda çalma, resim içerisinde resim (picture-in-picture) ve reklam engellemeyi desteklemektedir. |
+| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Bunu kullanmaya karar vermeden önce XDA'daki gönderiyi okuyun. |
 
 
 
@@ -749,8 +749,8 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An [open-source](https://github.com/nvllsvm/Audinaut) Airsonic client for Android. |
-| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An [open-source](https://gitlab.com/gateship-one/malp/) Android client for MPD. Available on F-Droid. |
+| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | [Açık-kaynak](https://github.com/nvllsvm/Audinaut) Android için bir Airsonic istemcisi. |
+| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | [Açık-kaynak](https://gitlab.com/gateship-one/malp/) MPD Android istemcisi. F-Droid'den indirebilirsiniz. |
 
 
 
@@ -763,7 +763,7 @@ No known alternatives.
 | [Element](https://github.com/vector-im/element-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.app?style=flat-square)](https://f-droid.org/en/packages/im.vector.app/) | **5-eyes** | Android app - The [open-source](https://github.com/vector-im/element-android) Android client for Element. |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an [open-source](https://github.com/jitsi) secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 | [Jami](https://jami.net/) [![F-Droid](https://img.shields.io/f-droid/v/cx.ring?style=flat-square)](https://f-droid.org/en/packages/cx.ring/) | **5-eyes** | Audio / Video Calls, Conferences, Messaging app with peer-to-peer and end-to-end encrypted communications. |
-| [Mumla (client for Mumble)](https://mumla-app.gitlab.io/) |  | Third-party Android client for Mumble. |
+| [Mumla (Mumble istemcisi)](https://mumla-app.gitlab.io/) |  | Mumble için üçüncü-parti Android istemcisi. |
 | [Briar](https://briarproject.org/) |  | An [open-source](https://code.briarproject.org/briar/briar/tree/master) app which supports Peer-to-Peer encrypted messaging. No phone number required for signing up. If the internet’s down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the internet’s up, Briar can sync via the Tor network, protecting users and their relationships from surveillance. Can install through a [third-party F-Droid repo](https://briarproject.org/installing-briar-via-f-droid/). |
 | [Session](https://getsession.org/) |  | [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. Can be downloaded from the Play Store or as an APK file from GitHub. Also has apps for iOS and Desktop. |
 
