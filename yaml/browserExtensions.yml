@@ -17,72 +17,72 @@
 - name: DDG Privacy Essentials
   url: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox
   text: |
-    Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
+    Gizlilik, basitleştirilmiş. Bu eklenti, internette nereye giderseniz gidin kişisel bilgilerinizi kontrolde tutmanız için size gizliliğin esaslarını sağlar: takipçi engelleme, daha akıllı şifreleme, DuckDuckGo gizli arama ve dahası.
 - name: I don't care about cookies
   url: https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
   text: |
-    This add-on will remove cookie warnings from almost all websites! You can report any website which still warns you about cookies: make a right click and choose 'Report a cookie warning' from the menu.
+    Bu eklenti neredeyse tüm sitelerden çerez uyarılarını kaldırır. Uyarı vermeye devam eden siteleri ihbar edebilirsiniz: eklentiye sağ tıklayın ve menüden 'Report a cookie warning' seçeneğine tıklayın.
 - name: minerBlock
   url: https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin
   text: |
-    MinerBlock is an efficient browser extension that focuses on blocking browser-based cryptocurrency miners all over the web. This extension uses two different approaches to block miners. The first one is based on blocking requests/scripts loaded from a blacklist, this is the traditional approach adopted by most ad-blockers and other mining blockers. The other approach which makes MinerBlock more efficient against cryptojacking is detecting potential mining behavior inside loaded scripts and kills them immediately. This makes the extension able to block inline scripts as well as miners running through proxies. Source code available on [GitHub](https://github.com/xd4rker/MinerBlock).
+    MinerBlock internetin her yerinde tarayıcı bazlı kripto-para madenciliğini engellemeye yoğunlaşan verimli bir eklentidir. Bu eklenti madencileri engellemek için iki farklı yöntem uygular. Birincisi karalistede olan istek/script bazında, bu yöntem çoğu reklam engelleyici ve diğer madenci engelleyicilerin kullandığı geleneklsel bir yöntemdir. MinerBlock'un kullandığı ve daha verimli olmasını sağladığı diğer bir yöntem ise scriptlerde bulunan ve madenciği andıran her bir davranışı engellemektir. Bu şekilde hizalı scriptler ve vekil sunucu ile madenciler engellenir. Kaynak kodu [GitHub'da](https://github.com/xd4rker/MinerBlock) yer alır.
 - name: ClearURLS
   url: https://addons.mozilla.org/en-US/firefox/addon/clearurls
   text: |
-    This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.
+    Bu eklenti URL'lerde bulunan takip öğelerini engelleyerek çevrimiçi ortamda gizliliğinizi korur.
 - name: Cloud Firewall
   url: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
   text: |
-    Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare.
+    Kullanıcı isteği üzerine başlıca bulut sunucularda barındırılan web sayaları ve kaynakları engeller. Google, Amazon, Facebook, Apple, Microsoft ve Cloudflare hizmetlerini engelleyebilir.
 - name: CSS Exfil Protection
   url: https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection
   text: |
-    CSS Exfil is a method attackers can use to steal data from web pages using Cascading Style Sheets (CSS). This plugin sanitizes and blocks any CSS rules which may be designed to steal data.
+    CSS Exfil saldırganların Cascading Style Sheets (CSS) kullanarak web sayfadaki verileri çalma yöntemidir. Bu eklenti veri çalmaya tasarlanmış olabilecek olan CSS kurallarını engelleyip temizler.
 - name: Disconnect
   url: https://addons.mozilla.org/en-US/firefox/addon/disconnect
   text: |
-    Visualize and block the otherwise invisible websites that track your search and browsing history.
+    Arama ve gezinti geçmişini takip eden görünmeyen web sitelerini bulup engelleyin.
 - name: Don't touch my tabs! (rel=noopener
   url: https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs
   text: |
-    Prevent tabs opened by a hyperlink from hijacking the previous tab by adding the rel=noopener attribute to all hyperlinks (excluding same-domain hyperlinks).
+    Tüm linklere "rel=noopener" niteliğini ekleyerek (aynı alan adı linkler hariç) hyperlink ile açılan yeni sekmelerin önceki sekmeye saldırmasını engeller.
 - name: Firefox Multi-Account Containers
   url: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers
   text: |
-    Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+    Firefox Multi-Account Containers ile renklerle kodlanmış sekmeler kullanarak çevrimiçi hayatınızı ayırmanıza yardımcı olur. Çerezleri ayrı konteynerlerde tutarak aynı anda birden fazla hesap kullanabilmenizi sağlar.
 - name: Google search link fix (also Yandex)
   url: https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix
   text: |
-    This extension prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
+    Bu eklenti Google ve Yandex'in arama sonuçların linklerini tıkladığınızda değiştiğirmelerini önler. Bu linkleri kopyaladığınızda işe yarar ama aynı zamanda tıklamalarınızın kaydedilmesini önleyip gizliliğinizin korunmasına yardımcı olur.
 - name: HTTPZ
   url: https://addons.mozilla.org/en-US/firefox/addon/httpz
   text: |
-    HTTPZ is meant to be unobtrusive and lightweight, it respects your privacy, and is free of trans fats. Additionally, it is very configurable, and should be slightly more secure than some of the alternatives out there, since it has a couple of built-in defenses against SSL-stripping attacks.
+    HTTPZ hafif bir eklenti olacak şekilde yapılmıştır, gizliliğinize saygı duyar ve trans yağ içermez. Ayrıca çok ayarlanabilir ve SSL-soyma saldırılara karşı korumaya sahip olduğu için diğer alternatiflerden biraz daha güvenli olması gerek.
 - name: Link Cleaner
   url: https://addons.mozilla.org/en-US/firefox/addon/link-cleaner
   text: |
-    Clean URLs that are about to be visited: removes utm_* parameters; on item pages of aliexpress and amazon, removes tracking parameters; skip redirect pages of facebook, steam and reddit
+    Ziyaret edilecek olan URL'leri temizler: utm_* parametrelerini kaldırır; aliexpress ve amazon sayfalarında takip öğelerini kaldırır; facebook, steam ve reddit sayfalarındaki yeniden yönlendirme sayfalarını atlar.
 - name: Privacy-Oriented Origin Policy
   url: https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy
   text: |
-    Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.
+    Gizliliğinizi korumak için Firefox'un gerekli olmadığı zamanlarda Origin başlıklrını göndermesini önler.
 - name: Skip Redirect
   url: https://addons.mozilla.org/en-US/firefox/addon/skip-redirect
   text: |
-    Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+    Bazı web sayfaları son sayfaya yönlendirmeden önce aracı sayfalardan geçirirler. Bu eklenti son URL'yi bulup mümkünse direkt varış sayfaya atlamasını sağlar.
 - name: Temporary Containers
   url: https://addons.mozilla.org/en-US/firefox/addon/temporary-containers
   text: |
-    Open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other, enhancing your privacy and security while you browse.
+    Sekmeleri, web sayfaları ve linkleri otomatik olarak yönetilen tek kullanımlık konteynerlerde açın. Konteynerler web sitelerin depoladıkları verileri (çerezler, depolama ve diğerler) diğer sekmelerden izole ederler, böylece gizliliğinizin ve güvenliğinizin korunmasına katkı sağlarlar.
 - name: TrackMeNot
   url: https://addons.mozilla.org/en-US/firefox/addon/trackmenot
   text: |
-    An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile and registers your discontent with surreptitious tracking.
+    İnternette ararken gizliliğinizi koruyan bir eklentidir. Yaygın arama motorlarına rastgele oluşturulmuş sorguları göndererek sizin arama profilinizi saklı tutar.
 - name: Redirect AMP to HTML
   url: https://addons.mozilla.org/en-US/firefox/addon/amp2html
   text: |
-    This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead.
+    Bu eklenti ile Accelerated Mobile Pages (AMP) kullanımından vazgeçip standart web kullanmanıza izin verir.
 - name: user.js
   url: https://github.com/arkenfox/user.js
   text: |
-    This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen).
+    Bu bir eklenti değildir, bu Firefox'un `user.js` config dosyasıdır. Bu dosya mümkün olabildiğince gizliliğinizi ve güvenliğinizi arttırıp takibi ve iz bırakmayı en aza indirmenize yardımcı olacak olan bir taslaktır. Stabiliteden ve fonksyonellikten minimum taviz verilmeye çalışılsa da yinede kayıplar mümkündür.
