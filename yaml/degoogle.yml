@@ -10,7 +10,7 @@ web based products:
       url: https://www.startpage.com/
       eyes: 9
       text: |
-        Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
+        Herhangi bir verinizi takip etmeyeceğini söyleyen bir arama motoru. ABD ve Avrupa'da sağlayıcıları bulunmakta. Not: Startpage yakın zamanda satın alındı. [Issue #12](https://github.com/tycrek/degoogle/issues/12)'ye bakınız. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Aynı zamanda Startpage hakkında da @danarel tarafından yapılan [Issue #99'daki bu yorum](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650)a bakınız.
     - name: searx.me
       url: https://searx.me/
       eyes: null
@@ -20,7 +20,7 @@ web based products:
       url: https://metager.org/about
       eyes: 14
       text: |
-        MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
+        MetaGer; Almanya'daki kayıtlı, kâr amacı gütmeyen kuruluşlardan biri olan SUMA E.V tarafından yürütülen bir arama motoru projesidir.
     - name: Qwant
       url: https://www.qwant.com/
       eyes: 9
@@ -40,17 +40,17 @@ web based products:
       url: https://ekoru.org/
       eyes: null
       text: |
-        Privacy focused search engine that also aims to clean up the oceans. (@mynamesleon'a teşekkürler)
+        Aynı zamanda okyanusları temizlemeyi amaçlayan gizlilik-odaklı arama motoru. (@mynamesleon'a teşekkürler)
     - name: Cyberd
       url: https://cyber.page/
       eyes: null
       text: |
-        Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
+        Merkezi olmayan Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
     - name: Infinity Search
       url: https://infinitysearch.co/
       eyes: 5
       text: |
-        Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely [open-source](https://gitlab.com/infinitysearch/infinity-search).
+        Infinity Search kullanıcıları hakkında hiçbir bilgiyi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynak](https://gitlab.com/infinitysearch/infinity-search)tır.
     - name: Runnaroo
       url: https://www.runnaroo.com/
       eyes: 5
@@ -72,7 +72,7 @@ web based products:
       url: https://d.tube/
       eyes: null
       text: |
-        Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS.
+        Youtube'a çok benzer. "ilk crypt-decentralized video hizmeti" olarak pazarlanmıştır. Steemit ve IPFS üzerine kuruludur.
     - name: Bit.tube
       url: https://bit.tube/
       eyes: null
@@ -92,7 +92,7 @@ web based products:
       url: https://lbry.com/
       eyes: null
       text: |
-        A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is [open-source](https://github.com/lbryio) and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke.
+        İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platform. Açık, topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmakta. Blok-zincire dayanarak videolara bakmakta, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır.
     - name: US.TV
       url: https://us.tv/
       eyes: null
