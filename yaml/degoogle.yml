@@ -5,7 +5,7 @@ web based products:
       url: https://duckduckgo.com/
       eyes: 5
       text: |
-        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olmasından dolayı bazen sıkıntılı olabilmekte.
+        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olması bazı kişiler için sıkıntı olabilir.
     - name: Startpage
       url: https://www.startpage.com/
       eyes: 9
