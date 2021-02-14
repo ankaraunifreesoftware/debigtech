@@ -10,17 +10,17 @@ web based products:
       url: https://www.startpage.com/
       eyes: 9
       text: |
-        Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage.
+        Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem ABD'de hem Avrupada işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın.
     - name: searx.me
       url: https://searx.me/
       eyes: null
       text: |
-        [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizlilik için bir arama motoru. Alan adı Almanya'da tutulmakta.
+        [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizliliğe önem veren bir arama motoru. Alan adı Almanya'da kayıtlı.
     - name: MetaGer
       url: https://metager.org/about
       eyes: 14
       text: |
-        MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany.
+        MetaGer kar amacı gütmeyen alman bir kuruluş olan SUMA E.V. tarafından oluşturulmuş bir arama motorudur.
     - name: Qwant
       url: https://www.qwant.com/
       eyes: 9
@@ -30,7 +30,7 @@ web based products:
       url: https://swisscows.ch
       eyes: null
       text: |
-        A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting.
+        Ağ, resimler, videolar, müzik ve dahası için benzersiz arama deneyimi sunan İsviçreli arama motoru. Şu anda bir posta servisini fonlama ile uğraşıyorlar. [Datacenter hakkında bu sayfayı](https://swisscows.ch/en/datacenter) bu yazıyı okuyun, bayağı ilginç.
     - name: Mojeek
       url: https://www.mojeek.com/
       eyes: 5
