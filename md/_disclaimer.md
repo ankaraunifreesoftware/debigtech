@@ -1,6 +1,6 @@
 # Alternatifler
 
-### *Sorumluluk reddi*
+## *Sorumluluk reddi*
 
 1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
 2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.

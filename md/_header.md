@@ -5,10 +5,8 @@
 
 
 
-
-[//]: # (NOTE: Please do NOT directly edit this file! Instead, edit)
-[//]: # (either degoogle.yml or any Markdown file in the md/ directory)
-
+[//]: # (NOT: Bu dosyayı lütfen düzenlemeyiniz!)
+[//]: # (onun yerine degoogle.yml ya da /md klasöründeki bir dosyayı düzenleyiniz.)
 
 
 
@@ -18,7 +16,7 @@
 
 # Google'ı hayatınızdan çıkarmak
 
-### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
+## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
 ![Updated](https://img.shields.io/static/v1?label=updated&message={{DATE}}&color=388E3C&style=flat-square)
 

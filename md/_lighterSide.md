@@ -14,4 +14,4 @@
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV'den Leo Laporte ve ben her hafta yaklaşık iki saat boyunca kişisel bilişim güvenliğindeki sorunları hakkında konuşuruz." (u/Abaddon182'a teşekkürler)
 - Diğer:
   - [xkcd](https://xkcd.com/) - *Her şey* için karikatürleri var.
-  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
+  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) ve [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
