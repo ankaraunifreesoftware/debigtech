@@ -114,7 +114,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olmasından dolayı bazen sıkıntılı olabilmekte. |
+| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olması bazı kişiler için sıkıntı olabilir. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
 | [searx.me](https://searx.me/) |  | [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizlilik için bir arama motoru. Alan adı Almanya'da tutulmakta. |
 | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
