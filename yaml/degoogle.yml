@@ -5,22 +5,22 @@ web based products:
       url: https://duckduckgo.com/
       eyes: 5
       text: |
-        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olmasından dolayı bazen sıkıntılı olabilmekte.
+        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olması bazı kişiler için sıkıntı olabilir.
     - name: Startpage
       url: https://www.startpage.com/
       eyes: 9
       text: |
-        Herhangi bir verinizi takip etmeyeceğini söyleyen bir arama motoru. ABD ve Avrupa'da sağlayıcıları bulunmakta. Not: Startpage yakın zamanda satın alındı. [Issue #12](https://github.com/tycrek/degoogle/issues/12)'ye bakınız. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Aynı zamanda Startpage hakkında da @danarel tarafından yapılan [Issue #99'daki bu yorum](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650)a bakınız.
+        Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem ABD'de hem Avrupada işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın.
     - name: searx.me
       url: https://searx.me/
       eyes: null
       text: |
-        [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizlilik için bir arama motoru. Alan adı Almanya'da tutulmakta.
+        [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizliliğe önem veren bir arama motoru. Alan adı Almanya'da kayıtlı.
     - name: MetaGer
       url: https://metager.org/about
       eyes: 14
       text: |
-        MetaGer; Almanya'daki kayıtlı, kâr amacı gütmeyen kuruluşlardan biri olan SUMA E.V tarafından yürütülen bir arama motoru projesidir.
+        MetaGer kar amacı gütmeyen alman bir kuruluş olan SUMA E.V. tarafından oluşturulmuş bir arama motorudur.
     - name: Qwant
       url: https://www.qwant.com/
       eyes: 9
@@ -30,17 +30,17 @@ web based products:
       url: https://swisscows.ch
       eyes: null
       text: |
-        A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting.
+        Ağ, resimler, videolar, müzik ve dahası için benzersiz arama deneyimi sunan İsviçreli arama motoru. Şu anda bir posta servisini fonlama ile uğraşıyorlar. [Datacenter hakkında bu sayfayı](https://swisscows.ch/en/datacenter) bu yazıyı okuyun, bayağı ilginç.
     - name: Mojeek
       url: https://www.mojeek.com/
       eyes: 5
       text: |
-        Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy.
+        Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkiliyeci.
     - name: Ekoru
       url: https://ekoru.org/
       eyes: null
       text: |
-        Aynı zamanda okyanusları temizlemeyi amaçlayan gizlilik-odaklı arama motoru. (@mynamesleon'a teşekkürler)
+        Gizliliğe odaklanan, aynı zamanda okyanusları temizlemeyi de amaçlayan arama motoru. (@mynamesleon'a teşekkürler)
     - name: Cyberd
       url: https://cyber.page/
       eyes: null
