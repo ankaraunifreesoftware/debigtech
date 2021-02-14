@@ -5,10 +5,8 @@
 
 
 
-
-[//]: # (NOTE: Please do NOT directly edit this file! Instead, edit)
-[//]: # (either degoogle.yml or any Markdown file in the md/ directory)
-
+[//]: # (NOT: Bu dosyayı lütfen düzenlemeyiniz!)
+[//]: # (onun yerine degoogle.yml ya da /md klasöründeki bir dosyayı düzenleyiniz.)
 
 
 
@@ -18,9 +16,9 @@
 
 # Google'ı hayatınızdan çıkarmak
 
-### *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
+## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2013th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2014th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -92,7 +90,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 # Alternatifler
 
-### *Sorumluluk reddi*
+## *Sorumluluk reddi*
 
 1. Sadece **gizlilik/güvenlik** tabanlı alternatifler yer alacaktır.
 2. Çoğu alternatif [bu Wikipedi makalesine (List of Google products)][wiki] göre önerilmiştir.
@@ -974,12 +972,12 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
   - [Security Now!](https://www.grc.com/SecurityNow.htm) - "TechTV'den Leo Laporte ve ben her hafta yaklaşık iki saat boyunca kişisel bilişim güvenliğindeki sorunları hakkında konuşuruz." (u/Abaddon182'a teşekkürler)
 - Diğer:
   - [xkcd](https://xkcd.com/) - *Her şey* için karikatürleri var.
-  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
+  - System32 Comics [Instagram](https://www.instagram.com/system32comics/) ve [Reddit](https://www.reddit.com/r/System32Comics/) - Komedik bilgisayar karikatürleri.
 
 
 # Son sözler
 
-Google'ın tüm kaynaklarına, gücüne ve yarattığı etkilere rağmen insanların çevrimiçi hayatlarında kendilerini güvende tutmalarına yardım etmeyi istememesi hayal kırıklığına uğratıyor. Bunun yerine kişisel verileri pazarlamaktan kazanç elde etmeye bakarken insanları alternatif servis ve uygulamaları bulmaya zorlayıp aile ve arkadaşlarını da bu alternatiflere geçirmeye uğraşmaya zorluyor. 
+Google'ın tüm kaynaklarına, gücüne ve yarattığı etkilere rağmen insanların çevrimiçi hayatlarında kendilerini güvende tutmalarına yardım etmeyi istememesi hayal kırıklığına uğratıyor. Bunun yerine kişisel verileri pazarlamaktan kazanç elde etmeye bakarken insanları alternatif servis ve uygulamaları bulmaya zorlayıp aile ve arkadaşlarını da bu alternatiflere geçirmeye uğraşmaya zorluyor.
 
 Umarım ki bu rehber yeni gelenlere başlangıç noktası ve uzmanlara hatırlatıcı olarak işe yarar.
 
