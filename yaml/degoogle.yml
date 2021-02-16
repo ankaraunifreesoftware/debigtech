@@ -45,29 +45,29 @@ web based products:
       url: https://cyber.page/
       eyes: null
       text: |
-        Merkezi olmayan Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info.
+        Merkezi olmayan Google. Google arama motoru için web 3 alternatifi. Beta test aşamasında. Güvenlik ve ekonomik teşvikler tedbirleri için IPFS ve Tendermint konsensüs kullanır. Daha fazla bilgi için [SSS](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) sayfasına bakın.
     - name: Infinity Search
       url: https://infinitysearch.co/
       eyes: 5
       text: |
-        Infinity Search kullanıcıları hakkında hiçbir bilgiyi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynak](https://gitlab.com/infinitysearch/infinity-search)tır.
+        Infinity Search kullanıcıları hakkında hiçbir bilgi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynaktır](https://gitlab.com/infinitysearch/infinity-search).
     - name: Runnaroo
       url: https://www.runnaroo.com/
       eyes: 5
       text: |
-        "Runnaroo was built from the ground up to provide an all around better search experience." (@codingepaduli'e teşekkürler)
+        "Runnaroo her yönden daha iyi bir arama deneyimi sunmak için sıfırdan yapılmıştır." (@codingepaduli'e teşekkürler)
   youtube:
     - title: YouTube
     - name: PeerTube
       url: https://joinpeertube.org/
       eyes: null
       text: |
-        Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. @kdkasad'a federasyon açıklamasından dolayı teşekkürler.
+        Merkezi olmayan, birleştirilmiş video paylaşım ağı. Henüz daha küçük ama gelişiyor ve kendi topluluğu var. Merkezi bir veritabanı/sunucu olmasa da tüm ayrı örnekler birbiri ile iletişime geçebilirler. Böyle olması sadece bir örneğe bağlanarak veri alışverişini ve herhangi videoya erişmeyi mümkün kılar. @kdkasad'a federasyon açıklaması için teşekkürler.
     - name: BitChute
       url: https://www.bitchute.com/
       eyes: 5
       text: |
-        Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (u/up-sky-7'a teşekkürler)
+        P2P ama merkezi. Tescilli hizmet olduğu için, BitChute çökse tüm hizmet erişilmez olur (PeerTube'dan nazara). (u/up-sky-7'a teşekkürler)
     - name: DTube
       url: https://d.tube/
       eyes: null
@@ -77,22 +77,22 @@ web based products:
       url: https://bit.tube/
       eyes: null
       text: |
-        Appears to be a crypto-powered decentralized video sharing service. (u/rudolf323'a teşekkürler)
+        Şifrelem destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler)
     - name: Invidious
       url: https://invidio.us/
       eyes: null
       text: |
-        An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles).
+        YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbirşey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil).
     - name: Hooktube
       url: https://hooktube.com/
       eyes: null
       text: |
-        Asıl Youtube'u kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız)
+        Youtube'un aslını kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız)
     - name: LBRY
       url: https://lbry.com/
       eyes: null
       text: |
-        İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platform. Açık, topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmakta. Blok-zincire dayanarak videolara bakmakta, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır.
+        İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platformdur. Açık ve topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmaktadır. Blok-zincire dayanarak videolara erişilebilir, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır.
     - name: US.TV
       url: https://us.tv/
       eyes: null
@@ -102,7 +102,7 @@ web based products:
       url: https://freetubeapp.io/
       eyes: null
       text: |
-        [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content.
+         İçerik sunmak için Invidio.us API kullanan [açık kaynak](https://github.com/FreeTubeApp/FreeTube) masaüstü YouTube istemcisidir.
   news:
     - title: Haberler
     - name: Yerel gazete
