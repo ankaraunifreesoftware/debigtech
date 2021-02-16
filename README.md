@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2014th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2016th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -122,9 +122,9 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Swisscows](https://swisscows.ch) |  | Ağ, resimler, videolar, müzik ve dahası için benzersiz arama deneyimi sunan İsviçreli arama motoru. Şu anda bir posta servisini fonlama ile uğraşıyorlar. [Datacenter hakkında bu sayfayı](https://swisscows.ch/en/datacenter) bu yazıyı okuyun, bayağı ilginç. |
 | [Mojeek](https://www.mojeek.com/) | **5-eyes** | Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkiliyeci. |
 | [Ekoru](https://ekoru.org/) |  | Gizliliğe odaklanan, aynı zamanda okyanusları temizlemeyi de amaçlayan arama motoru. (@mynamesleon'a teşekkürler) |
-| [Cyberd](https://cyber.page/) |  | Merkezi olmayan Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
-| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search kullanıcıları hakkında hiçbir bilgiyi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynak](https://gitlab.com/infinitysearch/infinity-search)tır. |
-| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." (@codingepaduli'e teşekkürler) |
+| [Cyberd](https://cyber.page/) |  | Merkezi olmayan Google. Google arama motoru için web 3 alternatifi. Beta test aşamasında. Güvenlik ve ekonomik teşvikler tedbirleri için IPFS ve Tendermint konsensüs kullanır. Daha fazla bilgi için [SSS](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) sayfasına bakın. |
+| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search kullanıcıları hakkında hiçbir bilgi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynaktır](https://gitlab.com/infinitysearch/infinity-search). |
+| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo her yönden daha iyi bir arama deneyimi sunmak için sıfırdan yapılmıştır." (@codingepaduli'e teşekkürler) |
 
 
 
@@ -132,15 +132,15 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. @kdkasad'a federasyon açıklamasından dolayı teşekkürler. |
-| [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (u/up-sky-7'a teşekkürler) |
+| [PeerTube](https://joinpeertube.org/) |  | Merkezi olmayan, birleştirilmiş video paylaşım ağı. Henüz daha küçük ama gelişiyor ve kendi topluluğu var. Merkezi bir veritabanı/sunucu olmasa da tüm ayrı örnekler birbiri ile iletişime geçebilirler. Böyle olması sadece bir örneğe bağlanarak veri alışverişini ve herhangi videoya erişmeyi mümkün kılar. @kdkasad'a federasyon açıklaması için teşekkürler. |
+| [BitChute](https://www.bitchute.com/) | **5-eyes** | P2P ama merkezi. Tescilli hizmet olduğu için, BitChute çökse tüm hizmet erişilmez olur (PeerTube'dan nazara). (u/up-sky-7'a teşekkürler) |
 | [DTube](https://d.tube/) |  | Youtube'a çok benzer. "ilk crypt-decentralized video hizmeti" olarak pazarlanmıştır. Steemit ve IPFS üzerine kuruludur. |
-| [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (u/rudolf323'a teşekkürler) |
-| [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
-| [Hooktube](https://hooktube.com/) |  | Asıl Youtube'u kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız) |
-| [LBRY](https://lbry.com/) |  | İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platform. Açık, topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmakta. Blok-zincire dayanarak videolara bakmakta, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır. |
+| [Bit.tube](https://bit.tube/) |  | Şifrelem destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler) |
+| [Invidious](https://invidio.us/) |  | YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbirşey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil). |
+| [Hooktube](https://hooktube.com/) |  | Youtube'un aslını kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız) |
+| [LBRY](https://lbry.com/) |  | İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platformdur. Açık ve topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmaktadır. Blok-zincire dayanarak videolara erişilebilir, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır. |
 | [US.TV](https://us.tv/) |  | Epik.com tarafından sunulan PeerTube hizmeti. |
-| [FreeTube](https://freetubeapp.io/) |  | [Open-source](https://github.com/FreeTubeApp/FreeTube) desktop YouTube client that uses the Invidio.us API to serve content. |
+| [FreeTube](https://freetubeapp.io/) |  | İçerik sunmak için Invidio.us API kullanan [açık kaynak](https://github.com/FreeTubeApp/FreeTube) masaüstü YouTube istemcisidir. |
 
 
 
