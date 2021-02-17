@@ -106,20 +106,20 @@ web based products:
   news:
     - title: Haberler
     - name: Yerel gazete
-      url: https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country
+      url: https://tr.wikipedia.org/wiki/Kategori:%C3%9Clkelerine_g%C3%B6re_gazete_listeleri
       eyes: null
       text: |
-        Support independent and qualitative journalism in your community.
+        Bağımsız ve nitelikli gazeteciliğe destek olun.
     - name: AllSides
       url: https://www.allsides.com/unbiased-balanced-news
       eyes: null
       text: |
-        Unbiased news source (primarily for US politics). (@jeanofthedead'e teşekkürler)
+        Tarafsız haber kaynağı (öncelikle ABD siyaseti hakkında). (@jeanofthedead'e teşekkürler)
     - name: Miniflux
       url: https://miniflux.app/
       eyes: null
       text: |
-        Miniflux is a minimalist and opinionated feed reader. Completely [open-source](https://github.com/miniflux), along with automatically removing pixel trackers.
+        Miniflux bir minimalist kaynak okuyucudur. Piksel takipçileri engelleme özelliğine sahiptir ve tamamen [açık kaynaktır](https://github.com/miniflux).
   groups:
     - title: Gruplar
     - notes:
