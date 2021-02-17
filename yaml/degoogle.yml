@@ -123,7 +123,7 @@ web based products:
   groups:
     - title: Gruplar
     - notes:
-      - Use other forum sites relating to specific topics. This is a very broad service.
+      - Bu çok geniş kapsamlı hizmettir, spesifik konular için diğer forumlara bakın.
     - name: Sympa
       url: https://www.sympa.org/
       eyes: null
