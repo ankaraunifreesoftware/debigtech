@@ -163,7 +163,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% [open-source](https://github.com/discourse/discourse) discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
 | [Groups.io](https://groups.io/) | **5-eyes** | a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support. |
 
-- *Use other forum sites relating to specific topics. This is a very broad service.*
+- *Bu çok geniş kapsamlı hizmettir, spesifik konular için diğer forumlara bakın.*
 
 
 #### Translate
