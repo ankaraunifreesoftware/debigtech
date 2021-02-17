@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2016th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2017th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -148,9 +148,9 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Yerel gazete](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
-| [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). (@jeanofthedead'e teşekkürler) |
-| [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely [open-source](https://github.com/miniflux), along with automatically removing pixel trackers. |
+| [Yerel gazete](https://tr.wikipedia.org/wiki/Kategori:%C3%9Clkelerine_g%C3%B6re_gazete_listeleri) |  | Bağımsız ve nitelikli gazeteciliğe destek olun. |
+| [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Tarafsız haber kaynağı (öncelikle ABD siyaseti hakkında). (@jeanofthedead'e teşekkürler) |
+| [Miniflux](https://miniflux.app/) |  | Miniflux bir minimalist kaynak okuyucudur. Piksel takipçileri engelleme özelliğine sahiptir ve tamamen [açık kaynaktır](https://github.com/miniflux). |
 
 
 
