@@ -170,7 +170,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadıysanız çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler) |
+| [DeepL](https://deepl.com/) | **14-eyes** | DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadığınız takdirde çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler) |
 | [Apertium](https://apertium.org/) |  | Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmetidir. |
 
 
