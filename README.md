@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2017th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2020th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -114,13 +114,13 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olması bazı kişiler için sıkıntı olabilir. |
-| [Startpage](https://www.startpage.com/) | **9-eyes** | Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem ABD'de hem Avrupada işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın. |
+| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının Amerika Birleşik Devletleri'nde kayıtlı olması bazı kişiler için sıkıntı olabilir. |
+| [Startpage](https://www.startpage.com/) | **9-eyes** | Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem Amerika Birleşik Devletleri'nde hem Avrupa'da işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın. |
 | [searx.me](https://searx.me/) |  | [Açık-kaynak](https://github.com/asciimoo/searx) (açıklama için u/Sheezdudeln'e teşekkürler) gizliliğe önem veren bir arama motoru. Alan adı Almanya'da kayıtlı. |
 | [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer kar amacı gütmeyen alman bir kuruluş olan SUMA E.V. tarafından oluşturulmuş bir arama motorudur. |
 | [Qwant](https://www.qwant.com/) | **9-eyes** | 2018'in rehberinden beri büyük geliştirmeler yapıldı. *eskimiş kaynaktan başka daha iyi bir kaynak tercih edilir* |
 | [Swisscows](https://swisscows.ch) |  | Ağ, resimler, videolar, müzik ve dahası için benzersiz arama deneyimi sunan İsviçreli arama motoru. Şu anda bir posta servisini fonlama ile uğraşıyorlar. [Datacenter hakkında bu sayfayı](https://swisscows.ch/en/datacenter) bu yazıyı okuyun, bayağı ilginç. |
-| [Mojeek](https://www.mojeek.com/) | **5-eyes** | Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkiliyeci. |
+| [Mojeek](https://www.mojeek.com/) | **5-eyes** | Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkileyici. |
 | [Ekoru](https://ekoru.org/) |  | Gizliliğe odaklanan, aynı zamanda okyanusları temizlemeyi de amaçlayan arama motoru. (@mynamesleon'a teşekkürler) |
 | [Cyberd](https://cyber.page/) |  | Merkezi olmayan Google. Google arama motoru için web 3 alternatifi. Beta test aşamasında. Güvenlik ve ekonomik teşvikler tedbirleri için IPFS ve Tendermint konsensüs kullanır. Daha fazla bilgi için [SSS](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) sayfasına bakın. |
 | [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search kullanıcıları hakkında hiçbir bilgi tutmayan gizlilik amaçlı meta arama motorudur. Gizlilik açısından DuckDuckGo ile aynı şekilde çalışır. Kullanımı ücretsizdir ve sizi takip etmeyen reklamlar ve referans linkleri ile fonlanmaktadır. Tamamen [açık-kaynaktır](https://gitlab.com/infinitysearch/infinity-search). |
@@ -135,8 +135,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [PeerTube](https://joinpeertube.org/) |  | Merkezi olmayan, birleştirilmiş video paylaşım ağı. Henüz daha küçük ama gelişiyor ve kendi topluluğu var. Merkezi bir veritabanı/sunucu olmasa da tüm ayrı örnekler birbiri ile iletişime geçebilirler. Böyle olması sadece bir örneğe bağlanarak veri alışverişini ve herhangi videoya erişmeyi mümkün kılar. @kdkasad'a federasyon açıklaması için teşekkürler. |
 | [BitChute](https://www.bitchute.com/) | **5-eyes** | P2P ama merkezi. Tescilli hizmet olduğu için, BitChute çökse tüm hizmet erişilmez olur (PeerTube'dan nazara). (u/up-sky-7'a teşekkürler) |
 | [DTube](https://d.tube/) |  | Youtube'a çok benzer. "ilk crypt-decentralized video hizmeti" olarak pazarlanmıştır. Steemit ve IPFS üzerine kuruludur. |
-| [Bit.tube](https://bit.tube/) |  | Şifrelem destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler) |
-| [Invidious](https://invidio.us/) |  | YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbirşey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil). |
+| [Bit.tube](https://bit.tube/) |  | Şifreleme destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler) |
+| [Invidious](https://invidio.us/) |  | YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbir şey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil). |
 | [Hooktube](https://hooktube.com/) |  | Youtube'un aslını kullanmak için daha iyi bir yol. ("son çare" olarak kullanınız) |
 | [LBRY](https://lbry.com/) |  | İçerik oluşturucuların içeriklerini desteklemek ve dağıtmak için bir merkezi olmayan platformdur. Açık ve topluluk tarafından yürütülen bir "sanal mağaza" olmayı amaçlamaktadır. Youtube'a benzer bir şekilde kullanılabilir, yani gezinme, kanallara abone olma, "bahşiş göndermek için bir sistem" bulunmaktadır. Blok-zincire dayanarak videolara erişilebilir, sansürsüz ve [açık-kaynak](https://github.com/lbryio)tır. Minutephysics, Veritasium, Barnacules and Lunduke gibi daha büyük içerik oluşturucuları da bulundurmaktadır. |
 | [US.TV](https://us.tv/) |  | Epik.com tarafından sunulan PeerTube hizmeti. |
@@ -166,12 +166,12 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 - *Bu çok geniş kapsamlı hizmettir, spesifik konular için diğer forumlara bakın.*
 
 
-#### Translate
+#### Çeviri
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. (u/TheCy-FiJuggernaut'a teşekkürler) |
-| [Apertium](https://apertium.org/) |  | A free, [open-source](https://github.com/apertium/apertium) translation system. |
+| [DeepL](https://deepl.com/) | **14-eyes** | DeepL yapay zeka destekli bir çeviri servisidir. **Lütfen, Pro almazsanız DeepL'nin çevirdiğiniz metinleri takip edeceğini aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakın. (u/TheCy-FiJuggernaut'a teşekkürler) |
+| [Apertium](https://apertium.org/) |  | Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmeti. |
 
 
 
@@ -191,7 +191,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### G Suite (enterprise cloud)
+#### G Suite (işletmeler için bulut ortamı)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
