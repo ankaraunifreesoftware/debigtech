@@ -170,8 +170,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL yapay zeka destekli bir çeviri servisidir. **Lütfen, Pro almazsanız DeepL'nin çevirdiğiniz metinleri takip edeceğini aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakın. (u/TheCy-FiJuggernaut'a teşekkürler) |
-| [Apertium](https://apertium.org/) |  | Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmeti. |
+| [DeepL](https://deepl.com/) | **14-eyes** | DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadıysanız çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler) |
+| [Apertium](https://apertium.org/) |  | Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmetidir. |
 
 
 
@@ -179,7 +179,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
+| [EthicalAds](https://www.ethicalads.io/) |  | "Read the Docs" arkasındakilerin yaptığı geliştirici odaklı, gizlilik esaslı reklam ağı.Kaynak kodu [GitHub'da](https://github.com/readthedocs/ethical-ad-server) bulunabilir. |
 
 
 
@@ -187,7 +187,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
+| [F5Bot](https://f5bot.com/) | **5-eyes** | Belirttiğiniz sözcüklerin Reddit'te, Hacker News'te veya Lobsters'te bahsedildiğinde size eposta gönderilir. |
 
 
 
