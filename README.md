@@ -278,7 +278,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Docs/Sheets/Slides (offline)
+#### Docs/Sheets/Slides (çevrimdışı)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -319,7 +319,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Hangouts (text/video messaging)
+#### Hangouts (yazı/video mesajlaşma)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -338,7 +338,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 - *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
-#### Gmail (mail service)
+#### Gmail (e-posta hizmeti)
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -360,7 +360,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
 
-- *This is just for the Gmail service, not a client*
+- *Bu bölüm sadece Gmail hizmeti için değildir, servisi içindir.*
 
 
 #### Keep
@@ -377,7 +377,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Play Music, Movies, & TV
+#### Play Müzik, Filmler, & TV
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
@@ -389,8 +389,8 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
 | [Tribler](https://www.tribler.org/) |  | [Open-source](https://github.com/Tribler/tribler) peer-to-peer file sharing that provides a "Youtube"-like streaming experience. Tribler uses Tor-like onion routing to protect the privacy of its users. |
 
-- *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
-- *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.*
+- *[Emby](https://emby.media/)'i' artık [açık kaynak olmadıkları için](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html) öneremem.*
+- *u/eA8KESARaW6iqCpHsbE4'e Jellyfin'i önerdiği and Emby'nin açık kaynak olmadığını belirttiği için teşekkürler.*
 
 
 #### Fontlar
@@ -454,17 +454,17 @@ No known alternatives.
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
-| [LineageOS](https://www.lineageos.org/) | **5-eyes** | [Open-source](https://github.com/lineageos) and based on Android, but without the crap. |
+| [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu ama telefonlar için. |
+| [LineageOS](https://www.lineageos.org/) | **5-eyes** | Android tabanlı, [açık kaynak](https://github.com/lineageos) ama ıvır zıvırın bulunmadığı bir işletim sistemi. |
 | [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an [open-source](http://releases.sailfishos.org/sources/) Mer GNU/Linux base. |
 | [GrapheneOS](https://grapheneos.org/) |  | [Open-source](https://github.com/GrapheneOS) Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
-| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone. |
-| [postmarketOS](https://postmarketos.org/) |  | [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
-| [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
-| [CalyxOS](https://calyxos.org/) |  | [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
+| [CopperheadOS](https://copperhead.co/android) | **5-eyes-eyes** | Android uygulamalarıyla uyumlu, gizlilik ve güvenlik odaklı mobil işletim sistemi. En yeni, güvenli Android telefonlarda Google'sız bir Android işletim sistemi olarak ön plana çıkmaktadır. |
+| [postmarketOS](https://postmarketos.org/) |  | [Açık-kaynak](https://gitlab.com/postmarketOS) mobil Linux işletim sistemi. [Plasma Mobile](https://www.plasma-mobile.org/) gibi farklı kullanıcı arayüzleri de kurulabilmektedir. (@okias'a teşekkürler) |
+| [Replicant](https://replicant.us/) | **5-eyes** | Ücretsiz Android dağıtımı. "özgürlük ve gizlilik/güvenlik"e önem vermektedir. |
+| [CalyxOS](https://calyxos.org/) |  | [Açık kaynak](https://gitlab.com/CalyxOS), gizlilik ve güvenliğe önem veren bir Android-tabanlı işletim sistemi. İyi bir gizlilik/güvenlik ve kullanım deneyimi sunar. MicroG desteklemektedir. |
 
-- *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
-- *Please see Issue #55 for details on /e/.*
+- *Bunun için ya bootloader'ı açık rootlu bir cihaza sahip olacaksınız ya da hangi işletim sistemini kullanmak istediğinize bağlı bir cihaz satın alacaksınız.*
+- */e/ hakkındaki detaylara bakmak için lütfen Issue #55'e bakınız.*
 
 
 #### Chrome OS
