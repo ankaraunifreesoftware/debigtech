@@ -150,26 +150,26 @@ web based products:
       url: https://deepl.com/
       eyes: 14
       text: |
-        DeepL yapay zeka destekli bir çeviri servisidir. **Lütfen, Pro almazsanız DeepL'nin çevirdiğiniz metinleri takip edeceğini aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakın. (u/TheCy-FiJuggernaut'a teşekkürler)
+        DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadıysanız çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler)
     - name: Apertium
       url: https://apertium.org/
       eyes: null
       text: |
-        Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmeti.
+        Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmetidir.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
       url: https://www.ethicalads.io/
       eyes: null
       text: |
-        A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server).
+        "Read the Docs" arkasındakilerin yaptığı geliştirici odaklı, gizlilik esaslı reklam ağı.Kaynak kodu [GitHub'da](https://github.com/readthedocs/ethical-ad-server) bulunabilir.
   alerts:
     - title: Google Alerts
     - name: F5Bot
       url: https://f5bot.com/
       eyes: 5
       text: |
-        Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
+        Belirttiğiniz sözcüklerin Reddit'te, Hacker News'te veya Lobsters'te bahsedildiğinde size eposta gönderilir.
   gsuite:
     - title: G Suite (işletmeler için bulut ortamı)
     - name: Nextcloud
