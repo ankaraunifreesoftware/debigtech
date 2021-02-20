@@ -150,7 +150,7 @@ web based products:
       url: https://deepl.com/
       eyes: 14
       text: |
-        DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadıysanız çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler)
+        DeepL bir yapay zeka destekli çeviri servisidir. **DeepL Pro satın almadığınız takdirde çevirdiğiniz metinlerin takip edileceğini lütfen aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakınız. (u/TheCy-FiJuggernaut'a teşekkürler)
     - name: Apertium
       url: https://apertium.org/
       eyes: null
