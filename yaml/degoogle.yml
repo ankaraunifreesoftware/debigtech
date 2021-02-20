@@ -408,7 +408,7 @@ web based products:
       text: |
         A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. (@taraletti'e teşekkürler)
   docs offline:
-    - title: Docs/Sheets/Slides (offline)
+    - title: Docs/Sheets/Slides (çevrimdışı)
     - name: LibreOffice
       url: https://www.libreoffice.org/
       eyes: null
@@ -514,7 +514,7 @@ web based products:
       text: |
         Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.
   hangouts:
-    - title: Hangouts (text/video messaging)
+    - title: Hangouts (yazı/video mesajlaşma)
     - notes:
       - |
         See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).
@@ -571,9 +571,9 @@ web based products:
       text: |
         [Open-source](https://github.com/loki-project?type=source). It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account.
   gmail:
-    - title: Gmail (mail service)
+    - title: Gmail (e-posta hizmeti)
     - notes:
-      - This is just for the Gmail service, not a client
+      - Bu bölüm sadece Gmail hizmeti için değildir, servisi içindir.
     - name: Forward Email
       url: https://forwardemail.net/
       eyes: null
@@ -698,12 +698,12 @@ web based products:
       text: |
         A distraction free notes taking app for Nextcloud. It provides categories for better organization and supports formatting using Markdown syntax. Notes are saved as files in your Nextcloud, so you can view and edit them with every Nextcloud client.
   music tv movies:
-    - title: Play Music, Movies, & TV
+    - title: Play Müzik, Filmler, & TV
     - notes:
       - |
-        I can no longer recommend [Emby](https://emby.media/) as they are [no longer open source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).
+        [Emby](https://emby.media/)'i' artık [açık kaynak olmadıkları için](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html) öneremem.
       - |
-        Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open source.
+        u/eA8KESARaW6iqCpHsbE4'e Jellyfin'i önerdiği and Emby'nin açık kaynak olmadığını belirttiği için teşekkürler.
     - name: Jellyfin
       url: https://jellyfin.org/
       eyes: null
@@ -811,19 +811,19 @@ operating systems:
     - title: Android/Fuchsia
     - notes:
       - |
-        You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.
+        Bunun için ya bootloader'ı açık rootlu bir cihaza sahip olacaksınız ya da hangi işletim sistemini kullanmak istediğinize bağlı bir cihaz satın alacaksınız.
       - |
-        Please see Issue #55 for details on /e/.
+        /e/ hakkındaki detaylara bakmak için lütfen Issue #55'e bakınız.
     - name: Ubuntu Touch
       url: https://ubuntu-touch.io/
       eyes: null
       text: |
-        Ubuntu, but for phones.
+        Ubuntu ama telefonlar için.
     - name: LineageOS
       url: https://www.lineageos.org/
       eyes: 5
       text: |
-        [Open-source](https://github.com/lineageos) and based on Android, but without the crap.
+        Android tabanlı, [açık kaynak](https://github.com/lineageos) ama ıvır zıvırın bulunmadığı bir işletim sistemi.
     - name: SailfishOS
       url: https://sailfishos.org/
       eyes: null
@@ -838,22 +838,22 @@ operating systems:
       url: https://copperhead.co/android
       eyes: 5-eyes
       text: |
-        A security and privacy focused mobile operating system compatible with Android apps. Available as Google-free secure Android on the latest secure android phone.
+        Android uygulamalarıyla uyumlu, gizlilik ve güvenlik odaklı mobil işletim sistemi. En yeni, güvenli Android telefonlarda Google'sız bir Android işletim sistemi olarak ön plana çıkmaktadır.
     - name: postmarketOS
       url: https://postmarketos.org/
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/postmarketOS) mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias
+        [Açık-kaynak](https://gitlab.com/postmarketOS) mobil Linux işletim sistemi. [Plasma Mobile](https://www.plasma-mobile.org/) gibi farklı kullanıcı arayüzleri de kurulabilmektedir. (@okias'a teşekkürler)
     - name: Replicant
       url: https://replicant.us/
       eyes: 5
       text: |
-        Free Android distribution. Puts the emphasis on "freedom and privacy/security".
+        Ücretsiz Android dağıtımı. "özgürlük ve gizlilik/güvenlik"e önem vermektedir.
     - name: CalyxOS
       url: https://calyxos.org/
       eyes: null
       text: |
-        [Open-source](https://gitlab.com/CalyxOS) Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG.
+        [Açık kaynak](https://gitlab.com/CalyxOS), gizlilik ve güvenliğe önem veren bir Android-tabanlı işletim sistemi. İyi bir gizlilik/güvenlik ve kullanım deneyimi sunar. MicroG desteklemektedir.
   chromeos:
     - title: Chrome OS
     - name: GalliumOS
