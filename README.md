@@ -158,10 +158,10 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Sympa](https://www.sympa.org/) |  | Sympa is an [open-source](https://github.com/sympa-community/sympa) mailing list manager. It provides advanced features with a rich and secure web interface. |
-| [GNU Mailman](https://list.org/) |  | Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. |
-| [Discourse](https://discourse.group/) | **5-eyes** | Discourse is the 100% [open-source](https://github.com/discourse/discourse) discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, or long-form chat room. |
-| [Groups.io](https://groups.io/) | **5-eyes** | a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support. |
+| [Sympa](https://www.sympa.org/) |  | Sympa [açık kaynak](https://github.com/sympa-community/sympa) posta listesi yöneticisidir. Zengin ve güvenli web arayüzü ile geşişmiş özelliklerini sunar. |
+| [GNU Mailman](https://list.org/) |  | Mailman e-posta konuşmalarını ve e-haber bülten listelerini yönetmek için ücretsiz bir programdır. Web ile entegre olması kullanıcıların hesaplarını yönetmesine ve liste sahiplerinin listelerini yönetmesine kolaylık sağlar. Mailman yerleşik arşivleme, otomatik sıçrama işleme, içerik filtreleme, özümseme teslimatı, spam filtreleri ve dahasını destekler. |
+| [Discourse](https://discourse.group/) | **5-eyes** | Discourse gelecek senelerin interneti için yapılmış 100% [açık kaynak](https://github.com/discourse/discourse) sohbet platformudur. Posta listesi, tartışma forumu veya uzun sohbet odası olarak kullanabilirsiniz. |
+| [Groups.io](https://groups.io/) | **5-eyes** | Gizlilik odaklı, ne sizi ne üyelerinizi takip etmeyen posta liste sistemidir. Açık kaynak değildir. Veri tek bir sunucuda saklanıyor ama sunucu şifrelemelidir. Wiki, entegrasyon ve RSS içe aktarma desteği gibi modern eposta grup özelliklerini destekler. |
 
 - *Bu çok geniş kapsamlı hizmettir, spesifik konular için diğer forumlara bakın.*
 
