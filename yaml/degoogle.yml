@@ -5,12 +5,12 @@ web based products:
       url: https://duckduckgo.com/
       eyes: 5
       text: |
-        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının ABD'de kayıtlı olması bazı kişiler için sıkıntı olabilir.
+        En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının Amerika Birleşik Devletleri'nde kayıtlı olması bazı kişiler için sıkıntı olabilir.
     - name: Startpage
       url: https://www.startpage.com/
       eyes: 9
       text: |
-        Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem ABD'de hem Avrupada işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın.
+        Verilerinize iz sürmediğini iddia eden başka bir arama motoru. Sunucularını hem Amerika Birleşik Devletleri'nde hem Avrupa'da işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın.
     - name: searx.me
       url: https://searx.me/
       eyes: null
@@ -35,7 +35,7 @@ web based products:
       url: https://www.mojeek.com/
       eyes: 5
       text: |
-        Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkiliyeci.
+        Siz ve Google/Bing/Yahoo arasında aracı olarak çalışan diğer arama motorlarından farklı olarak Mojeek kendi dizinine ve ağ gezginine sahiptir. Sonuçlar diğerleri kadar tam olmasa da daha fazla sonucu daha yüksek kesinlik ile bulmak için aktif olarak kendi dizinini oluşturmaları etkileyici.
     - name: Ekoru
       url: https://ekoru.org/
       eyes: null
@@ -77,12 +77,12 @@ web based products:
       url: https://bit.tube/
       eyes: null
       text: |
-        Şifrelem destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler)
+        Şifreleme destekli video paylaşım hizmetidir. (u/rudolf323'a teşekkürler)
     - name: Invidious
       url: https://invidio.us/
       eyes: null
       text: |
-        YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbirşey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil).
+        YouTube için [açık kaynak](https://github.com/omarroth/invidious) alternatif ön-yüz sitesi. Kendi deneyimimde sıkıntısız çalıştı ve reklam engelleyicimde *hiçbir şey* tetiklemedi. Birçok formatta video indirmeyi destekler (".vtt" altyazılar dahil).
     - name: Hooktube
       url: https://hooktube.com/
       eyes: null
@@ -145,17 +145,17 @@ web based products:
       text: |
         a privacy focused email list system that does not track you, nor your members. It is not open source. Data is hosted on one central server but the server is encrypted. It has modern email group features such as a wiki, integrations, and RSS import support.
   translate:
-    - title: Translate
+    - title: Çeviri
     - name: DeepL
       url: https://deepl.com/
       eyes: 14
       text: |
-        DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. (u/TheCy-FiJuggernaut'a teşekkürler)
+        DeepL yapay zeka destekli bir çeviri servisidir. **Lütfen, Pro almazsanız DeepL'nin çevirdiğiniz metinleri takip edeceğini aklınızda bulundurunuz.**. Daha fazla bilgi için [gizlilik ilkeleri](https://www.deepl.com/privacy.html)nin 4. ve 5. kısmına bakın. (u/TheCy-FiJuggernaut'a teşekkürler)
     - name: Apertium
       url: https://apertium.org/
       eyes: null
       text: |
-        A free, [open-source](https://github.com/apertium/apertium) translation system.
+        Ücretsiz, [açık-kaynak](https://github.com/apertium/apertium) çeviri hizmeti.
   ads:
     - title: Google Ads/AdMob/AdSense
     - name: EthicalAds
@@ -171,7 +171,7 @@ web based products:
       text: |
         Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters.
   gsuite:
-    - title: G Suite (enterprise cloud)
+    - title: G Suite (işletmeler için bulut ortamı)
     - name: Nextcloud
       url: https://www.nextcloud.com/
       eyes: null
