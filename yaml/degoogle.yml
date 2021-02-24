@@ -176,7 +176,7 @@ web based products:
       url: https://www.nextcloud.com/
       eyes: null
       text: |
-        Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. (@k3tan172 and @plutocrat'a teşekkürler)
+        Nextcloud 19 şimdi Topluluk Belge Sunucusu ve kendi kendinize sunabileceğiniz dökümanlar/tablolar/slaytlar oluşturabileceğiniz **[ONLYOFFICE](https://www.onlyoffice.com/)** uygulamalarını bulundurmaktadır. Kullanıcılar aynı zamanda da eş zamanlı olarak dosyaları düzenleyebilmektedir. (@k3tan172 and @plutocrat'a teşekkürler)
     - name: Open-Xchange
       url: https://www.open-xchange.com
       eyes: null
@@ -188,7 +188,7 @@ web based products:
       url: https://www.joomla.org/
       eyes: null
       text: |
-        Self-hosted and [open-source](https://github.com/joomla) content management system (CMS).
+        Self-hosted ve [açık-kaynak](https://github.com/joomla) içerik yönetim sistemi (CMS).
     - name: Write.as
       url: https://write.as/
       eyes: null
@@ -198,7 +198,7 @@ web based products:
       url: https://wordpress.org/
       eyes: null
       text: |
-        The [open-source](https://code.trac.wordpress.org/browser/wordpress-sources) version of WordPress. A very popular tool and a recognized name.
+        WordPress'in [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü, oldukça popülerdir.
     - name: concrete5
       url: https://www.concrete5.org/
       eyes: 5
@@ -213,17 +213,17 @@ web based products:
       url: https://ghost.org/
       eyes: null
       text: |
-        [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". (@peterge1998'e teşekkürler)
+        [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğunu söylemekte. (@peterge1998'e teşekkürler)
     - name: Bear
       url: https://bearblog.dev/
       eyes: 5
       text: |
-        Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words.
+        Ücretsiz, fazlalık bulundurmayan, süper hızlı blog sistemi. JavaScript, stil-sayfaları, takipçiler yok; sadece kelimeler var.
     - name: Simpleblogs
       url: https://simpleblogs.org/
       eyes: null
       text: |
-        FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging.
+        Gizlilik odaklı FLOSS blog platformu. Kendi kendine dağıtım (standart rails uygulaması, AWS deployment scriptleri ile gelmekte. AWS zorunlu değildir). Erişim, sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir.
   analytics:
     - title: Analytics
     - name: Matomo
@@ -573,7 +573,7 @@ web based products:
   gmail:
     - title: Gmail (e-posta hizmeti)
     - notes:
-      - Bu bölüm sadece Gmail hizmeti için değildir, servisi içindir.
+      - Bu bölüm sadece Gmail uygulaması için değildir, hizmeti içindir.
     - name: Forward Email
       url: https://forwardemail.net/
       eyes: null
@@ -593,22 +593,22 @@ web based products:
       url: https://posteo.de/en
       eyes: 14
       text: |
-        Completely anonymous mail provider located in Germany.
+        Almanya'da konumlanmış, tamamen anonim e-posta servisi.
     - name: mailbox.org
       url: https://mailbox.org/en/
       eyes: 14
       text: |
-        Paid email provider, also located in Germany.
+        Ücretli e-posta sağlayıcısı, Almanya'da konumlanmıştır.
     - name: Disroot
       url: https://disroot.org/
       eyes: 9
       text: |
-        Decentralized email service.
+        Merkezi olmayan e-posta hizmeti.
     - name: StartMail
       url: https://www.startmail.com/en/
       eyes: 9
       text: |
-        Operated by the same people who run StartPage.
+        StartPage ile aynı kuruluş tarafından yönetilmektedir.
     - name: SimpleLogin
       url: https://simplelogin.io/
       eyes: null
@@ -618,27 +618,27 @@ web based products:
       url: https://www.migadu.com/en/index.html
       eyes: null
       text: |
-        Paid email provider, located in Switzerland. Focus on privacy.
+       Ücretli e-posta sağlayıcısı, İsviçre'de konumlanmıştır. Gizliliğe önem vermektedir.
     - name: Fastmail
       url: https://fastmail.com/
       eyes: 5
       text: |
-        Paid email provider, located in Australia and US.
+        Ücretli e-posta sağlayıcısı, Avustralya and ABD'de konumlanmıştır.
     - name: Runbox
       url: https://runbox.com/why-runbox/privacy-protection/
       eyes: 9
       text: |
-        Privacy focusued email provider. Thanks @petertorelli
+        Gizlilik-odaklı e-posta hizmeti. (@petertorelli'ye teşekkürler)
     - name: nextCloud
       url: https://help.nextcloud.com/t/nextcloud-mail-server/157
       eyes: null
       text: |
-        Now also provides an email service (self-hosted). Thanks @je-vv
-    - name: Anonymize.com Email
+        Aynı zamanda da bir e-posta hizmeti de sunmaktadır (self-hosted). (@je-vv'e teşekkürler)
+    - name: Anonymize.com e-posta
       url: https://anonymize.com/
       eyes: null
       text: |
-        Paid secure email service provided by Epik.com.
+        Epik.com tarafından sunulan ücretli güvenli e-posta hizmeti.
     - name: Thexyz
       url: https://www.thexyz.com/
       eyes: 5
@@ -653,7 +653,7 @@ web based products:
       url: https://ctemplar.com/
       eyes: null
       text: |
-        Privacy-focused email provider located in Iceland.
+        İzlanda'da konumlanmış, gizlilik-odaklı e-posta sağlayıcısı.
     - name: Anonaddy
       url: https://anonaddy.com/
       eyes: 9
