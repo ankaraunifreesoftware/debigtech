@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2020th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=February%2024th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -195,7 +195,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. (@k3tan172 and @plutocrat'a teşekkürler) |
+| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 şimdi Topluluk Belge Sunucusu ve kendi kendinize sunabileceğiniz dökümanlar/tablolar/slaytlar oluşturabileceğiniz **[ONLYOFFICE](https://www.onlyoffice.com/)** uygulamalarını bulundurmaktadır. Kullanıcılar aynı zamanda da eş zamanlı olarak dosyaları düzenleyebilmektedir. (@k3tan172 and @plutocrat'a teşekkürler) |
 | [Open-Xchange](https://www.open-xchange.com) |  | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
 
 
@@ -204,14 +204,14 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Joomla](https://www.joomla.org/) |  | Self-hosted and [open-source](https://github.com/joomla) content management system (CMS). |
+| [Joomla](https://www.joomla.org/) |  | Self-hosted ve [açık-kaynak](https://github.com/joomla) içerik yönetim sistemi (CMS). |
 | [Write.as](https://write.as/) |  | Gizlilik odaklı olduğunu söylemekte. |
-| [WordPress self-hosted](https://wordpress.org/) |  | The [open-source](https://code.trac.wordpress.org/browser/wordpress-sources) version of WordPress. A very popular tool and a recognized name. |
+| [WordPress self-hosted](https://wordpress.org/) |  | WordPress'in [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü, oldukça popülerdir. |
 | [concrete5](https://www.concrete5.org/) | **5-eyes** | [Açık-kaynak](https://github.com/concrete5) CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | Gizlilik/güvenlik odaklı bir blog platformu. |
-| [Ghost](https://ghost.org/) |  | [Open-source](https://github.com/TryGhost/Ghost) modern CMS. Boasts "over 19x faster than WordPress". (@peterge1998'e teşekkürler) |
-| [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
-| [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
+| [Ghost](https://ghost.org/) |  | [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğunu söylemekte. (@peterge1998'e teşekkürler) |
+| [Bear](https://bearblog.dev/) | **5-eyes** | Ücretsiz, fazlalık bulundurmayan, süper hızlı blog sistemi. JavaScript, stil-sayfaları, takipçiler yok; sadece kelimeler var. |
+| [Simpleblogs](https://simpleblogs.org/) |  | Gizlilik odaklı FLOSS blog platformu. Kendi kendine dağıtım (standart rails uygulaması, AWS deployment scriptleri ile gelmekte. AWS zorunlu değildir). Erişim, sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir. |
 
 
 
@@ -345,22 +345,22 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Forward Email](https://forwardemail.net/) |  | A free and [open-source](https://github.com/forwardemail) email forwarding service focused on a user's right to privacy. |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
 | [Tutanota](https://tutanota.com/) | **14-eyes** | [Open-source](https://github.com/tutao/tutanota) and one one of the top rated privacy-focused email providers. Located in Germany. |
-| [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
-| [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
-| [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
-| [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
+| [Posteo](https://posteo.de/en) | **14-eyes** | Almanya'da konumlanmış, tamamen anonim e-posta servisi. |
+| [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Ücretli e-posta sağlayıcısı, Almanya'da konumlanmıştır. |
+| [Disroot](https://disroot.org/) | **9-eyes** | Merkezi olmayan e-posta hizmeti. |
+| [StartMail](https://www.startmail.com/en/) | **9-eyes** | StartPage ile aynı kuruluş tarafından yönetilmektedir. |
 | [SimpleLogin](https://simplelogin.io/) |  | [Open-source](https://github.com/simple-login/), self-hosted, and privacy focused email forwarding service. |
-| [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
-| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
-| [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
-| [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
-| [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
+| [Migadu](https://www.migadu.com/en/index.html) |  | Ücretli e-posta sağlayıcısı, İsviçre'de konumlanmıştır. Gizliliğe önem vermektedir. |
+| [Fastmail](https://fastmail.com/) | **5-eyes** | Ücretli e-posta sağlayıcısı, Avustralya and ABD'de konumlanmıştır. |
+| [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Gizlilik-odaklı e-posta hizmeti. (@petertorelli'ye teşekkürler) |
+| [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Aynı zamanda da bir e-posta hizmeti de sunmaktadır (self-hosted). (@je-vv'e teşekkürler) |
+| [Anonymize.com e-posta](https://anonymize.com/) |  | Epik.com tarafından sunulan ücretli güvenli e-posta hizmeti. |
 | [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
 | [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
-| [CTemplar](https://ctemplar.com/) |  | Privacy-focused email provider located in Iceland. |
+| [CTemplar](https://ctemplar.com/) |  | İzlanda'da konumlanmış, gizlilik-odaklı e-posta sağlayıcısı. |
 | [Anonaddy](https://anonaddy.com/) | **9-eyes** | [Open-source](https://github.com/anonaddy/anonaddy) Anonymous forwarding email service. Forwarded email can be encrypted (OpenPGP) to prevent Google from reading it. Accepts cryptocurrencies (including Monero). |
 
-- *Bu bölüm sadece Gmail hizmeti için değildir, servisi içindir.*
+- *Bu bölüm sadece Gmail uygulaması için değildir, hizmeti içindir.*
 
 
 #### Keep
