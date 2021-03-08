@@ -198,7 +198,7 @@ web based products:
       url: https://wordpress.org/
       eyes: null
       text: |
-        WordPress'in [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü, oldukça popülerdir.
+        WordPress'in oludkça popüler [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü.
     - name: concrete5
       url: https://www.concrete5.org/
       eyes: 5
@@ -213,24 +213,24 @@ web based products:
       url: https://ghost.org/
       eyes: null
       text: |
-        [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğunu söylemekte. (@peterge1998'e teşekkürler)
+        [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğu iddia ediliyor. (@peterge1998'e teşekkürler)
     - name: Bear
       url: https://bearblog.dev/
       eyes: 5
       text: |
-        Ücretsiz, fazlalık bulundurmayan, süper hızlı blog sistemi. JavaScript, stil-sayfaları, takipçiler yok; sadece kelimeler var.
+        Ücretsiz, pratik, süper hızlı blog sistemi. JavaScript, stil-sayfaları ve takipçiler yok; sadece kelimeler var.
     - name: Simpleblogs
       url: https://simpleblogs.org/
       eyes: null
       text: |
-        Gizlilik odaklı FLOSS blog platformu. Kendi kendine dağıtım (standart rails uygulaması, AWS deployment scriptleri ile gelmekte. AWS zorunlu değildir). Erişim, sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir.
+        Gizlilik odaklı FLOSS blog platformudur. Kendi kendine dağıtım (standart rails uygulamasıdır, AWS deployment scriptleri ile gelmektedir. AWS zorunlu değildir). Erişim sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir.
   analytics:
-    - title: Analytics
+    - title: Analitikler
     - name: Matomo
       url: https://matomo.org/
       eyes: "9/14"
       text: |
-        (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (u/Newblik'e teşekkürler)
+        (Matomo/ana şirket) - [açık kaynak](https://github.com/matomo-org/matomo) analitik platformudur. (u/Newblik'e teşekkürler)
     - name: Fathom
       url: https://usefathom.com/
       eyes: 5
