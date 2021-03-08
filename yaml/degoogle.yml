@@ -225,7 +225,7 @@ web based products:
       text: |
         Gizlilik odaklı FLOSS blog platformudur. Kendi kendine dağıtım (standart rails uygulamasıdır, AWS deployment scriptleri ile gelmektedir. AWS zorunlu değildir). Erişim sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir.
   analytics:
-    - title: Analitikler
+    - title: Analytics
     - name: Matomo
       url: https://matomo.org/
       eyes: "9/14"
@@ -240,22 +240,22 @@ web based products:
       url: https://plausible.io/
       eyes: 5
       text: |
-        [Açık-kaynak](https://github.com/plausible/analytics), gizlilik odaklı web istatistikleri.
+        [Açık kaynak](https://github.com/plausible/analytics) gizlilik odaklı web istatistikleri.
     - name: GoatCounter
       url: https://www.goatcounter.com/
       eyes: 14
       text: |
-        Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available.
+        Basit web istatistikleri. Kişisel veriler izlenmez. [Açık kaynaktır](https://github.com/zgoat/goatcounter) ve kendi sunucunuzda kullanılabilir. Ticari amaçlı olmayan kullanımlar için ücretsiz; ücretli paketler mevcuttur.
     - name: Simple Analytics
       url: https://simpleanalytics.com/
       eyes: 9
       text: |
-        Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
+        Basitlik ve gizlilik odaklı harika analitikler. Paralı bir üründür, ücretsiz deneme sürümleri mevcuttur.
     - name: Toasted Analytics
       url: https://toastedanalytics.com/
       eyes: 5
       text: |
-        Simple, privacy friendly analytics with event tracking. Paid only (with free trial)
+        Basit, kişisel gizililiğe önem veren analitikler ve olay takibi. Paralıdır (ücretsiz deneme sürümü mevcut).
     - name: Shynet
       url: https://github.com/milesmcc/shynet
       eyes: null
