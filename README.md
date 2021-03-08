@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=February%2024th%202021&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=March%208th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -206,20 +206,20 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | ---- | ---- | ----------- |
 | [Joomla](https://www.joomla.org/) |  | Self-hosted ve [açık-kaynak](https://github.com/joomla) içerik yönetim sistemi (CMS). |
 | [Write.as](https://write.as/) |  | Gizlilik odaklı olduğunu söylemekte. |
-| [WordPress self-hosted](https://wordpress.org/) |  | WordPress'in [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü, oldukça popülerdir. |
+| [WordPress self-hosted](https://wordpress.org/) |  | WordPress'in oludkça popüler [açık-kaynak](https://code.trac.wordpress.org/browser/wordpress-sources) sürümü. |
 | [concrete5](https://www.concrete5.org/) | **5-eyes** | [Açık-kaynak](https://github.com/concrete5) CMS. |
 | [Noblogs](https://noblogs.org/) | **9-eyes** | Gizlilik/güvenlik odaklı bir blog platformu. |
-| [Ghost](https://ghost.org/) |  | [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğunu söylemekte. (@peterge1998'e teşekkürler) |
-| [Bear](https://bearblog.dev/) | **5-eyes** | Ücretsiz, fazlalık bulundurmayan, süper hızlı blog sistemi. JavaScript, stil-sayfaları, takipçiler yok; sadece kelimeler var. |
-| [Simpleblogs](https://simpleblogs.org/) |  | Gizlilik odaklı FLOSS blog platformu. Kendi kendine dağıtım (standart rails uygulaması, AWS deployment scriptleri ile gelmekte. AWS zorunlu değildir). Erişim, sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir. |
+| [Ghost](https://ghost.org/) |  | [Açık-kaynak](https://github.com/TryGhost/Ghost), modern CMS. "WordPress'ten yaklaşık 19 kat daha hızlı" olduğu iddia ediliyor. (@peterge1998'e teşekkürler) |
+| [Bear](https://bearblog.dev/) | **5-eyes** | Ücretsiz, pratik, süper hızlı blog sistemi. JavaScript, stil-sayfaları ve takipçiler yok; sadece kelimeler var. |
+| [Simpleblogs](https://simpleblogs.org/) |  | Gizlilik odaklı FLOSS blog platformudur. Kendi kendine dağıtım (standart rails uygulamasıdır, AWS deployment scriptleri ile gelmektedir. AWS zorunlu değildir). Erişim sadece oluşturduğunuz ve sunduğunuz hesaplarla sınırlıdır. Herkese açık ya da ticari blog işleri için olmasa da gizli bloglar için iyidir. |
 
 
 
-#### Analytics
+#### Analitikler
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - [Open-source](https://github.com/matomo-org/matomo) analytics platform. (u/Newblik'e teşekkürler) |
+| [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/ana şirket) - [açık kaynak](https://github.com/matomo-org/matomo) analitik platformudur. (u/Newblik'e teşekkürler) |
 | [Fathom](https://usefathom.com/) | **5-eyes** | Blogger & şirketler için basit istatistikler. |
 | [Plausible](https://plausible.io/) | **5-eyes** | [Açık-kaynak](https://github.com/plausible/analytics), gizlilik odaklı web istatistikleri. |
 | [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available. |
