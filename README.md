@@ -215,16 +215,16 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
-#### Analitikler
+#### Analytics
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/ana şirket) - [açık kaynak](https://github.com/matomo-org/matomo) analitik platformudur. (u/Newblik'e teşekkürler) |
 | [Fathom](https://usefathom.com/) | **5-eyes** | Blogger & şirketler için basit istatistikler. |
-| [Plausible](https://plausible.io/) | **5-eyes** | [Açık-kaynak](https://github.com/plausible/analytics), gizlilik odaklı web istatistikleri. |
-| [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. [Open-source](https://github.com/zgoat/goatcounter) and may be self-hosted. Free for non-commercial use; paid plans available. |
-| [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
-| [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
+| [Plausible](https://plausible.io/) | **5-eyes** | [Açık kaynak](https://github.com/plausible/analytics) gizlilik odaklı web istatistikleri. |
+| [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Basit web istatistikleri. Kişisel veriler izlenmez. [Açık kaynaktır](https://github.com/zgoat/goatcounter) ve kendi sunucunuzda kullanılabilir. Ticari amaçlı olmayan kullanımlar için ücretsiz; ücretli paketler mevcuttur. |
+| [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Basitlik ve gizlilik odaklı harika analitikler. Paralı bir üründür, ücretsiz deneme sürümleri mevcuttur. |
+| [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Basit, kişisel gizililiğe önem veren analitikler ve olay takibi. Paralıdır (ücretsiz deneme sürümü mevcut). |
 | [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully [open-source](https://github.com/milesmcc/shynet). (@woutfeys'e teşekkürler) |
 | [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). (@woutfeys'e teşekkürler) |
 | [GoAccess](https://goaccess.io/) |  | An [open-source](https://github.com/allinurl/goaccess) web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. (@virtadpt'e teşekkürler) |
