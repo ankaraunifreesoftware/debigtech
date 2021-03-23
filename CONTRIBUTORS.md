@@ -40,7 +40,6 @@ GitHub:
 - [@notpushkin](https://github.com/notpushkin)
 - [@onlyjob](https://github.com/onlyjob)
 - [@marco3mt](https://github.com/marco3mt)
-- [@FreddyMarsden](https://github.com/FreddyMarsden)
 - [@E5dZEUpc3BKaJrHnQVZd5zE](https://github.com/E5dZEUpc3BKaJrHnQVZd5zE)
 - [@woutfeys](https://github.com/woutfeys)
 - [@virtadpt](https://github.com/virtadpt)
@@ -59,7 +58,6 @@ GitHub:
 - [@m0yP](https://github.com/m0yP)
 - [@mceachen](https://github.com/mceachen)
 - [@adam-sroka](https://github.com/adam-sroka)
-- [@m0yP](https://github.com/m0yP)
 - [@freddy-m](https://github.com/freddy-m)
 - [@Cristy94](https://github.com/Cristy94)
 - [@rkingett](https://github.com/rkingett)
@@ -68,8 +66,11 @@ GitHub:
 - [@codedust](https://github.com/codedust)
 - [@shivasagarrao](https://github.com/shivasagarrao)
 - [@0xflotus](https://github.com/0xflotus)
-- [@melikechan](https://github.com/melikechan) (translation to Turkish)
-- [@crazed-translator](https://github.com/crazed-translator) (translation to Turkish)
+- [@J053Fabi0](https://github.com/J053Fabi0)
+- [@trexx](https://github.com/trexx)
+- [@anthonynsimon](https://github.com/anthonynsimon)
+- [@timbuening](https://github.com/timbuening)
+- [@infectormp](https://github.com/infectormp)
 
 Reddit:
 
