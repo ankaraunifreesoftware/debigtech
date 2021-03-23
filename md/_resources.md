@@ -22,6 +22,8 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 - [HTTP vs. HTTPS](https://outline.com/xUXZMh)
 - EFF'nin çevrimiçi ortamda güvenli kalmayı anlatan [kılavuzu](https://ssd.eff.org/). Çok kullanışlıdır ve okumanız tavsiye ederim.
 - Windows 10'da telemetriyi kapatmayı öğrenmek için [buraya](https://www.thewindowsclub.com/windows-10-telemetry) ve [buraya](https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/) göz atabilirsiniz.
+- [Windows 10 gizlilik rehberi](https://fdossena.com/?p=w10debotnet/index_1903.frag) (u/rightknobhead'a tekrardan teşekkürler)
+- [Fix Windows Privacy](https://modzero.github.io/fix-windows-privacy/) - Windows 10'daki gizlilik açıklarını kapatmanız için bir araç.
 - DuckDuckGo'nun gizlilik hakkındaki haberlerine abone olmak için [buraya](https://duckduckgo.com/newsletter) ve DuckDuckGo'nun makalelerini, bloglarını ve ipuçlarını görmek için ise [buraya](https://spreadprivacy.com/) tıklayınız.
 - Facebook hesabınızı silmek için [Delete Facebook](https://deletefacebook.com/). Diğer bir kılavuz için [buraya](https://www.wikihow.com/Permanently-Delete-a-Facebook-Account) bakınız.
 - [Neden webcam'ınızın üstünü bant ile kapatmalısınız](https://outline.com/fYCu98)
@@ -30,7 +32,6 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 - [Burada](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) çok güvenli bir Linux workstation oluşturmak için gayet güzel bir rehber var.  (u/aoeudhtns'e teşekkürler)
 - [Çevrimiçi gizlilik konusunda bilinç oluşturma amaçlı bir site](https://theytrackyou.com/). Burada çok sayıda güzel öneriler var. (u/brais33'e teşekkürler)
 - [Android gizlilik rehberi](https://gitlab.com/Attedz/AndroidPrivacyGuide) (u/rightknobhead'a teşekkürler)
-- [Windows 10 gizlilik rehberi](https://fdossena.com/?p=w10debotnet/index_1903.frag) (u/rightknobhead'a tekrardan teşekkürler)
 - [Prism Break](https://prism-break.org/en/)'e bakın. (u/FrontierPsycho'a teşekkürler)
 - [Linux kullanıcıları için](https://github.com/wesaphzt/block-all-google) ağ seviyesinde Google'ı engellemek için bir rehber. Bu yöntem büyük ihtimalle Google servisleri tabanlı diğer alternatiflerin çalışmasına engel olacaktır. (u/wesaphzt'a teşekkürler)
 - Firefox'u sağlamlaştırmak için u/wesaphzt [bu](https://github.com/pyllyukko/user.js), [bu](https://ffprofile.com/), ve [bu](https://www.privacytools.io/browsers/#about_config) kılavuzlarını paylaştı.
