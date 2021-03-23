@@ -1087,7 +1087,7 @@ operating systems:
       repo: https://gitlab.com/postmarketOS
       eyes: null
       text: >
-          Açık-kaynak mobil Linux işletim sistemi. 
+        Açık-kaynak mobil Linux işletim sistemi. 
         [Plasma Mobile](https://www.plasma-mobile.org/) gibi farklı kullanıcı arayüzleri de kurulabilmektedir. 
         @okias'a teşekkürler
     - name: Replicant
