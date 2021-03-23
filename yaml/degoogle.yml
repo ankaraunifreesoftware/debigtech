@@ -2069,7 +2069,7 @@ hardware:
       repo: https://github.com/MycroftAI
       eyes: 5
       text: > 
-      Open-source virtual personal assistant. Can be run on a Raspberry Pi. (u/Kentto7'a teşekkürler)
+        Open-source virtual personal assistant. Can be run on a Raspberry Pi. (u/Kentto7'a teşekkürler)
     - name: Home Assistant
       url: https://www.home-assistant.io/
       repo: https://github.com/home-assistant
