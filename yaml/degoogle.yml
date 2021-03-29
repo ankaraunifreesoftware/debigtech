@@ -6,7 +6,7 @@ web based products:
       eyes: 5
       text: >
         En iyi gizlilik-tabanlı arama motorlarından biri. Alan adının Amerika Birleşik Devletleri'nde kayıtlı 
-        olması bazı kişiler için sıkıntı olabilir.
+        olması bazı kişiler için sıkıntı olabilir. Not: DuckDuckGo 2013 yılında Gizlilik Politikası ile çelişen bir şekilde insanların bilgisayarlarına bir çerez [yerleştirmesi](https://archive.is/qntuk) ile bir dönem gündeme gelmişti. Tam gizlilik için açık kaynak kodlu alternatiflere yönelmenizi öneririz.
     - name: Startpage
       url: https://www.startpage.com/
       eyes: 9
@@ -347,62 +347,62 @@ web based products:
       repo: https://github.com/milesmcc/shynet
       eyes: null
       text: >
-        Shynet is a self-hosted analytics tool that doesn't make use of cookies. 
-        It is privacy focused and fully open-source. @woutfeys'e teşekkürler
+        Shynet kendi sunucunuzda barındırmanız gereken (self-hosted) ve çerez kullanmayan bir analitik aracıdır. 
+        Gizlilik odaklıdır ve tamamen açık kaynak kodludur. @woutfeys'e teşekkürler
     - name: Supabase
       url: https://supabase.io/
       repo: https://github.com/supabase/supabase
       eyes: null
       text: >
-        Supabase is an opensource alternative to Firebase. 
-        As of right now you can use their hosting plan for free as it's in alpha, 
-        or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). @woutfeys'e teşekkürler
+        Supabase açık kaynak kodlu bir firebase alternatifidir. 
+        Şu anda -alpha sürecinde olmalarından- ücretsiz hosting kullanabilirsiniz, 
+        veya kendi sunucunuzda barındırabilirsiniz (self-hosting) ([kendi sunucunuzda barındırmanız hakkında](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). @woutfeys'e teşekkürler
     - name: GoAccess
       url: https://goaccess.io/
       repo: https://github.com/allinurl/goaccess
       eyes: null
       text: >
-        An open-source web server analysis tool. 
-        Installs on your web server (ideally), but works just as well if you download your logs someplace else. 
-        Interactive; cursor around in the report and see what's going on. Can generate HTML reports. 
-        Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). 
-        Available in the default package repositories of multiple Linux distros. @virtadpt'e teşekkürler
+        Açık kaynak kodlu bir web analiz aracı. 
+        Web sunucunuza kurulabilir (ideal olarak), ancak günlükleri (log) başka bir yere indirseniz de çalışır. 
+        İnteraktif; raporu kurcalayarak neler olduğunu görebilirsiniz. HTML raporları da oluşturulabilir. 
+        Sunucu modunda çalışıyorsa gerçek zamanlı interaktif HTML raporları da oluşturabilir. Hafiftir, sadece UTF-8 desteği ve ncurses'e (eğer UTF-8 destekli bir konsol istiyorsanız ncursesw) ihtiyaç duyar.
+        Birçok linux distrosunda varsayılan paket depolarında (repo) bulunur. @virtadpt'ye teşekkürler.
     - name: Offen
       url: https://www.offen.dev/
       repo: https://github.com/offen/offen
       eyes: null
       text: >
-        Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that
-        treats operators and users as equal parties.
+        Açık kaynak kodludur ve kendi sunucunuzda barındırılır (self-hosted), Offen işleticilere ve kullanıcılara eşit değerlendiren
+        uygun ve hafif bir web analitiği aracıdır.
     - name: Umami
       url: https://umami.is/
       repo: https://github.com/mikecao/umami
       eyes: null
       text: >
-        A simple, easy to use, open-source/self-hosted web analytics solution.
+        Bir basit, kolay kullanımlı, açık kaynak kodlu ve kendi sunucunuzda barındırılan (self hosted) bir web analitiği çözümü.
     - name: Kindmetrics
       url: https://kindmetrics.io
       repo: https://github.com/kindmetrics
       eyes: 5/14
       text: >
-        An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers
-        on Digitalocean (USA) datacenter in Germany.
+        Açık kaynak kodlu bir analitik aracı. Şirketin açılış sayfası İsveç'te, CDN'i Avrupa Birliğinde
+        Sunucuları da Almanya'daki DigitalOcean (ABD Şirketi) veri merkezindedir (datacenter).
     - name: userTrack
       url: https://www.usertrack.net/
       eyes: null
       text: >
-        Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features.
-        Includes user segments, heatmaps, session recordings and A/B testing.
+        Kendi sunucunuzda barındırmanız gereken (self-hosted) bir Google Analyticcs alternatifi. Matomo'ya yakın fakat premium özellikleri daha uygun.
+        Kullanıcı segmentleme (user segments), ısı haritaları, oturum kayıtları ve A/B testing'i destekler.
     - name: Piwik PRO
       url: https://piwik.pro/
       eyes: 5
       text: >
-        An analytics suite with a focus on user privacy and data security.
+        Gizlilik ve veri koruması odaklı bir analitik paketi.
     - name: Panelbear
       url: https://panelbear.com/
       eyes: 14
       text: >
-        Privacy-focused analytics + web performance monitoring.
+        Gizlilik odaklı analitik + web performansı denetleme.
   photos:
     - title: Photos
     - name: Photoprism
@@ -410,42 +410,43 @@ web based products:
       repo: https://github.com/photoprism/photoprism
       eyes: null
       text: >
-        Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow.
+        Kendi sunucunuzda barındırılması gereken (self-hosted), açık kaynak kodlu ve gücünü Go ve Google Tensorflow'dan alan bir kişisel fotoğraf yönetimi aracı.
     - name: ownPhotos
       url: https://github.com/hooram/ownphotos
       repo: https://github.com/hooram/ownphotos
       eyes: null
       text: >
-        Self-hosted and open-source Google Photos alternative.
+        Kendi sunucunuzda barındırılması gereken (self-hosted) ve açık kaynak kodlu bir Google Fotoğraflar alternatifi.
     - name: Piwigo
       url: https://piwigo.org/
       repo: https://github.com/Piwigo
       eyes: 9
       text: >
         Self-hosted and open-source cloud photo manager. You can also sign up for an
-        ["as a service" account](https://piwigo.com).
+        Kendini sunucunuzda barındırabildiğiniz (self-hosted) ve açık kaynak kodlu olan bir bulut fotoğraf yönetici. Ayrıca
+        ["bir hizmet olarak" buradaki adresten](https://piwigo.com) kayıt olabilirsiniz.
     - name: JottaCloud
       url: https://jottacloud.com/
       eyes: 9
       text: >
-        Norway based cloud storage provider with free and paid plans. @mynamesleon'a teşekkürler
+        Norveç merkezli ücretsiz ve ücretli planları bulunan bir bulut depolama servisi. @mynamesleon'a teşekkürler.
     - name: Cryptee
       url: https://crypt.ee/
       eyes: null
       text: >
-        Encrypted photo storage in a simple solution similar to Google Photos.
+        Google Fotoğraflar gibi basit, Kriptolanmış bir fotoğraf depolama çözümü.
     - name: PhotoStructure
       url: https://photostructure.com/
       eyes: null
       text: >
-        Self-hosted photo and video manager. Cross-platform (macOS, Windows, Linux, Docker). Scales
-        to millions of assets, with automatic organization, auto-transcoding, and advanced de-duplication.
+        Kendiniz barındırabildiğiniz bir fotoğraf ve ve video yöneticidir. Çapraz platform (macOS, Windows, Linux, Docker) desteklidir.
+        Otomatik organizasyon, otomatik kod dönüştürme ve gelişmiş tekilleştirme ile milyonlarca varlığa ölçeklenebilir
     - name: Lychee
       url: https://lycheeorg.github.io/
       repo: https://github.com/LycheeOrg/Lychee
       eyes: null
       text: >
-        An open-source self-hosted photo-management tool that includes built-in support for videos. @m0yP'e teşekkürler
+        Açık kaynak kodlu, kendi sunucunuzda barındırabileceğiniz (self-hosted) ve yerleşik olarak video desteği bulunan bir araç. @m0yP'e teşekkürler
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
@@ -453,52 +454,52 @@ web based products:
       repo: https://www.thunderbird.net/en-US/get-involved
       eyes: null
       text: >
-        Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey.
+        Mozilla Vakfı tarafından geliştirilmiştir ve açık kaynak kodludur. Thunderbird ve SeaMonkey ile entegre çalışır
     - name: Tutanota Calendar
       url: https://tutanota.com/calendar/
       eyes: 14
       text: >
-        Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other
-        Calendar files. Can't be synced to other calendar software.
+        Tutanota tarafından geliştirilmiştir. Ücretsiz bir çapraz platform kriptolu takvimdir.
+        Diğer takvim dosyalarını içe aktarmayı destekler. Başka takvim yazılımları ile senkronize edilemez.
     - name: Fruux
       url: https://fruux.com/
       repo: https://fruux.com/opensource
       eyes: 14
       text: >
-        Open-source calendar using "sabre/dav" (FOSS WebDAV, CardDAV, and CalDAV). They mention privacy
-        quite a bit on their site. Very large number of features, and supports nearly every device:
-        Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers.
+        "Sabre/dav" (FOSS WebDAV, CardDAV ve CalDav) kullanan bir açık kaynak kodlu takvim.
+        Sitelerinde biraz gizlilikten bahsediyorlar. Çok fazla sayıda özelliği var ve neredeyse her cihazı
+        (Windows, iOS, Linux, Android, BlackBerry, SailFish, ve tarayıcılar için bir web uygulaması) destekler.
     - name: EteSync
       url: https://www.etesync.com
       repo: https://github.com/etesync
       eyes: null
       text: >
-        Secure, end-to-end encrypted, and open-source sync for your contacts, calendars, tasks and notes.
+        Güvenli; uçtan uca şifrelenmiş; açık kaynak kodlu; kişilerinizi, takvimlerinizi, yapılacaklar listenizi ve notlarınızı senkronize etmenize yarayan bir araç.
     - name: Baïkal
       url: https://sabre.io/baikal/
       eyes: null
       text: >
-        a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management
-        of users, address books and calendars. It is fast and simple to install and only needs a basic
-        php capable server. The data can be stored in a MySQL or a SQLite database. Thanks    @mahdi1234
+        Hafif bir CalDAV+CardDAV sunucusu. Kullanıcıların, rehberin ve takvimin kolay yönetimi ile kapsamlı bir web arayüzü sunar.
+        Kurulumu hızlıdır, basittir ve sadece php uyumlu bir sunucuya ihtiyaç duyar.
+        Veri bir MySQL veya SQLite veritabanında depolanabilir. Teşekkürler @mahdi1234
     - name: Nextcloud
       url: https://nextcloud.com/
       eyes: null
       text: >
-        Nextcloud also offers a calendar solution using CalDAV and CardDAV. 
+        Nextcloud ayrıca CalDAV ve CardDAV kullanan bir takvim çözümü de sunar.
         @mahdi1234'a bunu belirttiği için teşekkürler.
     - name: Radicale
       url: https://radicale.org/
       eyes: null
       text: >
-        Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync.
-        Can use a reverse proxy with Nginx for HTTPS.
+        Python'da yazılmış kendi sunucunuzda barındırılan (self-hosted) bir takvim sunucusu.
+        HTTPS için Nginx ile bir reverse proxy kullanılabilir.
     - name: Mailfence Calendar
       url: https://www.mailfence.com
       eyes: 14
       text: >
-        Supports vCal/iCal import, export and can be accessed by using CalDAV. Users can share their
-        calendars with group members and can also create polls.
+        vCal/iCal içe aktarmayı, dışa aktarmayı destekler ve CalDAV kullanılarak erişilebilir. Kullanıcılar
+        takvimlerini grup üyeleriyle paylaşabilir ve anketler oluşturabilir.
   docs:
     - title: Docs/Sheets/Slides (cloud)
     - name: CryptPad
@@ -506,41 +507,40 @@ web based products:
       repo: https://github.com/xwiki-labs/cryptpad
       eyes: 9
       text: >
-        Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation,
-        Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption.
+        Açık kaynak kodlu, kriptolu ortak çalışmaya dayalı bulut editörü. Sunduğu servisler Rich Text, Code, Presentation,
+        Sheet (beta), Poll, Kanban, Whiteboard ve CryptDrive. %100 istemci tarafı şifreleme.
         Tons of useful features.
     - name: Etherpad
       url: https://etherpad.org/
       repo: https://github.com/ether
       eyes: null
       text: >
-        Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but
-        it's open-source and you have full control over who can see your data.
+        Kendi sunucunuzda barındırabileceğiniz ortak çalışmaya dayalı bir editör. Tarayıcıyı kullanmaz. En iyi arayüze sahip değildir
+        fakat açık kaynak kodludur ve kimin verinizi görebileceğine tam erişiminiz vardır.
     - name: Cryptee
       url: https://crypt.ee/
       repo: https://github.com/cryptee
       eyes: null
       text: >
-        Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your
-        files are outside the reach of any 14-eyes country. They don't even require an email address
-        to sign up.
+        Açık kaynak kodlu ve gizlilik odaklı fotoğraf ve belge depolama/düzenleme. Estonya merkezlidir yani
+        dosyalarınız 14-göz ülkelerinin menzili dışındadır. Kayıtta e-posta adresi bile istemiyorlar.
     - name: LibreOffice Online
       url: https://www.libreoffice.org/download/libreoffice-online/
       eyes: 14
       text: >
-        Self-hosted instance of LibreOffice that you can run in your browser. @flubberding'e teşekkürler
+        LibreOffice'in tarayıcınızda çalışabilen, kendi sunucunuzda barındırabildiğiniz (self-hosted) bir örneğidir. @flubberding'e teşekkürler
     - name: ONLYOFFICE
       url: https://www.onlyoffice.com
       repo: https://github.com/ONLYOFFICE
       eyes: null
       text: >
-        Open-source private cloud replacement for Google Docs'suite and Office 360. Also available
-        as a self contained rich application.
+        Açık kaynak kodlu Google Belgeler ve Office 365 alternatifi.
     - name: Arcane Office
       url: https://arcaneoffice.com/
       eyes: null
       text: >
-        A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office,
+        Yüksek güvenliğe sahip, kriptolu ve merkezi olmayan bir ofis takımı. Arcane Office ile,
+        kişisel verilerinizin üzerinde tam kontrole sahipsiniz.
         you have maximum control on your personal stuff. Full-featured online document and spreadsheet
         editor. Secure storage to save your photos. All free for personal use. @taraletti'ye teşekkürler.
   docs offline:
