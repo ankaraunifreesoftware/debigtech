@@ -18,7 +18,7 @@
 
 ## *Sizden saklayacak bir şeyim yok ama size gösterecek bir şeyim de yok.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=March%2029th%202021&color=388E3C&style=flat-square)
+![Updated](hhttps://github.com/melikechan/degoogle-turkishttps://img.shields.io/static/v1?label=updated&message=March%2029th%202021&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -222,21 +222,21 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
-| [Matomo](https://matomo.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/matomo-org/matomo) | **9/14-eyes** | (Matomo/ana şirket) - açık kaynak analitik platformudur. (u/Newblik'e teşekkürler) |
-| [Fathom](https://usefathom.com/) | **5-eyes** | Blogger & şirketler için basit istatistikler. |
-| [Plausible](https://plausible.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/plausible/analytics) | **5-eyes** | Açık kaynak gizlilik odaklı web istatistikleri. |
-| [GoatCounter](https://www.goatcounter.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/zgoat/goatcounter) | **14-eyes** | Basit web istatistikleri. Kişisel veriler izlenmez.[Açık kaynaktır ve kendi sunucunuzda kullanılabilir.  Ticari amaçlı olmayan kullanımlar için ücretsiz; ücretli paketler mevcuttur. |
-| [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Basitlik ve gizlilik odaklı harika analitikler. Paralı bir üründür, ücretsiz deneme sürümleri mevcuttur. |
-| [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Basit, kişisel gizililiğe önem veren analitikler ve olay takibi. Paralıdır (ücretsiz deneme sürümü mevcut). |
-| [Shynet](https://github.com/milesmcc/shynet)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/milesmcc/shynet) |  | Shynet kendi sunucunuzda barındırmanız gereken (self-hosted) ve çerez kullanmayan bir analitik aracıdır.  Gizlilik odaklıdır ve tamamen açık kaynak kodludur. @woutfeys'e teşekkürler |
-| [Supabase](https://supabase.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/supabase/supabase) |  | Supabase açık kaynak kodlu bir firebase alternatifidir.  Şu anda -alpha sürecinde olmalarından- ücretsiz hosting kullanabilirsiniz,  veya kendi sunucunuzda barındırabilirsiniz (self-hosting) ([kendi sunucunuzda barındırmanız hakkında](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). @woutfeys'e teşekkürler |
-| [GoAccess](https://goaccess.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/allinurl/goaccess) |  | Açık kaynak kodlu bir web analiz aracı.  Web sunucunuza kurulabilir (ideal olarak), ancak günlükleri (log) başka bir yere indirseniz de çalışır.  İnteraktif; raporu kurcalayarak neler olduğunu görebilirsiniz. HTML raporları da oluşturulabilir.  Sunucu modunda çalışıyorsa gerçek zamanlı interaktif HTML raporları da oluşturabilir. Hafiftir, sadece UTF-8 desteği ve ncurses'e (eğer UTF-8 destekli bir konsol istiyorsanız ncursesw) ihtiyaç duyar. Birçok linux distrosunda varsayılan paket depolarında (repo) bulunur. @virtadpt'ye teşekkürler. |
-| [Offen](https://www.offen.dev/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/offen/offen) |  | Açık kaynak kodludur ve kendi sunucunuzda barındırılır (self-hosted), Offen işleticilere ve kullanıcılara eşit değerlendiren uygun ve hafif bir web analitiği aracıdır. |
-| [Umami](https://umami.is/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mikecao/umami) |  | Bir basit, kolay kullanımlı, açık kaynak kodlu ve kendi sunucunuzda barındırılan (self hosted) bir web analitiği çözümü. |
-| [Kindmetrics](https://kindmetrics.io)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/kindmetrics) | **5/14-eyes** | Açık kaynak kodlu bir analitik aracı. Şirketin açılış sayfası İsveç'te, CDN'i Avrupa Birliğinde Sunucuları da Almanya'daki DigitalOcean (ABD Şirketi) veri merkezindedir (datacenter). |
-| [userTrack](https://www.usertrack.net/) |  | Kendi sunucunuzda barındırmanız gereken (self-hosted) bir Google Analyticcs alternatifi. Matomo'ya yakın fakat premium özellikleri daha uygun. Kullanıcı segmentleme (user segments), ısı haritaları, oturum kayıtları ve A/B testing'i destekler. |
-| [Piwik PRO](https://piwik.pro/) | **5-eyes** | Gizlilik ve veri koruması odaklı bir analitik paketi. |
-| [Panelbear](https://panelbear.com/) | **14-eyes** | Gizlilik odaklı analitik + web performansı denetleme. |
+| [Matomo](https://matomo.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/matomo-org/matomo) | **9/14-eyes** | (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik) |
+| [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
+| [Plausible](https://plausible.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/plausible/analytics) | **5-eyes** | Open-source, privacy-focused web analytics. |
+| [GoatCounter](https://www.goatcounter.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/zgoat/goatcounter) | **14-eyes** | Simple web statistics. No tracking of personal data. open-source and may be self-hosted. Free for non-commercial use; paid plans available. |
+| [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
+| [Alpina Web Analytics](https://alpina.io) | **5-eyes** | Simple, privacy-friendly analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Paid only (with free trial) |
+| [Shynet](https://github.com/milesmcc/shynet)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
+| [Supabase](https://supabase.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/supabase/supabase) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
+| [GoAccess](https://goaccess.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/allinurl/goaccess) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
+| [Offen](https://www.offen.dev/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/offen/offen) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
+| [Umami](https://umami.is/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mikecao/umami) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
+| [Kindmetrics](https://kindmetrics.io)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/kindmetrics) | **5/14-eyes** | An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
+| [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
+| [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
+| [Panelbear](https://panelbear.com/) | **14-eyes** | Privacy-focused analytics + web performance monitoring. |
 
 
 
@@ -303,6 +303,14 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 
 
 
+#### Public DNS
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [LibreDNS](https://libredns.gr/) | **14-eyes** | A public encrypted DNS service that people can use to maintain the secrecy of their DNS traffic, but also circumvent censorship. It already supports DNS over HTTPS & DNS over TLS. They also operate a number of [open-source projects](https://github.com/libreops/) |
+
+
+
 #### Drive
 
 | Ad | Eyes | Açıklama |
@@ -318,6 +326,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Cozy Cloud](https://cozy.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/cozy/cozy-stack) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted and is open-source. And it also offers a collaborative notes editor. |
 | [Mailfence Documents](https://www.mailfence.com) | **14-eyes** | Documents can be accessed using WebDAV or edited online. Users can drag and drop files in folders and categorize them with tags. |
 | [Filecloud Community Edition](https://www.getfilecloud.com/filecloud-community-edition/) |  | Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business. |
+| [Diode](https://diode.io/) |  | For individuals and organizations who want to safeguard their digital sovereignty. It is a high security, end-to-end encrypted solution for file sharing, collaboration, and backup that prioritizes security and confidentiality. |
 
 
 
@@ -337,7 +346,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | [Session](https://getsession.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/loki-project?type=source) |  | Open-source. It is an end-to-end encrypted messenger that removes sensitive metadata collection. No phone number required to create an account. |
 
 - *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
-- *I have also **removed** Telegram. See [Issue*
+- *I have also **removed** Telegram. See [Issue \#29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
 #### Gmail (e-posta hizmeti)
@@ -345,7 +354,7 @@ Katkıda bulunurken, **lütfen [CONTRIBUTING.md](https://github.com/tycrek/degoo
 | Ad | Eyes | Açıklama |
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/forwardemail) |  | A free and open-source email forwarding service focused on a user's right to privacy. |
-| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". **Privacy note:** Please see [Issue #258](https://github.com/tycrek/degoogle/issues/258) for info on ProtonMail privacy & integrity concerns. |
+| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". **Privacy note:** Please see [Issue \#258](https://github.com/tycrek/degoogle/issues/258) for info on ProtonMail privacy & integrity concerns. |
 | [Tutanota](https://tutanota.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/tutao/tutanota) | **14-eyes** | Open-source and one one of the top rated privacy-focused email providers. Located in Germany. |
 | [Posteo](https://posteo.de/en) | **14-eyes** | Almanya'da konumlanmış, tamamen anonim e-posta servisi. |
 | [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Ücretli e-posta sağlayıcısı, Almanya'da konumlanmıştır. |
@@ -462,13 +471,14 @@ No known alternatives.
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu ama telefonlar için. |
 | [LineageOS](https://www.lineageos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/lineageos) | **5-eyes** | Android tabanlı, açık kaynak ama ıvır zıvırın bulunmadığı bir  işletim sistemi. |
 | [SailfishOS](https://sailfishos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=sailfishos)](http://releases.sailfishos.org/sources) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
+| [CopperheadOS](https://copperhead.co/android/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/copperheadsec/os-src) | **5-eyes** | Secure Android built for encrypted and secure phones by a privacy focused company. Paid product that combines the best-in-class hardening and privacy protections from various projects. |
 | [GrapheneOS](https://grapheneos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. |
 | [postmarketOS](https://postmarketos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/postmarketOS) |  | Açık-kaynak mobil Linux işletim sistemi.  [Plasma Mobile](https://www.plasma-mobile.org/) gibi farklı kullanıcı arayüzleri de kurulabilmektedir.  @okias'a teşekkürler |
 | [Replicant](https://replicant.us/) | **5-eyes** | Ücretsiz Android dağıtımı. "özgürlük ve gizlilik/güvenlik"e önem vermektedir. |
 | [CalyxOS](https://calyxos.org/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/CalyxOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Provides good combination of privacy and security together with usability. Optional support for MicroG. |
 
-- *Bunun için ya bootloader'ı açık rootlu bir cihaza sahip olacaksınız ya da  hangi işletim sistemini kullanmak istediğinize bağlı bir cihaz satın alacaksınız.*
-- */e/ hakkındaki detaylara bakmak için lütfen Issue #55'e bakınız.*
+- *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
+- *Please see [Issue \#55](https://github.com/tycrek/degoogle/issues/55) for details on /e/.*
 
 
 #### Chrome OS
@@ -521,7 +531,7 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
+| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 
@@ -674,7 +684,7 @@ No known alternatives.
 | [K-9 Mail](https://k9mail.github.io/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.fsck.k9/) |  | F-Droid'den indirin. |
 | [FairEmail](https://email.faircode.eu/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/eu.faircode.email/) |  | F-Droid'den indirin. You can (optionally) pay a 1-time fee to unlock some premium features (and support the developer). |
 | [DeltaChat](https://delta.chat/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.b44t.messenger?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.b44t.messenger/) |  | An email app with a chat-based UI and privacy support with autocrypt. |
-| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
+| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts [Issue \#45](https://github.com/tycrek/degoogle/issues/45) |
 
 
 
@@ -749,6 +759,7 @@ No known alternatives.
 | [Aegis](https://getaegis.app/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/beemdevelopment/Aegis) |  | Open-source 2FA for Android. Available on F-Droid. |
 | [Authenticator](https://mattrubin.me/authenticator/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mattrubin/Authenticator) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
 | [Tofu](https://tofuauth.com)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/calleerlandsson/tofu) |  | **iOS** - Open-source 2FA for iOS. |
+| [Raivo OTP](https://github.com/raivo-otp)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/raivo-otp/ios-application) |  | **(iOS)** A native, lightweight and secure one-time-password (OTP) client built for iOS. |
 
 
 
@@ -882,10 +893,11 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
 ***Not: Buradaki çoğu makale İngilizcedir.***
 
-- [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
-- [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
-- [AlternativeTo](https://alternativeto.net/) - Yazılım için alternatif bulun. Bu rehberi hazırlamak için çok kullanıldı. Ayrıca [Switching.software](https://switching.software/) sitesini ziyaret edebilirsiniz. (@mynamesleon'a teşekkürler)
-- [Framasoft](https://framasoft.org/en/) - Birçok yazılımlar ve alternatifler. Bu listeye sığamayacak kadar çok fazla. Ayrıca [bu linki](https://degooglisons-internet.org/en/) ziyaret edin. (@NicolasPA'a teşekkürler)
+- [Privacy Tools](https://www.privacytools.io/) (thanks u/yieldingTemporarily)
+- [ethical.net](https://ethical.net/) (thanks u/yieldingTemporarily)
+- [Go FOSS](https://www.gofoss.today/) - Another guide on ditching big-tech, with a focus on seven core areas.
+- [AlternativeTo](https://alternativeto.net/) - Find alternatives for software. Used extensively to build this guide. Also check out [Switching.software](https://switching.software/) (thanks @mynamesleon)
+- [Framasoft](https://framasoft.org/en/) - Lots of alternatives and software. Too many to fit into the list. Also check out [this link](https://degooglisons-internet.org/en/). Thanks @NicolasPA
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
 - [r/VPN](https://old.reddit.com/r/VPN/) - Neden VPN kullanmanız gerektiğini hakkında öğrenmek için kenar çubuğunu ve [wiki'yi](https://old.reddit.com/r/VPN/wiki/index) okuyun. Kendim [Mullvad](https://mullvad.net) kullanırım ama önce kendi araştırmanızı yapmanıza tavsiye ederim.
 - [Hatırlayabileceğiniz Şifreleri Oluşturabilmek İçin 4 Yöntem](https://outline.com/XuMTFA)

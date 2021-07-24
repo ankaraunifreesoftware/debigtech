@@ -12,10 +12,15 @@ web based products:
       eyes: 9
       text: >
         Verilerinize iz sürmediğini iddia eden başka bir arama motoru. 
-        Sunucularını hem Amerika Birleşik Devletleri'nde hem Avrupa'da işletiyorlar. Not: Startpage geçtiğimiz zamanlarda satın alındı. [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) @danarel tarafından yazılan yoruma da bakın.
+        Sunucularını hem Amerika Birleşik Devletleri'nde hem Avrupa'da işletiyorlar. 
+        Not: Startpage geçtiğimiz zamanlarda satın alındı. 
+        [Issue #12'ye](https://github.com/tycrek/degoogle/issues/12) göz atın. 
+        @pydo, @ThijsRay, ve @DatAres37'e teşekkürler. 
+        Ayrıca Startpage hakkında [Issue #99'daki](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) 
+        @danarel tarafından yazılan yoruma da bakın.
     - name: searx.me
-      url: https://searx.me/
-      repo: https://github.com/asciimoo/searx
+      url: https://searx.space/
+      repo: https://github.com/searx/searx
       eyes: null
       text: >
         Açık-kaynak (açıklama için u/Sheezdudeln'e teşekkürler) gizliliğe önem veren bir arama motoru. 
@@ -336,12 +341,12 @@ web based products:
       url: https://simpleanalytics.com/
       eyes: 9
       text: >
-        Basitlik ve gizlilik odaklı harika analitikler. Paralı bir üründür, ücretsiz deneme sürümleri mevcuttur.
-    - name: Toasted Analytics
-      url: https://toastedanalytics.com/
+        Great analytics with privacy and simplicity in mind. Paid plans only (with free trials).
+    - name: Alpina Web Analytics
+      url: https://alpina.io
       eyes: 5
       text: >
-        Basit, kişisel gizililiğe önem veren analitikler ve olay takibi. Paralıdır (ücretsiz deneme sürümü mevcut).
+        Simple, privacy-friendly analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Paid only (with free trial)
     - name: Shynet
       url: https://github.com/milesmcc/shynet
       repo: https://github.com/milesmcc/shynet
@@ -455,6 +460,12 @@ web based products:
       eyes: null
       text: >
         Mozilla Vakfı tarafından geliştirilmiştir ve açık kaynak kodludur. Thunderbird ve SeaMonkey ile entegre çalışır
+    - name: ProtonCalendar
+      url: https://calendar.protonmail.com/
+      eyes: null
+      text: >
+        Developed by ProtonMail. Free plan only supports 1 calendar. Allows importing of other
+        calendar files. Has an Android app.
     - name: Tutanota Calendar
       url: https://tutanota.com/calendar/
       eyes: 14
@@ -597,6 +608,15 @@ web based products:
       text: >
         An Iceland-based freedom of speech web hosting provider. They never actually ask for your name,
         at least when you pay in Bitcoin.
+  dns:
+    - title: Public DNS
+    - name: LibreDNS
+      url: https://libredns.gr/
+      eyes: 14
+      text: >
+        A public encrypted DNS service that people can use to maintain the secrecy of their DNS traffic,
+        but also circumvent censorship. It already supports DNS over HTTPS & DNS over TLS. They also operate
+        a number of [open-source projects](https://github.com/libreops/)
   drive:
     - title: Drive
     - name: ownCloud
@@ -663,13 +683,20 @@ web based products:
       eyes: null
       text: >
         Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.
+    - name: Diode
+      url: https://diode.io/
+      eyes: null
+      text: >
+        For individuals and organizations who want to safeguard their digital sovereignty. It is a high
+        security, end-to-end encrypted solution for file sharing, collaboration, and backup that prioritizes
+        security and confidentiality.
   hangouts:
     - title: Hangouts (yazı/video mesajlaşma)
     - notes:
         - >
           See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you
           should NOT use it (if someone has a better Outline link, that would be much appreciated).
-        - I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
+        - I have also **removed** Telegram. See [Issue \#29](https://github.com/tycrek/degoogle/issues/29) from @arsv.
     - name: Signal
       url: https://signal.org/
       repo: https://github.com/signalapp
@@ -756,7 +783,7 @@ web based products:
       text: >
         One of the top privacy-focused email providers. Servers are in Switzerland in an underground
         guarded bunker that they claim can "survive a nuclear attack".
-        **Privacy note:** Please see [Issue #258](https://github.com/tycrek/degoogle/issues/258) for
+        **Privacy note:** Please see [Issue \#258](https://github.com/tycrek/degoogle/issues/258) for
         info on ProtonMail privacy & integrity concerns.
     - name: Tutanota
       url: https://tutanota.com/
@@ -1075,6 +1102,13 @@ operating systems:
       text: >
         Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on
         top of an open-source Mer GNU/Linux base.
+    - name: CopperheadOS
+      url: https://copperhead.co/android/
+      repo: https://gitlab.com/copperheadsec/os-src
+      eyes: 5
+      text: >
+        Secure Android built for encrypted and secure phones by a privacy focused company. Paid product that
+        combines the best-in-class hardening and privacy protections from various projects.
     - name: GrapheneOS
       url: https://grapheneos.org/
       repo: https://github.com/GrapheneOS
@@ -1209,7 +1243,7 @@ desktop applications:
         off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release.
         Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active
         development. Looks very clean and fast. Android versions are in the works too.
-        **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now
+        **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
         [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
     - name: Vivaldi
       url: https://vivaldi.com/
@@ -1629,7 +1663,7 @@ mobile applications:
       url: https://mailbox.org/
       eyes: 14
       text: >
-        Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45
+        Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts [Issue \#45](https://github.com/tycrek/degoogle/issues/45)
   keep:
     - title: Keep (ya da herhangi bir stok not uygulaması)
     - name: Notepad
@@ -1824,6 +1858,12 @@ mobile applications:
       eyes: null
       text: >
         **iOS** - Open-source 2FA for iOS.
+    - name: Raivo OTP
+      url: https://github.com/raivo-otp
+      repo: https://github.com/raivo-otp/ios-application
+      eyes: null
+      text: >
+        **(iOS)** A native, lightweight and secure one-time-password (OTP) client built for iOS.
   play music movies tv:
     - title: Play Müzik/Play TV
     - name: Audinaut

@@ -46,7 +46,6 @@ GitHub:
 - [@compressstudio](https://github.com/compressstudio)
 - [@PalmoliveDev](https://github.com/PalmoliveDev)
 - [@mahdi1234](https://github.com/mahdi1234)
-- [@codingepaduli](https://github.com/codingepaduli)
 - [@kdkasad](https://github.com/kdkasad)
 - [@resto1231](https://githgithub.com/resto1231)
 - [@kdrag0n](https://github.com/kdrag0n)
@@ -71,6 +70,8 @@ GitHub:
 - [@anthonynsimon](https://github.com/anthonynsimon)
 - [@timbuening](https://github.com/timbuening)
 - [@infectormp](https://github.com/infectormp)
+- [@vivekmiyani](https://github.com/vivekmiyani)
+- [@evrifaessa](https://github.com/evrifaessa)
 
 Reddit:
 

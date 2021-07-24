@@ -6,6 +6,7 @@ Gizlilik Büyücüsü olmak için ihtiyacınız olan her şey.
 
 - [Privacy Tools](https://www.privacytools.io/) (u/yieldingTemporarily'e teşekkürler)
 - [ethical.net](https://ethical.net/) (u/yieldingTemporarily'e teşekkürler)
+- [Go FOSS](https://www.gofoss.today/) - Another guide on ditching big-tech, with a focus on seven core areas.
 - [AlternativeTo](https://alternativeto.net/) - Yazılım için alternatif bulun. Bu rehberi hazırlamak için çok kullanıldı. Ayrıca [Switching.software](https://switching.software/) sitesini ziyaret edebilirsiniz. (@mynamesleon'a teşekkürler)
 - [Framasoft](https://framasoft.org/en/) - Birçok yazılımlar ve alternatifler. Bu listeye sığamayacak kadar çok fazla. Ayrıca [bu linki](https://degooglisons-internet.org/en/) ziyaret edin. (@NicolasPA'a teşekkürler)
 - [r/Privacy wiki](https://old.reddit.com/r/privacy/wiki/index)
