@@ -34,16 +34,17 @@
 
 
 
-# Cutting Google out of your life
+# Cutting _Big Tech_ out of your life
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=November%2022,%202023&color=388E3C&style=flat-square)
+
+![Updated](https://img.shields.io/static/v1?label=updated&message=May%2007,%202025&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
-![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/tycrek/degoogle?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ankaraunifreesoftware/debigtech?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/ankaraunifreesoftware/debigtech?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ankaraunifreesoftware/debigtech?style=flat-square)
 
 
 # Index
