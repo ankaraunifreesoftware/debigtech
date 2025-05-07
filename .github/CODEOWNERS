@@ -1,15 +1,15 @@
 # Protect build scripts
-*.js	@tycrek
+*.js	@melikechan
 
 # Protect NPM files
-*.json	@tycrek
+*.json	@melikechan
 
 # Protect MIRRORS.md
-/MIRRORS.md	@tycrek
+/MIRRORS.md	@melikechan
 
 # Protect .github & others
-/.github/	@tycrek
-/.gitattributes @tycrek
+/.github/	@melikechan
+/.gitattributes @melikechan
 
 # Protect README.md (restricted to degoogle-bot)
 /README.md	@degoogle-bot
