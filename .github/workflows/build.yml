@@ -9,6 +9,7 @@ on:
       - src/md/**/*.md
       - src/_build.js
       - src/_wiki.js
+  workflow_dispatch:
 
 jobs:
   build:
