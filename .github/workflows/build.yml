@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - tr-translation
     paths: # Only build if these files were modified
       - src/yaml/**/*.yml
       - src/md/**/*.md
