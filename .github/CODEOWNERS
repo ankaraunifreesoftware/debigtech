@@ -11,5 +11,5 @@
 /.github/	@melikechan
 /.gitattributes @melikechan
 
-# Protect README.md (restricted to degoogle-bot)
-/README.md	@degoogle-bot
+# Protect README.md (restricted to the bot, will fix it later)
+# /README.md	@degoogle-bot
